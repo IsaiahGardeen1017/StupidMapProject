@@ -3,6 +3,8 @@ import type {
   MapData,
   Participant,
   ProjectedPoint,
+  ProvinceGeometry,
+  ProvincePolygon,
   ProvinceId,
   ProvinceOwnerRecord
 } from "../DataTypes";
@@ -79,4 +81,19 @@ export function getPolygonPath(points: ProjectedPoint[]): Path2D {
   path.closePath();
 
   return path;
+}
+
+export function getProvincePolygons(
+  geometry: ProvinceGeometry
+): ProvincePolygon[] {
+  if (geometry.polygons && geometry.polygons.length > 0) {
+    return geometry.polygons;
+  }
+
+  return [
+    {
+      exteriorRing: geometry.exteriorRing,
+      holes: geometry.holes
+    }
+  ];
 }
