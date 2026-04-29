@@ -1,0 +1,48 @@
+{
+  "id": "napoleon-prototype",
+  "title": "Napoleonic Prototype",
+  "startDate": "1805-09-01",
+  "endDate": "1806-01-15",
+  "projection": {
+    "id": "europe-lcc",
+    "label": "Europe Lambert Conformal Conic",
+    "projection": {
+      "kind": "lambert-conformal-conic",
+      "centralMeridian": 10,
+      "latitudeOfOrigin": 52,
+      "standardParallel1": 43,
+      "standardParallel2": 62
+    },
+    "bounds": {
+      "minLongitude": -12,
+      "minLatitude": 35,
+      "maxLongitude": 35,
+      "maxLatitude": 62
+    },
+    "width": 1200,
+    "height": 900,
+    "padding": 40
+  },
+  "participants": {
+    "france": {
+      "id": "france",
+      "name": "French Empire",
+      "color": "#5d7bb8"
+    },
+    "austria": {
+      "id": "austria",
+      "name": "Austrian Empire",
+      "color": "#d1c099"
+    },
+    "bavaria": {
+      "id": "bavaria",
+      "name": "Bavaria",
+      "color": "#8fb56d"
+    }
+  },
+  "provinces": [],
+  "settlements": [],
+  "battles": [],
+  "events": [],
+  "sourceLinks": []
+}

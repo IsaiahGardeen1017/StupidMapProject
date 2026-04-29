@@ -1,0 +1,1 @@
+{"root":["./vite.config.ts","./tools/convert-province-bitmap.ts","./tools/download-basemap.ts","./tools/download-settlements.ts","./tools/render-basemap-overlay.ts","./tools/render-settlement-overlay.ts","./tools/types.d.ts","./tools/lib/mappipeline.ts","./tools/lib/nodeutils.ts"],"version":"5.9.3"}

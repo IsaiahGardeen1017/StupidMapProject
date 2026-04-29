@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "745044",
+    "name": "Istanbul",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 28.94966,
+      "latitude": 41.01384
+    },
+    "population": 15701602
+  },
+  {
+    "id": "2643743",
+    "name": "London",
+    "countryCode": "GB",
+    "coordinates": {
+      "longitude": -0.12574,
+      "latitude": 51.50853
+    },
+    "population": 8961989
+  },
+  {
+    "id": "498817",
+    "name": "Saint Petersburg",
+    "countryCode": "RU",
+    "coordinates": {
+      "longitude": 30.31413,
+      "latitude": 59.93863
+    },
+    "population": 5351935
+  },
+  {
+    "id": "323786",
+    "name": "Ankara",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 32.85427,
+      "latitude": 39.91987
+    },
+    "population": 3517182
+  },
+  {
+    "id": "2950159",
+    "name": "Berlin",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 13.41053,
+      "latitude": 52.52437
+    },
+    "population": 3426354
+  },
+  {
+    "id": "3117735",
+    "name": "Madrid",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -3.70256,
+      "latitude": 40.4165
+    },
+    "population": 3255944
+  },
+  {
+    "id": "703448",
+    "name": "Kyiv",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 30.5238,
+      "latitude": 50.45466
+    },
+    "population": 2952301
+  },
+  {
+    "id": "2507480",
+    "name": "Algiers",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 3.08746,
+      "latitude": 36.73225
+    },
+    "population": 2364230
+  },
+  {
+    "id": "3169070",
+    "name": "Rome",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 12.51133,
+      "latitude": 41.89193
+    },
+    "population": 2318895
+  },
+  {
+    "id": "2988507",
+    "name": "Paris",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": 2.3488,
+      "latitude": 48.85341
+    },
+    "population": 2138551
+  },
+  {
+    "id": "750269",
+    "name": "Bursa",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 29.06013,
+      "latitude": 40.19559
+    },
+    "population": 3101833
+  },
+  {
+    "id": "311046",
+    "name": "Izmir",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 27.13838,
+      "latitude": 38.41273
+    },
+    "population": 2938292
+  },
+  {
+    "id": "683506",
+    "name": "Bucharest",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 26.10626,
+      "latitude": 44.43225
+    },
+    "population": 1877155
+  },
+  {
+    "id": "625144",
+    "name": "Minsk",
+    "countryCode": "BY",
+    "coordinates": {
+      "longitude": 27.56653,
+      "latitude": 53.90019
+    },
+    "population": 1742124
+  },
+  {
+    "id": "3054643",
+    "name": "Budapest",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 19.04045,
+      "latitude": 47.49835
+    },
+    "population": 1741041
+  },
+  {
+    "id": "756135",
+    "name": "Warsaw",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 21.01178,
+      "latitude": 52.22977
+    },
+    "population": 1702139
+  },
+  {
+    "id": "2761369",
+    "name": "Vienna",
+    "countryCode": "AT",
+    "coordinates": {
+      "longitude": 16.37208,
+      "latitude": 48.20849
+    },
+    "population": 1691468
+  },
+  {
+    "id": "2673730",
+    "name": "Stockholm",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 18.06871,
+      "latitude": 59.32938
+    },
+    "population": 1515017
+  },
+  {
+    "id": "792680",
+    "name": "Belgrade",
+    "countryCode": "RS",
+    "coordinates": {
+      "longitude": 20.46513,
+      "latitude": 44.80401
+    },
+    "population": 1273651
+  },
+  {
+    "id": "3067696",
+    "name": "Prague",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 14.42076,
+      "latitude": 50.08804
+    },
+    "population": 1165581
+  },
+  {
+    "id": "2618425",
+    "name": "Copenhagen",
+    "countryCode": "DK",
+    "coordinates": {
+      "longitude": 12.56553,
+      "latitude": 55.67594
+    },
+    "population": 1153615
+  },
+  {
+    "id": "727011",
+    "name": "Sofia",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 23.32415,
+      "latitude": 42.69751
+    },
+    "population": 1152556
+  },
+  {
+    "id": "3143244",
+    "name": "Oslo",
+    "countryCode": "NO",
+    "coordinates": {
+      "longitude": 10.74609,
+      "latitude": 59.91273
+    },
+    "population": 1082575
+  },
+  {
+    "id": "2964574",
+    "name": "Dublin",
+    "countryCode": "IE",
+    "coordinates": {
+      "longitude": -6.24889,
+      "latitude": 53.33306
+    },
+    "population": 1024027
+  },
+  {
+    "id": "2800866",
+    "name": "Brussels",
+    "countryCode": "BE",
+    "coordinates": {
+      "longitude": 4.34878,
+      "latitude": 50.85045
+    },
+    "population": 1019022
+  },
+  {
+    "id": "2911298",
+    "name": "Hamburg",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 9.99302,
+      "latitude": 53.55073
+    },
+    "population": 1845229
+  },
+  {
+    "id": "456172",
+    "name": "Riga",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 24.10589,
+      "latitude": 56.946
+    },
+    "population": 742572
+  },
+  {
+    "id": "2759794",
+    "name": "Amsterdam",
+    "countryCode": "NL",
+    "coordinates": {
+      "longitude": 4.88969,
+      "latitude": 52.37403
+    },
+    "population": 741636
+  },
+  {
+    "id": "3191281",
+    "name": "Sarajevo",
+    "countryCode": "BA",
+    "coordinates": {
+      "longitude": 18.35644,
+      "latitude": 43.84864
+    },
+    "population": 696731
+  },
+  {
+    "id": "2464470",
+    "name": "Tunis",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 10.16579,
+      "latitude": 36.81897
+    },
+    "population": 693210
+  },
+  {
+    "id": "3128760",
+    "name": "Barcelona",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": 2.15899,
+      "latitude": 41.38879
+    },
+    "population": 1686208
+  },
+  {
+    "id": "264371",
+    "name": "Athens",
+    "countryCode": "GR",
+    "coordinates": {
+      "longitude": 23.72784,
+      "latitude": 37.98376
+    },
+    "population": 664046
+  },
+  {
+    "id": "3186886",
+    "name": "Zagreb",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 15.97798,
+      "latitude": 45.81444
+    },
+    "population": 663592
+  },
+  {
+    "id": "658225",
+    "name": "Helsinki",
+    "countryCode": "FI",
+    "coordinates": {
+      "longitude": 24.93545,
+      "latitude": 60.16952
+    },
+    "population": 658864
+  },
+  {
+    "id": "618426",
+    "name": "Chisinau",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 28.85938,
+      "latitude": 47.00902
+    },
+    "population": 635994
+  },
+  {
+    "id": "786714",
+    "name": "Pristina",
+    "countryCode": "XK",
+    "coordinates": {
+      "longitude": 21.16688,
+      "latitude": 42.67272
+    },
+    "population": 550000
+  },
+  {
+    "id": "593116",
+    "name": "Vilnius",
+    "countryCode": "LT",
+    "coordinates": {
+      "longitude": 25.2798,
+      "latitude": 54.68916
+    },
+    "population": 542366
+  },
+  {
+    "id": "2267057",
+    "name": "Lisbon",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -9.1498,
+      "latitude": 38.72509
+    },
+    "population": 517802
+  },
+  {
+    "id": "785842",
+    "name": "Skopje",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 21.43141,
+      "latitude": 41.99646
+    },
+    "population": 474889
+  },
+  {
+    "id": "306571",
+    "name": "Konya",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 32.48464,
+      "latitude": 37.87135
+    },
+    "population": 1433861
+  },
+  {
+    "id": "3060972",
+    "name": "Bratislava",
+    "countryCode": "SK",
+    "coordinates": {
+      "longitude": 17.10674,
+      "latitude": 48.14816
+    },
+    "population": 423737
+  },
+  {
+    "id": "3183875",
+    "name": "Tirana",
+    "countryCode": "AL",
+    "coordinates": {
+      "longitude": 19.81866,
+      "latitude": 41.32744
+    },
+    "population": 418495
+  },
+  {
+    "id": "588409",
+    "name": "Tallinn",
+    "countryCode": "EE",
+    "coordinates": {
+      "longitude": 24.75353,
+      "latitude": 59.43696
+    },
+    "population": 394024
+  },
+  {
+    "id": "3173435",
+    "name": "Milan",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 9.18951,
+      "latitude": 45.46427
+    },
+    "population": 1371498
+  },
+  {
+    "id": "323777",
+    "name": "Antalya",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 30.69556,
+      "latitude": 36.90812
+    },
+    "population": 1335002
+  },
+  {
+    "id": "3196359",
+    "name": "Ljubljana",
+    "countryCode": "SI",
+    "coordinates": {
+      "longitude": 14.50513,
+      "latitude": 46.05108
+    },
+    "population": 272220
+  },
+  {
+    "id": "2867714",
+    "name": "Munich",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 11.57549,
+      "latitude": 48.13743
+    },
+    "population": 1260391
+  },
+  {
+    "id": "3193044",
+    "name": "Podgorica",
+    "countryCode": "ME",
+    "coordinates": {
+      "longitude": 19.26309,
+      "latitude": 42.44124
+    },
+    "population": 236852
+  },
+  {
+    "id": "146268",
+    "name": "Nicosia",
+    "countryCode": "CY",
+    "coordinates": {
+      "longitude": 33.35397,
+      "latitude": 35.17284
+    },
+    "population": 200452
+  },
+  {
+    "id": "2661552",
+    "name": "Bern",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 7.44744,
+      "latitude": 46.94809
+    },
+    "population": 121631
+  },
+  {
+    "id": "2960316",
+    "name": "Luxembourg",
+    "countryCode": "LU",
+    "coordinates": {
+      "longitude": 6.13268,
+      "latitude": 49.60982
+    },
+    "population": 76684
+  },
+  {
+    "id": "2530335",
+    "name": "Tangier",
+    "countryCode": "MA",
+    "coordinates": {
+      "longitude": -5.79975,
+      "latitude": 35.76727
+    },
+    "population": 1035141
+  },
+  {
+    "id": "2993458",
+    "name": "Monaco",
+    "countryCode": "MC",
+    "coordinates": {
+      "longitude": 7.42145,
+      "latitude": 43.73718
+    },
+    "population": 32965
+  },
+  {
+    "id": "3042091",
+    "name": "Saint Helier",
+    "countryCode": "JE",
+    "coordinates": {
+      "longitude": -2.10491,
+      "latitude": 49.18804
+    },
+    "population": 28000
+  },
+  {
+    "id": "2411585",
+    "name": "Gibraltar",
+    "countryCode": "GI",
+    "coordinates": {
+      "longitude": -5.35257,
+      "latitude": 36.14474
+    },
+    "population": 26544
+  },
+  {
+    "id": "3042237",
+    "name": "Douglas",
+    "countryCode": "IM",
+    "coordinates": {
+      "longitude": -4.48333,
+      "latitude": 54.15
+    },
+    "population": 26218
+  },
+  {
+    "id": "3041563",
+    "name": "Andorra la Vella",
+    "countryCode": "AD",
+    "coordinates": {
+      "longitude": 1.52109,
+      "latitude": 42.50779
+    },
+    "population": 20430
+  },
+  {
+    "id": "3042287",
+    "name": "Saint Peter Port",
+    "countryCode": "GG",
+    "coordinates": {
+      "longitude": -2.53527,
+      "latitude": 49.45981
+    },
+    "population": 16488
+  },
+  {
+    "id": "3041732",
+    "name": "Mariehamn",
+    "countryCode": "AX",
+    "coordinates": {
+      "longitude": 19.93481,
+      "latitude": 60.09726
+    },
+    "population": 10682
+  },
+  {
+    "id": "698740",
+    "name": "Odesa",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 30.74383,
+      "latitude": 46.48572
+    },
+    "population": 1010537
+  },
+  {
+    "id": "2562305",
+    "name": "Valletta",
+    "countryCode": "MT",
+    "coordinates": {
+      "longitude": 14.5148,
+      "latitude": 35.89968
+    },
+    "population": 6794
+  },
+  {
+    "id": "3042030",
+    "name": "Vaduz",
+    "countryCode": "LI",
+    "coordinates": {
+      "longitude": 9.52154,
+      "latitude": 47.14151
+    },
+    "population": 5197
+  },
+  {
+    "id": "3168070",
+    "name": "San Marino",
+    "countryCode": "SM",
+    "coordinates": {
+      "longitude": 12.44639,
+      "latitude": 43.93667
+    },
+    "population": 4500
+  },
+  {
+    "id": "6691831",
+    "name": "Vatican City",
+    "countryCode": "VA",
+    "coordinates": {
+      "longitude": 12.45414,
+      "latitude": 41.90268
+    },
+    "population": 829
+  },
+  {
+    "id": "315202",
+    "name": "Eskisehir",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 30.52056,
+      "latitude": 39.77667
+    },
+    "population": 921630
+  },
+  {
+    "id": "3172394",
+    "name": "Naples",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 14.26811,
+      "latitude": 40.85216
+    },
+    "population": 909048
+  },
+  {
+    "id": "2995469",
+    "name": "Marseille",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": 5.38107,
+      "latitude": 43.29695
+    },
+    "population": 877215
+  },
+  {
+    "id": "3165524",
+    "name": "Turin",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 7.68682,
+      "latitude": 45.07049
+    },
+    "population": 847287
+  },
+  {
+    "id": "2509954",
+    "name": "Valencia",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -0.37966,
+      "latitude": 39.47391
+    },
+    "population": 824340
+  },
+  {
+    "id": "3094802",
+    "name": "Krakow",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 19.93658,
+      "latitude": 50.06143
+    },
+    "population": 804237
+  },
+  {
+    "id": "2485926",
+    "name": "Oran",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": -0.63588,
+      "latitude": 35.69906
+    },
+    "population": 803329
+  },
+  {
+    "id": "702550",
+    "name": "Lviv",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 24.02324,
+      "latitude": 49.83826
+    },
+    "population": 717273
+  },
+  {
+    "id": "3104324",
+    "name": "Zaragoza",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -0.87734,
+      "latitude": 41.65606
+    },
+    "population": 686986
+  },
+  {
+    "id": "2510911",
+    "name": "Sevilla",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -5.97317,
+      "latitude": 37.38283
+    },
+    "population": 686741
+  },
+  {
+    "id": "3081368",
+    "name": "Wroclaw",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 17.03006,
+      "latitude": 51.10286
+    },
+    "population": 672545
+  },
+  {
+    "id": "2523920",
+    "name": "Palermo",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 13.3636,
+      "latitude": 38.1166
+    },
+    "population": 648260
+  },
+  {
+    "id": "3093133",
+    "name": "Lodz",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 19.47395,
+      "latitude": 51.77058
+    },
+    "population": 645693
+  },
+  {
+    "id": "2825297",
+    "name": "Stuttgart",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 9.17702,
+      "latitude": 48.78232
+    },
+    "population": 630305
+  },
+  {
+    "id": "2934246",
+    "name": "Duesseldorf",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 6.77927,
+      "latitude": 51.22319
+    },
+    "population": 620523
+  },
+  {
+    "id": "2711537",
+    "name": "Goeteborg",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 11.96679,
+      "latitude": 57.70716
+    },
+    "population": 608462
+  },
+  {
+    "id": "3176219",
+    "name": "Genoa",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 8.94439,
+      "latitude": 44.40478
+    },
+    "population": 580097
+  },
+  {
+    "id": "2935022",
+    "name": "Dresden",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 13.73832,
+      "latitude": 51.05089
+    },
+    "population": 556227
+  },
+  {
+    "id": "694423",
+    "name": "Sevastopol",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 33.52134,
+      "latitude": 44.60795
+    },
+    "population": 547820
+  },
+  {
+    "id": "2944388",
+    "name": "Bremen",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 8.80717,
+      "latitude": 53.07582
+    },
+    "population": 546501
+  },
+  {
+    "id": "304531",
+    "name": "Mersin",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 34.63886,
+      "latitude": 36.81196
+    },
+    "population": 537842
+  },
+  {
+    "id": "3088171",
+    "name": "Poznan",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 16.92993,
+      "latitude": 52.40692
+    },
+    "population": 536151
+  },
+  {
+    "id": "2996944",
+    "name": "Lyon",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": 4.84789,
+      "latitude": 45.74906
+    },
+    "population": 520774
+  },
+  {
+    "id": "2910831",
+    "name": "Hannover",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 9.73322,
+      "latitude": 52.37052
+    },
+    "population": 515140
+  },
+  {
+    "id": "2650225",
+    "name": "Edinburgh",
+    "countryCode": "GB",
+    "coordinates": {
+      "longitude": -3.19648,
+      "latitude": 55.95206
+    },
+    "population": 514990
+  },
+  {
+    "id": "2972315",
+    "name": "Toulouse",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": 1.44367,
+      "latitude": 43.60426
+    },
+    "population": 511684
+  },
+  {
+    "id": "627907",
+    "name": "Homyel'",
+    "countryCode": "BY",
+    "coordinates": {
+      "longitude": 30.9754,
+      "latitude": 52.4345
+    },
+    "population": 501102
+  },
+  {
+    "id": "3099434",
+    "name": "Gdansk",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 18.64912,
+      "latitude": 54.35227
+    },
+    "population": 487371
+  },
+  {
+    "id": "554234",
+    "name": "Kaliningrad",
+    "countryCode": "RU",
+    "coordinates": {
+      "longitude": 20.51102,
+      "latitude": 54.70639
+    },
+    "population": 475056
+  },
+  {
+    "id": "2513416",
+    "name": "Murcia",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -1.13004,
+      "latitude": 37.98704
+    },
+    "population": 471982
+  },
+  {
+    "id": "700569",
+    "name": "Mykolayiv",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 31.99296,
+      "latitude": 46.97625
+    },
+    "population": 470011
+  },
+  {
+    "id": "2501152",
+    "name": "Constantine",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 6.61472,
+      "latitude": 36.365
+    },
+    "population": 448028
+  },
+  {
+    "id": "2512989",
+    "name": "Palma",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": 2.65024,
+      "latitude": 39.56939
+    },
+    "population": 438234
+  },
+  {
+    "id": "689558",
+    "name": "Vinnytsya",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 28.46871,
+      "latitude": 49.2322
+    },
+    "population": 430091
+  },
+  {
+    "id": "571476",
+    "name": "Bryansk",
+    "countryCode": "RU",
+    "coordinates": {
+      "longitude": 34.32143,
+      "latitude": 53.27096
+    },
+    "population": 427236
+  },
+  {
+    "id": "2657896",
+    "name": "Zuerich",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 8.55,
+      "latitude": 47.36667
+    },
+    "population": 415367
+  },
+  {
+    "id": "3083829",
+    "name": "Szczecin",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 14.55302,
+      "latitude": 53.42894
+    },
+    "population": 395513
+  },
+  {
+    "id": "3181928",
+    "name": "Bologna",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 11.33875,
+      "latitude": 44.49381
+    },
+    "population": 394843
+  },
+  {
+    "id": "3078610",
+    "name": "Brno",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 16.60796,
+      "latitude": 49.19522
+    },
+    "population": 379466
+  },
+  {
+    "id": "675810",
+    "name": "Iasi",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 27.6,
+      "latitude": 47.16667
+    },
+    "population": 378954
+  },
+  {
+    "id": "2745912",
+    "name": "Utrecht",
+    "countryCode": "NL",
+    "coordinates": {
+      "longitude": 5.12222,
+      "latitude": 52.09083
+    },
+    "population": 376435
+  },
+  {
+    "id": "2653822",
+    "name": "Cardiff",
+    "countryCode": "GB",
+    "coordinates": {
+      "longitude": -3.18,
+      "latitude": 51.48
+    },
+    "population": 372089
+  },
+  {
+    "id": "298299",
+    "name": "Usak",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 29.4058,
+      "latitude": 38.67351
+    },
+    "population": 369433
+  },
+  {
+    "id": "3176959",
+    "name": "Florence",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 11.24626,
+      "latitude": 43.77925
+    },
+    "population": 367150
+  },
+  {
+    "id": "2692969",
+    "name": "Malmoe",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 13.00073,
+      "latitude": 55.60587
+    },
+    "population": 362133
+  },
+  {
+    "id": "627904",
+    "name": "Hrodna",
+    "countryCode": "BY",
+    "coordinates": {
+      "longitude": 23.82887,
+      "latitude": 53.6758
+    },
+    "population": 361115
+  },
+  {
+    "id": "620127",
+    "name": "Vitebsk",
+    "countryCode": "BY",
+    "coordinates": {
+      "longitude": 30.2049,
+      "latitude": 55.1904
+    },
+    "population": 358395
+  },
+  {
+    "id": "625665",
+    "name": "Mahilyow",
+    "countryCode": "BY",
+    "coordinates": {
+      "longitude": 30.34044,
+      "latitude": 53.90876
+    },
+    "population": 353110
+  },
+  {
+    "id": "2655984",
+    "name": "Belfast",
+    "countryCode": "GB",
+    "coordinates": {
+      "longitude": -5.92541,
+      "latitude": 54.59682
+    },
+    "population": 348005
+  },
+  {
+    "id": "629634",
+    "name": "Brest",
+    "countryCode": "BY",
+    "coordinates": {
+      "longitude": 23.71749,
+      "latitude": 52.10894
+    },
+    "population": 344470
+  },
+  {
+    "id": "2506999",
+    "name": "Annaba",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 7.76667,
+      "latitude": 36.9
+    },
+    "population": 342703
+  },
+  {
+    "id": "765876",
+    "name": "Lublin",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 22.57009,
+      "latitude": 51.25058
+    },
+    "population": 336339
+  },
+  {
+    "id": "2503769",
+    "name": "Blida",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 2.8277,
+      "latitude": 36.47004
+    },
+    "population": 331779
+  },
+  {
+    "id": "3102014",
+    "name": "Bydgoszcz",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 18.00762,
+      "latitude": 53.1235
+    },
+    "population": 330038
+  },
+  {
+    "id": "491687",
+    "name": "Smolensk",
+    "countryCode": "RU",
+    "coordinates": {
+      "longitude": 32.05088,
+      "latitude": 54.77826
+    },
+    "population": 330025
+  },
+  {
+    "id": "728193",
+    "name": "Plovdiv",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 24.75001,
+      "latitude": 42.15387
+    },
+    "population": 329489
+  },
+  {
+    "id": "324496",
+    "name": "Aksaray",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 34.02537,
+      "latitude": 38.37255
+    },
+    "population": 327575
+  },
+  {
+    "id": "2990969",
+    "name": "Nantes",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": -1.55336,
+      "latitude": 47.21725
+    },
+    "population": 325070
+  },
+  {
+    "id": "726050",
+    "name": "Varna",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 27.91024,
+      "latitude": 43.21912
+    },
+    "population": 318737
+  },
+  {
+    "id": "680963",
+    "name": "Constanta",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 28.63432,
+      "latitude": 44.18073
+    },
+    "population": 317832
+  },
+  {
+    "id": "734077",
+    "name": "Thessaloniki",
+    "countryCode": "GR",
+    "coordinates": {
+      "longitude": 22.93493,
+      "latitude": 40.64072
+    },
+    "population": 317778
+  },
+  {
+    "id": "3182351",
+    "name": "Bari",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 16.86982,
+      "latitude": 41.12066
+    },
+    "population": 316491
+  },
+  {
+    "id": "317109",
+    "name": "Denizli",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 29.0875,
+      "latitude": 37.77417
+    },
+    "population": 313238
+  },
+  {
+    "id": "2778067",
+    "name": "Graz",
+    "countryCode": "AT",
+    "coordinates": {
+      "longitude": 15.44197,
+      "latitude": 47.06733
+    },
+    "population": 303270
+  },
+  {
+    "id": "3106672",
+    "name": "Valladolid",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -4.72353,
+      "latitude": 41.65541
+    },
+    "population": 300618
+  },
+  {
+    "id": "776069",
+    "name": "Bialystok",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 23.16433,
+      "latitude": 53.13333
+    },
+    "population": 295683
+  },
+  {
+    "id": "3161732",
+    "name": "Bergen",
+    "countryCode": "NO",
+    "coordinates": {
+      "longitude": 5.32415,
+      "latitude": 60.39299
+    },
+    "population": 294029
+  },
+  {
+    "id": "2505572",
+    "name": "Batna",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 6.17414,
+      "latitude": 35.55597
+    },
+    "population": 289504
+  },
+  {
+    "id": "598316",
+    "name": "Kaunas",
+    "countryCode": "LT",
+    "coordinates": {
+      "longitude": 23.90909,
+      "latitude": 54.90156
+    },
+    "population": 289380
+  },
+  {
+    "id": "3096472",
+    "name": "Katowice",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 19.02173,
+      "latitude": 50.2597
+    },
+    "population": 286960
+  },
+  {
+    "id": "752850",
+    "name": "Adapazari",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 30.40333,
+      "latitude": 40.78056
+    },
+    "population": 286787
+  },
+  {
+    "id": "681290",
+    "name": "Cluj-Napoca",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 23.6,
+      "latitude": 46.76667
+    },
+    "population": 286598
+  },
+  {
+    "id": "710735",
+    "name": "Chernihiv",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 31.28656,
+      "latitude": 51.50541
+    },
+    "population": 282747
+  },
+  {
+    "id": "3068799",
+    "name": "Ostrava",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 18.28204,
+      "latitude": 49.83465
+    },
+    "population": 279791
+  },
+  {
+    "id": "696643",
+    "name": "Poltava",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 34.55367,
+      "latitude": 49.58925
+    },
+    "population": 279593
+  },
+  {
+    "id": "509820",
+    "name": "Petrozavodsk",
+    "countryCode": "RU",
+    "coordinates": {
+      "longitude": 34.34691,
+      "latitude": 61.78491
+    },
+    "population": 279190
+  },
+  {
+    "id": "2809346",
+    "name": "Wiesbaden",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 8.24435,
+      "latitude": 50.08601
+    },
+    "population": 278609
+  },
+  {
+    "id": "2973783",
+    "name": "Strasbourg",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": 7.74553,
+      "latitude": 48.58392
+    },
+    "population": 274845
+  },
+  {
+    "id": "706369",
+    "name": "Khmelnytskyi",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 26.97936,
+      "latitude": 49.41835
+    },
+    "population": 274452
+  },
+  {
+    "id": "710791",
+    "name": "Cherkasy",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 32.05738,
+      "latitude": 49.44452
+    },
+    "population": 269836
+  },
+  {
+    "id": "748879",
+    "name": "Corum",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 34.95333,
+      "latitude": 40.54889
+    },
+    "population": 269595
+  },
+  {
+    "id": "3031582",
+    "name": "Bordeaux",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": -0.58046,
+      "latitude": 44.84124
+    },
+    "population": 265328
+  },
+  {
+    "id": "710719",
+    "name": "Chernivtsi",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 25.93241,
+      "latitude": 48.29045
+    },
+    "population": 264298
+  },
+  {
+    "id": "686967",
+    "name": "Zhytomyr",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 28.67913,
+      "latitude": 50.26235
+    },
+    "population": 261624
+  },
+  {
+    "id": "634963",
+    "name": "Tampere",
+    "countryCode": "FI",
+    "coordinates": {
+      "longitude": 23.78712,
+      "latitude": 61.49911
+    },
+    "population": 260646
+  },
+  {
+    "id": "3104499",
+    "name": "Gasteiz / Vitoria",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -2.67268,
+      "latitude": 42.84998
+    },
+    "population": 257407
+  },
+  {
+    "id": "692194",
+    "name": "Sumy",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 34.79906,
+      "latitude": 50.91741
+    },
+    "population": 256474
+  },
+  {
+    "id": "683844",
+    "name": "Brasov",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 25.60613,
+      "latitude": 45.64861
+    },
+    "population": 253200
+  },
+  {
+    "id": "2735943",
+    "name": "Porto",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -8.61097,
+      "latitude": 41.1485
+    },
+    "population": 252687
+  },
+  {
+    "id": "2481700",
+    "name": "Setif",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 5.41373,
+      "latitude": 36.19112
+    },
+    "population": 252127
+  },
+  {
+    "id": "325303",
+    "name": "Afyonkarahisar",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 30.54333,
+      "latitude": 38.75667
+    },
+    "population": 251799
+  },
+  {
+    "id": "665087",
+    "name": "Timisoara",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 21.22571,
+      "latitude": 45.75372
+    },
+    "population": 250849
+  },
+  {
+    "id": "2891122",
+    "name": "Kiel",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 10.13489,
+      "latitude": 54.32133
+    },
+    "population": 246601
+  },
+  {
+    "id": "2755251",
+    "name": "Groningen",
+    "countryCode": "NL",
+    "coordinates": {
+      "longitude": 6.56667,
+      "latitude": 53.21917
+    },
+    "population": 244807
+  },
+  {
+    "id": "304827",
+    "name": "Manisa",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 27.42647,
+      "latitude": 38.61202
+    },
+    "population": 243971
+  },
+  {
+    "id": "695594",
+    "name": "Rivne",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 26.23695,
+      "latitude": 50.62036
+    },
+    "population": 243873
+  },
+  {
+    "id": "2998324",
+    "name": "Lille",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": 3.05512,
+      "latitude": 50.63391
+    },
+    "population": 238695
+  },
+  {
+    "id": "707471",
+    "name": "Ivano-Frankivsk",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 24.71248,
+      "latitude": 48.92312
+    },
+    "population": 238196
+  },
+  {
+    "id": "322165",
+    "name": "Balikesir",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 27.88611,
+      "latitude": 39.64917
+    },
+    "population": 238151
+  },
+  {
+    "id": "2874545",
+    "name": "Magdeburg",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 11.63189,
+      "latitude": 52.13129
+    },
+    "population": 235775
+  },
+  {
+    "id": "680332",
+    "name": "Craiova",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 23.8,
+      "latitude": 44.31667
+    },
+    "population": 234140
+  },
+  {
+    "id": "2983990",
+    "name": "Rennes",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": -1.67431,
+      "latitude": 48.11109
+    },
+    "population": 227830
+  },
+  {
+    "id": "691650",
+    "name": "Ternopil",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 25.59067,
+      "latitude": 49.55404
+    },
+    "population": 225238
+  },
+  {
+    "id": "724443",
+    "name": "Kosice",
+    "countryCode": "SK",
+    "coordinates": {
+      "longitude": 21.25802,
+      "latitude": 48.71441
+    },
+    "population": 225044
+  },
+  {
+    "id": "519336",
+    "name": "Velikiy Novgorod",
+    "countryCode": "RU",
+    "coordinates": {
+      "longitude": 31.27104,
+      "latitude": 58.52131
+    },
+    "population": 222868
+  },
+  {
+    "id": "2464915",
+    "name": "Sousse",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 10.63699,
+      "latitude": 35.82539
+    },
+    "population": 221715
+  },
+  {
+    "id": "3204541",
+    "name": "Banja Luka",
+    "countryCode": "BA",
+    "coordinates": {
+      "longitude": 17.20629,
+      "latitude": 44.77879
+    },
+    "population": 221106
+  },
+  {
+    "id": "3114711",
+    "name": "Oviedo",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -5.84476,
+      "latitude": 43.36029
+    },
+    "population": 220027
+  },
+  {
+    "id": "705812",
+    "name": "Kropyvnytskyi",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 32.26618,
+      "latitude": 48.50834
+    },
+    "population": 219676
+  },
+  {
+    "id": "677697",
+    "name": "Galati",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 28.05028,
+      "latitude": 45.43687
+    },
+    "population": 217851
+  },
+  {
+    "id": "2874225",
+    "name": "Mainz",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 8.28008,
+      "latitude": 49.98185
+    },
+    "population": 217123
+  },
+  {
+    "id": "702569",
+    "name": "Lutsk",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 25.35024,
+      "latitude": 50.75784
+    },
+    "population": 215986
+  },
+  {
+    "id": "3194360",
+    "name": "Novi Sad",
+    "countryCode": "RS",
+    "coordinates": {
+      "longitude": 19.83694,
+      "latitude": 45.25167
+    },
+    "population": 215400
+  },
+  {
+    "id": "2929670",
+    "name": "Erfurt",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 11.03536,
+      "latitude": 50.97734
+    },
+    "population": 213692
+  },
+  {
+    "id": "665004",
+    "name": "Targu Mures",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 24.55747,
+      "latitude": 46.54245
+    },
+    "population": 212752
+  },
+  {
+    "id": "732770",
+    "name": "Burgas",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 27.46886,
+      "latitude": 42.50651
+    },
+    "population": 210646
+  },
+  {
+    "id": "504341",
+    "name": "Pskov",
+    "countryCode": "RU",
+    "coordinates": {
+      "longitude": 28.33181,
+      "latitude": 57.81922
+    },
+    "population": 210501
+  },
+  {
+    "id": "2481007",
+    "name": "Sidi Bel Abbes",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": -0.63085,
+      "latitude": 35.18994
+    },
+    "population": 210146
+  },
+  {
+    "id": "3114472",
+    "name": "Pamplona",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -1.64323,
+      "latitude": 42.81687
+    },
+    "population": 208243
+  },
+  {
+    "id": "633679",
+    "name": "Turku",
+    "countryCode": "FI",
+    "coordinates": {
+      "longitude": 22.26869,
+      "latitude": 60.45148
+    },
+    "population": 206655
+  },
+  {
+    "id": "2772400",
+    "name": "Linz",
+    "countryCode": "AT",
+    "coordinates": {
+      "longitude": 14.28611,
+      "latitude": 48.30639
+    },
+    "population": 204846
+  },
+  {
+    "id": "3165185",
+    "name": "Trieste",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 13.77678,
+      "latitude": 45.64953
+    },
+    "population": 204338
+  },
+  {
+    "id": "721472",
+    "name": "Debrecen",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 21.62444,
+      "latitude": 47.53167
+    },
+    "population": 202402
+  },
+  {
+    "id": "2660646",
+    "name": "Geneve",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 6.14569,
+      "latitude": 46.20222
+    },
+    "population": 201741
+  },
+  {
+    "id": "759734",
+    "name": "Rzeszow",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 21.99901,
+      "latitude": 50.04132
+    },
+    "population": 198317
+  },
+  {
+    "id": "745028",
+    "name": "Izmit",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 29.92928,
+      "latitude": 40.76499
+    },
+    "population": 196571
+  },
+  {
+    "id": "3185728",
+    "name": "Durres",
+    "countryCode": "AL",
+    "coordinates": {
+      "longitude": 19.45469,
+      "latitude": 41.32355
+    },
+    "population": 195920
+  },
+  {
+    "id": "2477461",
+    "name": "Tebessa",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 8.12417,
+      "latitude": 35.40417
+    },
+    "population": 194461
+  },
+  {
+    "id": "747764",
+    "name": "Duezce",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 31.16389,
+      "latitude": 40.83889
+    },
+    "population": 194097
+  },
+  {
+    "id": "2742032",
+    "name": "Braga",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -8.42311,
+      "latitude": 41.5514
+    },
+    "population": 193324
+  },
+  {
+    "id": "769250",
+    "name": "Kielce",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 20.62752,
+      "latitude": 50.87033
+    },
+    "population": 192468
+  },
+  {
+    "id": "307654",
+    "name": "Kirikkale",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 33.50639,
+      "latitude": 39.84528
+    },
+    "population": 186960
+  },
+  {
+    "id": "305268",
+    "name": "Kuetahya",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 29.98333,
+      "latitude": 39.42417
+    },
+    "population": 185008
+  },
+  {
+    "id": "750516",
+    "name": "Bolu",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 31.60611,
+      "latitude": 40.73583
+    },
+    "population": 184682
+  },
+  {
+    "id": "671768",
+    "name": "Oradea",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 21.91833,
+      "latitude": 47.0458
+    },
+    "population": 183105
+  },
+  {
+    "id": "2479536",
+    "name": "Skikda",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 6.90921,
+      "latitude": 36.87617
+    },
+    "population": 182903
+  },
+  {
+    "id": "2852458",
+    "name": "Potsdam",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 13.06566,
+      "latitude": 52.39886
+    },
+    "population": 182112
+  },
+  {
+    "id": "670474",
+    "name": "Ploiesti",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 26.01667,
+      "latitude": 44.95
+    },
+    "population": 180540
+  },
+  {
+    "id": "747712",
+    "name": "Edirne",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 26.55597,
+      "latitude": 41.67719
+    },
+    "population": 180002
+  },
+  {
+    "id": "2842647",
+    "name": "Saarbruecken",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 7.00982,
+      "latitude": 49.23262
+    },
+    "population": 179349
+  },
+  {
+    "id": "2476897",
+    "name": "Tiaret",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 1.31699,
+      "latitude": 35.37103
+    },
+    "population": 178915
+  },
+  {
+    "id": "2498611",
+    "name": "Chlef",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 1.33452,
+      "latitude": 36.16525
+    },
+    "population": 178616
+  },
+  {
+    "id": "2661604",
+    "name": "Basel",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 7.57327,
+      "latitude": 47.55839
+    },
+    "population": 177595
+  },
+  {
+    "id": "2666199",
+    "name": "Uppsala",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 17.63889,
+      "latitude": 59.85882
+    },
+    "population": 177074
+  },
+  {
+    "id": "2505329",
+    "name": "Bejaia",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 5.08433,
+      "latitude": 36.75587
+    },
+    "population": 176139
+  },
+  {
+    "id": "309527",
+    "name": "Karaman",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 33.215,
+      "latitude": 37.18111
+    },
+    "population": 175390
+  },
+  {
+    "id": "3109718",
+    "name": "Santander",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -3.80493,
+      "latitude": 43.46589
+    },
+    "population": 173635
+  },
+  {
+    "id": "311073",
+    "name": "Isparta",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 30.55222,
+      "latitude": 37.76444
+    },
+    "population": 172334
+  },
+  {
+    "id": "598098",
+    "name": "Klaipeda",
+    "countryCode": "LT",
+    "coordinates": {
+      "longitude": 21.13912,
+      "latitude": 55.7068
+    },
+    "population": 172292
+  },
+  {
+    "id": "786712",
+    "name": "Prizren",
+    "countryCode": "XK",
+    "coordinates": {
+      "longitude": 20.73972,
+      "latitude": 42.21389
+    },
+    "population": 171464
+  },
+  {
+    "id": "763166",
+    "name": "Olsztyn",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 20.49272,
+      "latitude": 53.78376
+    },
+    "population": 169793
+  },
+  {
+    "id": "686254",
+    "name": "Arad",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 21.31667,
+      "latitude": 46.18333
+    },
+    "population": 169065
+  },
+  {
+    "id": "3068160",
+    "name": "Pilsen",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 13.37759,
+      "latitude": 49.74747
+    },
+    "population": 168733
+  },
+  {
+    "id": "255683",
+    "name": "Patra",
+    "countryCode": "GR",
+    "coordinates": {
+      "longitude": 21.73508,
+      "latitude": 38.2462
+    },
+    "population": 168034
+  },
+  {
+    "id": "2694762",
+    "name": "Linkoeping",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 15.62157,
+      "latitude": 58.41086
+    },
+    "population": 166673
+  },
+  {
+    "id": "322830",
+    "name": "Aydin",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 27.83963,
+      "latitude": 37.84501
+    },
+    "population": 163022
+  },
+  {
+    "id": "2487134",
+    "name": "Mostaganem",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 0.08918,
+      "latitude": 35.93115
+    },
+    "population": 162885
+  },
+  {
+    "id": "2755003",
+    "name": "Haarlem",
+    "countryCode": "NL",
+    "coordinates": {
+      "longitude": 4.63683,
+      "latitude": 52.38084
+    },
+    "population": 162543
+  },
+  {
+    "id": "2759661",
+    "name": "Arnhem",
+    "countryCode": "NL",
+    "coordinates": {
+      "longitude": 5.91111,
+      "latitude": 51.98
+    },
+    "population": 162424
+  },
+  {
+    "id": "2747351",
+    "name": "'s-Hertogenbosch",
+    "countryCode": "NL",
+    "coordinates": {
+      "longitude": 5.30417,
+      "latitude": 51.69917
+    },
+    "population": 160783
+  },
+  {
+    "id": "715429",
+    "name": "Szeged",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 20.14824,
+      "latitude": 46.253
+    },
+    "population": 160766
+  },
+  {
+    "id": "3021372",
+    "name": "Dijon",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": 5.01391,
+      "latitude": 47.31344
+    },
+    "population": 159941
+  },
+  {
+    "id": "2503701",
+    "name": "Bordj Bou Arreridj",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 4.76139,
+      "latitude": 36.07389
+    },
+    "population": 158812
+  },
+  {
+    "id": "2766824",
+    "name": "Salzburg",
+    "countryCode": "AT",
+    "coordinates": {
+      "longitude": 13.04399,
+      "latitude": 47.79941
+    },
+    "population": 157245
+  },
+  {
+    "id": "617239",
+    "name": "Tiraspol",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 29.6284,
+      "latitude": 46.84275
+    },
+    "population": 157000
+  },
+  {
+    "id": "2686657",
+    "name": "OErebro",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 15.2066,
+      "latitude": 59.27412
+    },
+    "population": 155989
+  },
+  {
+    "id": "683902",
+    "name": "Braila",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 27.97429,
+      "latitude": 45.27152
+    },
+    "population": 154686
+  },
+  {
+    "id": "717582",
+    "name": "Miskolc",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 20.77806,
+      "latitude": 48.10327
+    },
+    "population": 154521
+  },
+  {
+    "id": "2479215",
+    "name": "Souk Ahras",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 7.95111,
+      "latitude": 36.28639
+    },
+    "population": 153479
+  },
+  {
+    "id": "3118150",
+    "name": "Logrono",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -2.45115,
+      "latitude": 42.46615
+    },
+    "population": 151164
+  },
+  {
+    "id": "307515",
+    "name": "Kirsehir",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 34.16389,
+      "latitude": 39.14583
+    },
+    "population": 150700
+  },
+  {
+    "id": "3190261",
+    "name": "Split",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 16.43915,
+      "latitude": 43.50891
+    },
+    "population": 149830
+  },
+  {
+    "id": "2525473",
+    "name": "Cagliari",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 9.11917,
+      "latitude": 39.23054
+    },
+    "population": 149257
+  },
+  {
+    "id": "3137115",
+    "name": "Stavanger",
+    "countryCode": "NO",
+    "coordinates": {
+      "longitude": 5.73332,
+      "latitude": 58.97005
+    },
+    "population": 148682
+  },
+  {
+    "id": "258576",
+    "name": "Larisa",
+    "countryCode": "GR",
+    "coordinates": {
+      "longitude": 22.42112,
+      "latitude": 39.62847
+    },
+    "population": 146926
+  },
+  {
+    "id": "2488835",
+    "name": "Medea",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 2.75393,
+      "latitude": 36.26417
+    },
+    "population": 145441
+  },
+  {
+    "id": "3046526",
+    "name": "Pecs",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 18.22814,
+      "latitude": 46.07617
+    },
+    "population": 145347
+  },
+  {
+    "id": "749780",
+    "name": "Canakkale",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 26.41271,
+      "latitude": 40.15552
+    },
+    "population": 143622
+  },
+  {
+    "id": "2624886",
+    "name": "Aalborg",
+    "countryCode": "DK",
+    "coordinates": {
+      "longitude": 9.9187,
+      "latitude": 57.048
+    },
+    "population": 142937
+  },
+  {
+    "id": "670609",
+    "name": "Pitesti",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 24.86667,
+      "latitude": 44.85
+    },
+    "population": 141275
+  },
+  {
+    "id": "2740637",
+    "name": "Coimbra",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -8.41996,
+      "latitude": 40.20686
+    },
+    "population": 140796
+  },
+  {
+    "id": "2659994",
+    "name": "Lausanne",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 6.63282,
+      "latitude": 46.516
+    },
+    "population": 139111
+  },
+  {
+    "id": "2473449",
+    "name": "Kairouan",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 10.09633,
+      "latitude": 35.6781
+    },
+    "population": 139070
+  },
+  {
+    "id": "2472706",
+    "name": "Bizerte",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 9.87391,
+      "latitude": 37.27442
+    },
+    "population": 138430
+  },
+  {
+    "id": "261745",
+    "name": "Irakleion",
+    "countryCode": "GR",
+    "coordinates": {
+      "longitude": 25.14341,
+      "latitude": 35.32787
+    },
+    "population": 137154
+  },
+  {
+    "id": "685948",
+    "name": "Bacau",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 26.91384,
+      "latitude": 46.56718
+    },
+    "population": 136087
+  },
+  {
+    "id": "667268",
+    "name": "Sibiu",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 24.15,
+      "latitude": 45.8
+    },
+    "population": 134309
+  },
+  {
+    "id": "2486690",
+    "name": "M'Sila",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 4.53722,
+      "latitude": 35.70889
+    },
+    "population": 132975
+  },
+  {
+    "id": "2775220",
+    "name": "Innsbruck",
+    "countryCode": "AT",
+    "coordinates": {
+      "longitude": 11.39454,
+      "latitude": 47.26266
+    },
+    "population": 132493
+  },
+  {
+    "id": "2492913",
+    "name": "Jijel",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 5.76352,
+      "latitude": 36.821
+    },
+    "population": 131513
+  },
+  {
+    "id": "2743477",
+    "name": "Zwolle",
+    "countryCode": "NL",
+    "coordinates": {
+      "longitude": 6.09444,
+      "latitude": 52.5125
+    },
+    "population": 129840
+  },
+  {
+    "id": "3052009",
+    "name": "Gyor",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 17.63512,
+      "latitude": 47.68333
+    },
+    "population": 129301
+  },
+  {
+    "id": "2267095",
+    "name": "Leiria",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -8.80705,
+      "latitude": 39.74362
+    },
+    "population": 128640
+  },
+  {
+    "id": "2664454",
+    "name": "Vaesteras",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 16.55276,
+      "latitude": 59.61617
+    },
+    "population": 127799
+  },
+  {
+    "id": "3090048",
+    "name": "Opole",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 17.92604,
+      "latitude": 50.67119
+    },
+    "population": 127676
+  },
+  {
+    "id": "743882",
+    "name": "Kastamonu",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 33.77528,
+      "latitude": 41.37805
+    },
+    "population": 125622
+  },
+  {
+    "id": "744562",
+    "name": "Karabuek",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 32.62768,
+      "latitude": 41.20488
+    },
+    "population": 125403
+  },
+  {
+    "id": "618605",
+    "name": "Balti",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 27.92854,
+      "latitude": 47.76291
+    },
+    "population": 125000
+  },
+  {
+    "id": "2751792",
+    "name": "Leeuwarden",
+    "countryCode": "NL",
+    "coordinates": {
+      "longitude": 5.80973,
+      "latitude": 53.20271
+    },
+    "population": 124481
+  },
+  {
+    "id": "2483668",
+    "name": "Relizane",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 0.55599,
+      "latitude": 35.73734
+    },
+    "population": 123255
+  },
+  {
+    "id": "2751283",
+    "name": "Maastricht",
+    "countryCode": "NL",
+    "coordinates": {
+      "longitude": 5.68889,
+      "latitude": 50.84833
+    },
+    "population": 122378
+  },
+  {
+    "id": "738927",
+    "name": "Tekirdag",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 27.51101,
+      "latitude": 40.9781
+    },
+    "population": 122287
+  },
+  {
+    "id": "649360",
+    "name": "Lahti",
+    "countryCode": "FI",
+    "coordinates": {
+      "longitude": 25.66151,
+      "latitude": 60.98267
+    },
+    "population": 121622
+  },
+  {
+    "id": "726848",
+    "name": "Stara Zagora",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 25.64262,
+      "latitude": 42.43205
+    },
+    "population": 121582
+  },
+  {
+    "id": "727523",
+    "name": "Ruse",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 25.9534,
+      "latitude": 43.84872
+    },
+    "population": 121168
+  },
+  {
+    "id": "3165243",
+    "name": "Trento",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 11.12108,
+      "latitude": 46.06787
+    },
+    "population": 120709
+  },
+  {
+    "id": "3171180",
+    "name": "Perugia",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 12.38878,
+      "latitude": 43.1122
+    },
+    "population": 120137
+  },
+  {
+    "id": "2495662",
+    "name": "Guelma",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 7.42608,
+      "latitude": 36.46214
+    },
+    "population": 120004
+  },
+  {
+    "id": "3080165",
+    "name": "Zielona Gora",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 15.50643,
+      "latitude": 51.93548
+    },
+    "population": 118433
+  },
+  {
+    "id": "2262963",
+    "name": "Setubal",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -8.8882,
+      "latitude": 38.5244
+    },
+    "population": 118166
+  },
+  {
+    "id": "716935",
+    "name": "Nyiregyhaza",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 21.71671,
+      "latitude": 47.95539
+    },
+    "population": 117689
+  },
+  {
+    "id": "3149318",
+    "name": "Kristiansand",
+    "countryCode": "NO",
+    "coordinates": {
+      "longitude": 7.9956,
+      "latitude": 58.14671
+    },
+    "population": 117237
+  },
+  {
+    "id": "2989317",
+    "name": "Orleans",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": 1.90407,
+      "latitude": 47.90248
+    },
+    "population": 116344
+  },
+  {
+    "id": "2982652",
+    "name": "Rouen",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": 1.09932,
+      "latitude": 49.44313
+    },
+    "population": 116331
+  },
+  {
+    "id": "690548",
+    "name": "Uzhhorod",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 22.2947,
+      "latitude": 48.6242
+    },
+    "population": 115449
+  },
+  {
+    "id": "3183719",
+    "name": "Vlore",
+    "countryCode": "AL",
+    "coordinates": {
+      "longitude": 19.48379,
+      "latitude": 40.4696
+    },
+    "population": 115261
+  },
+  {
+    "id": "3098722",
+    "name": "Gorzow Wielkopolski",
+    "countryCode": "PL",
+    "coordinates": {
+      "longitude": 15.22505,
+      "latitude": 52.73371
+    },
+    "population": 114567
+  },
+  {
+    "id": "2473247",
+    "name": "Aryanah",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 10.19337,
+      "latitude": 36.86012
+    },
+    "population": 114486
+  },
+  {
+    "id": "2491889",
+    "name": "Khenchela",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 7.14333,
+      "latitude": 35.43583
+    },
+    "population": 114472
+  },
+  {
+    "id": "2702979",
+    "name": "Joenkoeping",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 14.15618,
+      "latitude": 57.78145
+    },
+    "population": 112766
+  },
+  {
+    "id": "667873",
+    "name": "Satu Mare",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 22.86255,
+      "latitude": 47.79926
+    },
+    "population": 112490
+  },
+  {
+    "id": "2790471",
+    "name": "Namur",
+    "countryCode": "BE",
+    "coordinates": {
+      "longitude": 4.86746,
+      "latitude": 50.4669
+    },
+    "population": 110939
+  },
+  {
+    "id": "618577",
+    "name": "Bender",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 29.47671,
+      "latitude": 46.83158
+    },
+    "population": 110175
+  },
+  {
+    "id": "3050434",
+    "name": "Kecskemet",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 19.69128,
+      "latitude": 46.90618
+    },
+    "population": 109847
+  },
+  {
+    "id": "685826",
+    "name": "Baia Mare",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 23.56808,
+      "latitude": 47.65729
+    },
+    "population": 108759
+  },
+  {
+    "id": "2490098",
+    "name": "Mascara",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 0.14027,
+      "latitude": 35.39664
+    },
+    "population": 108629
+  },
+  {
+    "id": "3191648",
+    "name": "Rijeka",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 14.44241,
+      "latitude": 45.32673
+    },
+    "population": 107964
+  },
+  {
+    "id": "789225",
+    "name": "Mitrovice",
+    "countryCode": "XK",
+    "coordinates": {
+      "longitude": 20.86667,
+      "latitude": 42.88333
+    },
+    "population": 107045
+  },
+  {
+    "id": "3159016",
+    "name": "Drammen",
+    "countryCode": "NO",
+    "coordinates": {
+      "longitude": 10.20449,
+      "latitude": 59.74389
+    },
+    "population": 105042
+  },
+  {
+    "id": "2475744",
+    "name": "Tizi Ouzou",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 4.04591,
+      "latitude": 36.71182
+    },
+    "population": 104312
+  },
+  {
+    "id": "2732265",
+    "name": "Viseu",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -7.90905,
+      "latitude": 40.66165
+    },
+    "population": 103502
+  },
+  {
+    "id": "683123",
+    "name": "Buzau",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 26.83333,
+      "latitude": 45.15
+    },
+    "population": 103481
+  },
+  {
+    "id": "3071961",
+    "name": "Liberec",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 15.05619,
+      "latitude": 50.76711
+    },
+    "population": 102951
+  },
+  {
+    "id": "670889",
+    "name": "Piatra Neamt",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 26.33333,
+      "latitude": 46.91667
+    },
+    "population": 102688
+  },
+  {
+    "id": "737022",
+    "name": "Zonguldak",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 31.79305,
+      "latitude": 41.45139
+    },
+    "population": 101749
+  },
+  {
+    "id": "3044774",
+    "name": "Szekesfehervar",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 18.41034,
+      "latitude": 47.18995
+    },
+    "population": 101600
+  },
+  {
+    "id": "783263",
+    "name": "Elbasan",
+    "countryCode": "AL",
+    "coordinates": {
+      "longitude": 20.08224,
+      "latitude": 41.11138
+    },
+    "population": 100903
+  },
+  {
+    "id": "2774326",
+    "name": "Klagenfurt am Woerthersee",
+    "countryCode": "AT",
+    "coordinates": {
+      "longitude": 14.30528,
+      "latitude": 46.62472
+    },
+    "population": 100316
+  },
+  {
+    "id": "3109642",
+    "name": "Santiago de Compostela",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -8.54569,
+      "latitude": 42.88052
+    },
+    "population": 99536
+  },
+  {
+    "id": "3069011",
+    "name": "Olomouc",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 17.25175,
+      "latitude": 49.59552
+    },
+    "population": 99496
+  },
+  {
+    "id": "594739",
+    "name": "Siauliai",
+    "countryCode": "LT",
+    "coordinates": {
+      "longitude": 23.31667,
+      "latitude": 55.93333
+    },
+    "population": 99462
+  },
+  {
+    "id": "2834282",
+    "name": "Schwerin",
+    "countryCode": "DE",
+    "coordinates": {
+      "longitude": 11.41316,
+      "latitude": 53.62937
+    },
+    "population": 96641
+  },
+  {
+    "id": "3195506",
+    "name": "Maribor",
+    "countryCode": "SI",
+    "coordinates": {
+      "longitude": 15.64593,
+      "latitude": 46.55583
+    },
+    "population": 96209
+  },
+  {
+    "id": "3184081",
+    "name": "Shkoder",
+    "countryCode": "AL",
+    "coordinates": {
+      "longitude": 19.51258,
+      "latitude": 42.06828
+    },
+    "population": 95553
+  },
+  {
+    "id": "320392",
+    "name": "Burdur",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 30.29083,
+      "latitude": 37.72028
+    },
+    "population": 95436
+  },
+  {
+    "id": "791646",
+    "name": "Gjakove",
+    "countryCode": "XK",
+    "coordinates": {
+      "longitude": 20.43083,
+      "latitude": 42.38028
+    },
+    "population": 94158
+  },
+  {
+    "id": "3077916",
+    "name": "Ceske Budejovice",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 14.47434,
+      "latitude": 48.97447
+    },
+    "population": 93426
+  },
+  {
+    "id": "2473493",
+    "name": "Monastir",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 10.82617,
+      "latitude": 35.77799
+    },
+    "population": 93306
+  },
+  {
+    "id": "668872",
+    "name": "Ramnicu Valcea",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 24.36667,
+      "latitude": 45.1
+    },
+    "population": 93151
+  },
+  {
+    "id": "304184",
+    "name": "Mugla",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 28.3665,
+      "latitude": 37.21807
+    },
+    "population": 92328
+  },
+  {
+    "id": "588335",
+    "name": "Tartu",
+    "countryCode": "EE",
+    "coordinates": {
+      "longitude": 26.72509,
+      "latitude": 58.38062
+    },
+    "population": 91407
+  },
+  {
+    "id": "303827",
+    "name": "Nigde",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 34.67935,
+      "latitude": 37.96583
+    },
+    "population": 91039
+  },
+  {
+    "id": "3074967",
+    "name": "Hradec Kralove",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 15.83277,
+      "latitude": 50.20923
+    },
+    "population": 90596
+  },
+  {
+    "id": "749748",
+    "name": "Cankiri",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 33.6153,
+      "latitude": 40.59995
+    },
+    "population": 90564
+  },
+  {
+    "id": "3063548",
+    "name": "Usti nad Labem",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 14.03227,
+      "latitude": 50.6607
+    },
+    "population": 90378
+  },
+  {
+    "id": "728203",
+    "name": "Pleven",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 24.61666,
+      "latitude": 43.41791
+    },
+    "population": 90209
+  },
+  {
+    "id": "684039",
+    "name": "Botosani",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 26.66667,
+      "latitude": 47.75
+    },
+    "population": 90010
+  },
+  {
+    "id": "3183089",
+    "name": "Ancona",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 13.5103,
+      "latitude": 43.60717
+    },
+    "population": 89994
+  },
+  {
+    "id": "3068582",
+    "name": "Pardubice",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 15.77659,
+      "latitude": 50.04075
+    },
+    "population": 88520
+  },
+  {
+    "id": "2472479",
+    "name": "Ben Arous",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 10.22167,
+      "latitude": 36.75452
+    },
+    "population": 88322
+  },
+  {
+    "id": "296562",
+    "name": "Yozgat",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 34.80444,
+      "latitude": 39.82
+    },
+    "population": 87881
+  },
+  {
+    "id": "2510409",
+    "name": "Toledo",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -4.02263,
+      "latitude": 39.8581
+    },
+    "population": 86526
+  },
+  {
+    "id": "3058531",
+    "name": "Nitra",
+    "countryCode": "SK",
+    "coordinates": {
+      "longitude": 18.08453,
+      "latitude": 48.30763
+    },
+    "population": 86329
+  },
+  {
+    "id": "2513947",
+    "name": "Melilla",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -2.93833,
+      "latitude": 35.29369
+    },
+    "population": 85985
+  },
+  {
+    "id": "596128",
+    "name": "Panevezys",
+    "countryCode": "LT",
+    "coordinates": {
+      "longitude": 24.35983,
+      "latitude": 55.73186
+    },
+    "population": 85885
+  },
+  {
+    "id": "2473457",
+    "name": "Kasserine",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 8.83651,
+      "latitude": 35.16758
+    },
+    "population": 84365
+  },
+  {
+    "id": "665850",
+    "name": "Suceava",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 26.25,
+      "latitude": 47.63333
+    },
+    "population": 84308
+  },
+  {
+    "id": "727079",
+    "name": "Sliven",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 26.32558,
+      "latitude": 42.68607
+    },
+    "population": 83740
+  },
+  {
+    "id": "2964180",
+    "name": "Galway",
+    "countryCode": "IE",
+    "coordinates": {
+      "longitude": -9.05095,
+      "latitude": 53.27245
+    },
+    "population": 83456
+  },
+  {
+    "id": "6362987",
+    "name": "Ceuta",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -5.32042,
+      "latitude": 35.88919
+    },
+    "population": 83179
+  },
+  {
+    "id": "640999",
+    "name": "Pori",
+    "countryCode": "FI",
+    "coordinates": {
+      "longitude": 21.78518,
+      "latitude": 61.48072
+    },
+    "population": 83157
+  },
+  {
+    "id": "723819",
+    "name": "Presov",
+    "countryCode": "SK",
+    "coordinates": {
+      "longitude": 21.2355,
+      "latitude": 48.99923
+    },
+    "population": 82927
+  },
+  {
+    "id": "728330",
+    "name": "Pernik",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 23.03318,
+      "latitude": 42.59671
+    },
+    "population": 82467
+  },
+  {
+    "id": "751057",
+    "name": "Bartin",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 32.3375,
+      "latitude": 41.63583
+    },
+    "population": 81692
+  },
+  {
+    "id": "2659811",
+    "name": "Luzern",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 8.30635,
+      "latitude": 47.05048
+    },
+    "population": 81691
+  },
+  {
+    "id": "668954",
+    "name": "Resita",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 21.88917,
+      "latitude": 45.30083
+    },
+    "population": 81228
+  },
+  {
+    "id": "3056508",
+    "name": "Zilina",
+    "countryCode": "SK",
+    "coordinates": {
+      "longitude": 18.73941,
+      "latitude": 49.22315
+    },
+    "population": 81219
+  },
+  {
+    "id": "2742611",
+    "name": "Aveiro",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -8.64643,
+      "latitude": 40.64575
+    },
+    "population": 80880
+  },
+  {
+    "id": "678817",
+    "name": "Drobeta-Turnu Severin",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 22.65288,
+      "latitude": 44.62693
+    },
+    "population": 79865
+  },
+  {
+    "id": "2751738",
+    "name": "Lelystad",
+    "countryCode": "NL",
+    "coordinates": {
+      "longitude": 5.475,
+      "latitude": 52.50833
+    },
+    "population": 79811
+  },
+  {
+    "id": "2525059",
+    "name": "Catanzaro",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 16.60086,
+      "latitude": 38.88247
+    },
+    "population": 78970
+  },
+  {
+    "id": "684657",
+    "name": "Bistrita",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 24.50011,
+      "latitude": 47.13316
+    },
+    "population": 78877
+  },
+  {
+    "id": "460413",
+    "name": "Daugavpils",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 26.53333,
+      "latitude": 55.88333
+    },
+    "population": 78126
+  },
+  {
+    "id": "650859",
+    "name": "Kouvola",
+    "countryCode": "FI",
+    "coordinates": {
+      "longitude": 26.7,
+      "latitude": 60.86667
+    },
+    "population": 78094
+  },
+  {
+    "id": "3044310",
+    "name": "Szombathely",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 16.62155,
+      "latitude": 47.23088
+    },
+    "population": 78025
+  },
+  {
+    "id": "2658822",
+    "name": "Sankt Gallen",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 9.37477,
+      "latitude": 47.42391
+    },
+    "population": 75833
+  },
+  {
+    "id": "3193935",
+    "name": "Osijek",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 18.6942,
+      "latitude": 45.55066
+    },
+    "population": 75535
+  },
+  {
+    "id": "303831",
+    "name": "Nevsehir",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 34.71222,
+      "latitude": 38.625
+    },
+    "population": 75527
+  },
+  {
+    "id": "788886",
+    "name": "Kumanovo",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 21.71585,
+      "latitude": 42.13279
+    },
+    "population": 75051
+  },
+  {
+    "id": "2712414",
+    "name": "Gaevle",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 17.14174,
+      "latitude": 60.67452
+    },
+    "population": 74884
+  },
+  {
+    "id": "3061186",
+    "name": "Banska Bystrica",
+    "countryCode": "SK",
+    "coordinates": {
+      "longitude": 19.14932,
+      "latitude": 48.73947
+    },
+    "population": 74590
+  },
+  {
+    "id": "750598",
+    "name": "Bilecik",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 29.97932,
+      "latitude": 40.14192
+    },
+    "population": 74457
+  },
+  {
+    "id": "786735",
+    "name": "Prilep",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 21.5537,
+      "latitude": 41.34558
+    },
+    "population": 73814
+  },
+  {
+    "id": "665010",
+    "name": "Targu Jiu",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 23.28333,
+      "latitude": 45.05
+    },
+    "population": 73545
+  },
+  {
+    "id": "3061370",
+    "name": "Zlin",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 17.67065,
+      "latitude": 49.22645
+    },
+    "population": 72973
+  },
+  {
+    "id": "648900",
+    "name": "Lappeenranta",
+    "countryCode": "FI",
+    "coordinates": {
+      "longitude": 28.18871,
+      "latitude": 61.05871
+    },
+    "population": 72909
+  },
+  {
+    "id": "727233",
+    "name": "Shumen",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 26.92286,
+      "latitude": 43.27064
+    },
+    "population": 72342
+  },
+  {
+    "id": "738025",
+    "name": "Yalova",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 29.27693,
+      "latitude": 40.65501
+    },
+    "population": 71289
+  },
+  {
+    "id": "715126",
+    "name": "Szolnok",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 20.19835,
+      "latitude": 47.18066
+    },
+    "population": 71285
+  },
+  {
+    "id": "2663536",
+    "name": "Vaexjoe",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 14.80906,
+      "latitude": 56.87767
+    },
+    "population": 71282
+  },
+  {
+    "id": "2507901",
+    "name": "Ain Temouchent",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": -1.14037,
+      "latitude": 35.29749
+    },
+    "population": 70810
+  },
+  {
+    "id": "2708365",
+    "name": "Halmstad",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 12.85676,
+      "latitude": 56.67446
+    },
+    "population": 70480
+  },
+  {
+    "id": "2468579",
+    "name": "Nabeul",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 10.73763,
+      "latitude": 36.45606
+    },
+    "population": 70437
+  },
+  {
+    "id": "2268339",
+    "name": "Faro",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -7.92716,
+      "latitude": 37.01869
+    },
+    "population": 70347
+  },
+  {
+    "id": "726418",
+    "name": "Dobrich",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 27.83138,
+      "latitude": 43.56491
+    },
+    "population": 69434
+  },
+  {
+    "id": "792578",
+    "name": "Bitola",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 21.33553,
+      "latitude": 41.03226
+    },
+    "population": 69287
+  },
+  {
+    "id": "2759633",
+    "name": "Assen",
+    "countryCode": "NL",
+    "coordinates": {
+      "longitude": 6.5625,
+      "latitude": 52.99667
+    },
+    "population": 68836
+  },
+  {
+    "id": "2502958",
+    "name": "Bouira",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 3.902,
+      "latitude": 36.37489
+    },
+    "population": 68545
+  },
+  {
+    "id": "659180",
+    "name": "Haemeenlinna",
+    "countryCode": "FI",
+    "coordinates": {
+      "longitude": 24.46434,
+      "latitude": 60.99596
+    },
+    "population": 68473
+  },
+  {
+    "id": "733191",
+    "name": "Blagoevgrad",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 23.09804,
+      "latitude": 42.01457
+    },
+    "population": 67810
+  },
+  {
+    "id": "457954",
+    "name": "Liepaja",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 21.01085,
+      "latitude": 56.50474
+    },
+    "population": 67421
+  },
+  {
+    "id": "3186952",
+    "name": "Zadar",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 15.22514,
+      "latitude": 44.11578
+    },
+    "population": 67309
+  },
+  {
+    "id": "2484620",
+    "name": "Oum el Bouaghi",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 7.11353,
+      "latitude": 35.87541
+    },
+    "population": 67201
+  },
+  {
+    "id": "665024",
+    "name": "Targoviste",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 25.4567,
+      "latitude": 44.92543
+    },
+    "population": 66965
+  },
+  {
+    "id": "2701713",
+    "name": "Karlskrona",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 15.58661,
+      "latitude": 56.16156
+    },
+    "population": 66675
+  },
+  {
+    "id": "678015",
+    "name": "Focsani",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 27.18333,
+      "latitude": 45.7
+    },
+    "population": 66648
+  },
+  {
+    "id": "2475860",
+    "name": "Tissemsilt",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 1.81081,
+      "latitude": 35.60722
+    },
+    "population": 66084
+  },
+  {
+    "id": "706448",
+    "name": "Kherson",
+    "countryCode": "UA",
+    "coordinates": {
+      "longitude": 32.61458,
+      "latitude": 46.63695
+    },
+    "population": 66000
+  },
+  {
+    "id": "3044082",
+    "name": "Tatabanya",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 18.38099,
+      "latitude": 47.59247
+    },
+    "population": 65849
+  },
+  {
+    "id": "664518",
+    "name": "Tulcea",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 28.80501,
+      "latitude": 45.1787
+    },
+    "population": 65624
+  },
+  {
+    "id": "261779",
+    "name": "Ioannina",
+    "countryCode": "GR",
+    "coordinates": {
+      "longitude": 20.85187,
+      "latitude": 39.66341
+    },
+    "population": 65574
+  },
+  {
+    "id": "730435",
+    "name": "Haskovo",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 25.55557,
+      "latitude": 41.93415
+    },
+    "population": 64564
+  },
+  {
+    "id": "3050616",
+    "name": "Kaposvar",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 17.8,
+      "latitude": 46.36667
+    },
+    "population": 64280
+  },
+  {
+    "id": "686578",
+    "name": "Alba Iulia",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 23.58333,
+      "latitude": 46.06667
+    },
+    "population": 64227
+  },
+  {
+    "id": "725578",
+    "name": "Yambol",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 26.50006,
+      "latitude": 42.48243
+    },
+    "population": 63656
+  },
+  {
+    "id": "666767",
+    "name": "Slatina",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 24.36667,
+      "latitude": 44.43333
+    },
+    "population": 63487
+  },
+  {
+    "id": "2487452",
+    "name": "Mila",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 6.26444,
+      "latitude": 36.45028
+    },
+    "population": 63251
+  },
+  {
+    "id": "785082",
+    "name": "Tetovo",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 20.97138,
+      "latitude": 42.00989
+    },
+    "population": 63176
+  },
+  {
+    "id": "663118",
+    "name": "Vaslui",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 27.73333,
+      "latitude": 46.63333
+    },
+    "population": 63035
+  },
+  {
+    "id": "3057124",
+    "name": "Trnava",
+    "countryCode": "SK",
+    "coordinates": {
+      "longitude": 17.58603,
+      "latitude": 48.37773
+    },
+    "population": 62806
+  },
+  {
+    "id": "3186084",
+    "name": "Berat",
+    "countryCode": "AL",
+    "coordinates": {
+      "longitude": 19.95222,
+      "latitude": 40.70583
+    },
+    "population": 62232
+  },
+  {
+    "id": "3042638",
+    "name": "Zalaegerszeg",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 16.84401,
+      "latitude": 46.83695
+    },
+    "population": 61898
+  },
+  {
+    "id": "2472774",
+    "name": "Beja",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 9.18169,
+      "latitude": 36.72564
+    },
+    "population": 61568
+  },
+  {
+    "id": "2701680",
+    "name": "Karlstad",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 13.50357,
+      "latitude": 59.3793
+    },
+    "population": 61492
+  },
+  {
+    "id": "2610613",
+    "name": "Vejle",
+    "countryCode": "DK",
+    "coordinates": {
+      "longitude": 9.5357,
+      "latitude": 55.70927
+    },
+    "population": 60231
+  },
+  {
+    "id": "2513917",
+    "name": "Merida",
+    "countryCode": "ES",
+    "coordinates": {
+      "longitude": -6.34292,
+      "latitude": 38.91802
+    },
+    "population": 59857
+  },
+  {
+    "id": "722437",
+    "name": "Bekescsaba",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 21.1,
+      "latitude": 46.68333
+    },
+    "population": 59732
+  },
+  {
+    "id": "784759",
+    "name": "Ferizaj",
+    "countryCode": "XK",
+    "coordinates": {
+      "longitude": 21.15528,
+      "latitude": 42.37056
+    },
+    "population": 59504
+  },
+  {
+    "id": "725993",
+    "name": "Veliko Turnovo",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 25.62904,
+      "latitude": 43.08124
+    },
+    "population": 59166
+  },
+  {
+    "id": "3140084",
+    "name": "Sarpsborg",
+    "countryCode": "NO",
+    "coordinates": {
+      "longitude": 11.10962,
+      "latitude": 59.28391
+    },
+    "population": 59038
+  },
+  {
+    "id": "3057140",
+    "name": "Trencin",
+    "countryCode": "SK",
+    "coordinates": {
+      "longitude": 18.04436,
+      "latitude": 48.89452
+    },
+    "population": 58278
+  },
+  {
+    "id": "782756",
+    "name": "Korce",
+    "countryCode": "AL",
+    "coordinates": {
+      "longitude": 20.78083,
+      "latitude": 40.61861
+    },
+    "population": 58259
+  },
+  {
+    "id": "743166",
+    "name": "Kirklareli",
+    "countryCode": "TR",
+    "coordinates": {
+      "longitude": 27.22521,
+      "latitude": 41.73508
+    },
+    "population": 58223
+  },
+  {
+    "id": "3194494",
+    "name": "Niksic",
+    "countryCode": "ME",
+    "coordinates": {
+      "longitude": 18.94446,
+      "latitude": 42.7731
+    },
+    "population": 58212
+  },
+  {
+    "id": "785058",
+    "name": "Veles",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 21.77196,
+      "latitude": 41.71719
+    },
+    "population": 57873
+  },
+  {
+    "id": "3042929",
+    "name": "Veszprem",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 17.91149,
+      "latitude": 47.09327
+    },
+    "population": 56927
+  },
+  {
+    "id": "3170027",
+    "name": "Potenza",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 15.80794,
+      "latitude": 40.64175
+    },
+    "population": 56433
+  },
+  {
+    "id": "3185672",
+    "name": "Fier",
+    "countryCode": "AL",
+    "coordinates": {
+      "longitude": 19.55823,
+      "latitude": 40.7251
+    },
+    "population": 56297
+  },
+  {
+    "id": "3134331",
+    "name": "Tonsberg",
+    "countryCode": "NO",
+    "coordinates": {
+      "longitude": 10.40762,
+      "latitude": 59.26754
+    },
+    "population": 55387
+  },
+  {
+    "id": "2508228",
+    "name": "Ain Defla",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 1.9679,
+      "latitude": 36.26405
+    },
+    "population": 55259
+  },
+  {
+    "id": "728378",
+    "name": "Pazardzhik",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 24.33318,
+      "latitude": 42.19934
+    },
+    "population": 55220
+  },
+  {
+    "id": "459279",
+    "name": "Jelgava",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 23.71278,
+      "latitude": 56.65
+    },
+    "population": 54834
+  },
+  {
+    "id": "677106",
+    "name": "Giurgiu",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 25.9627,
+      "latitude": 43.88664
+    },
+    "population": 54551
+  },
+  {
+    "id": "3038334",
+    "name": "Ajaccio",
+    "countryCode": "FR",
+    "coordinates": {
+      "longitude": 8.73812,
+      "latitude": 41.91886
+    },
+    "population": 54364
+  },
+  {
+    "id": "721239",
+    "name": "Eger",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 20.37329,
+      "latitude": 47.90265
+    },
+    "population": 53876
+  },
+  {
+    "id": "2473634",
+    "name": "El Kef",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 8.70486,
+      "latitude": 36.17424
+    },
+    "population": 53596
+  },
+  {
+    "id": "2268406",
+    "name": "Evora",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -7.90405,
+      "latitude": 38.56587
+    },
+    "population": 53591
+  },
+  {
+    "id": "662334",
+    "name": "Zalau",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 23.05,
+      "latitude": 47.2
+    },
+    "population": 52359
+  },
+  {
+    "id": "258620",
+    "name": "Lamia",
+    "countryCode": "GR",
+    "coordinates": {
+      "longitude": 22.4335,
+      "latitude": 38.89947
+    },
+    "population": 52006
+  },
+  {
+    "id": "459201",
+    "name": "Jurmala",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 23.77038,
+      "latitude": 56.968
+    },
+    "population": 52001
+  },
+  {
+    "id": "790674",
+    "name": "Gjilan",
+    "countryCode": "XK",
+    "coordinates": {
+      "longitude": 21.46986,
+      "latitude": 42.46045
+    },
+    "population": 51912
+  },
+  {
+    "id": "2473572",
+    "name": "Mahdia",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 11.06222,
+      "latitude": 35.50472
+    },
+    "population": 51803
+  },
+  {
+    "id": "646005",
+    "name": "Mikkeli",
+    "countryCode": "FI",
+    "coordinates": {
+      "longitude": 27.27227,
+      "latitude": 61.68857
+    },
+    "population": 51661
+  },
+  {
+    "id": "2470088",
+    "name": "Jendouba",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 8.78024,
+      "latitude": 36.50114
+    },
+    "population": 51408
+  },
+  {
+    "id": "3164603",
+    "name": "Venice",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 12.33265,
+      "latitude": 45.43713
+    },
+    "population": 51298
+  },
+  {
+    "id": "790295",
+    "name": "Gostivar",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 20.90799,
+      "latitude": 41.79627
+    },
+    "population": 50974
+  },
+  {
+    "id": "3139075",
+    "name": "Skien",
+    "countryCode": "NO",
+    "coordinates": {
+      "longitude": 9.60897,
+      "latitude": 59.20962
+    },
+    "population": 50595
+  },
+  {
+    "id": "3074199",
+    "name": "Jihlava",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 15.59124,
+      "latitude": 49.3961
+    },
+    "population": 50108
+  },
+  {
+    "id": "667303",
+    "name": "Sfantu Gheorghe",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 25.78333,
+      "latitude": 45.86667
+    },
+    "population": 50080
+  },
+  {
+    "id": "725712",
+    "name": "Vratsa",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 23.56312,
+      "latitude": 43.21052
+    },
+    "population": 49569
+  },
+  {
+    "id": "3180991",
+    "name": "Campobasso",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 14.66737,
+      "latitude": 41.55947
+    },
+    "population": 49230
+  },
+  {
+    "id": "601084",
+    "name": "Alytus",
+    "countryCode": "LT",
+    "coordinates": {
+      "longitude": 24.03885,
+      "latitude": 54.39574
+    },
+    "population": 49195
+  },
+  {
+    "id": "787157",
+    "name": "Peje",
+    "countryCode": "XK",
+    "coordinates": {
+      "longitude": 20.28828,
+      "latitude": 42.65913
+    },
+    "population": 48962
+  },
+  {
+    "id": "785482",
+    "name": "Shtip",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 22.19583,
+      "latitude": 41.74583
+    },
+    "population": 48279
+  },
+  {
+    "id": "731549",
+    "name": "Gabrovo",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 25.31823,
+      "latitude": 42.87419
+    },
+    "population": 48133
+  },
+  {
+    "id": "2465840",
+    "name": "Sidi Bouzid",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 9.48494,
+      "latitude": 35.03823
+    },
+    "population": 47595
+  },
+  {
+    "id": "729114",
+    "name": "Montana",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 23.22174,
+      "latitude": 43.41285
+    },
+    "population": 47445
+  },
+  {
+    "id": "729730",
+    "name": "Kyustendil",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 22.69224,
+      "latitude": 42.28314
+    },
+    "population": 46856
+  },
+  {
+    "id": "2750896",
+    "name": "Middelburg",
+    "countryCode": "NL",
+    "coordinates": {
+      "longitude": 3.61389,
+      "latitude": 51.5
+    },
+    "population": 46485
+  },
+  {
+    "id": "735640",
+    "name": "Komotini",
+    "countryCode": "GR",
+    "coordinates": {
+      "longitude": 25.40587,
+      "latitude": 41.11758
+    },
+    "population": 45631
+  },
+  {
+    "id": "3073803",
+    "name": "Karlovy Vary",
+    "countryCode": "CZ",
+    "coordinates": {
+      "longitude": 12.87117,
+      "latitude": 50.23271
+    },
+    "population": 45500
+  },
+  {
+    "id": "7886881",
+    "name": "Centar Zupa",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 20.55945,
+      "latitude": 41.47849
+    },
+    "population": 45412
+  },
+  {
+    "id": "3190586",
+    "name": "Slavonski Brod",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 18.0163,
+      "latitude": 45.16158
+    },
+    "population": 45005
+  },
+  {
+    "id": "729794",
+    "name": "Kardzhali",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 25.36578,
+      "latitude": 41.64502
+    },
+    "population": 44071
+  },
+  {
+    "id": "2661567",
+    "name": "Bellinzona",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 9.01703,
+      "latitude": 46.19278
+    },
+    "population": 43220
+  },
+  {
+    "id": "2961297",
+    "name": "Swords",
+    "countryCode": "IE",
+    "coordinates": {
+      "longitude": -6.21806,
+      "latitude": 53.45972
+    },
+    "population": 42738
+  },
+  {
+    "id": "146617",
+    "name": "Famagusta",
+    "countryCode": "CY",
+    "coordinates": {
+      "longitude": 33.94135,
+      "latitude": 35.12489
+    },
+    "population": 42526
+  },
+  {
+    "id": "787487",
+    "name": "Ohrid",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 20.80175,
+      "latitude": 41.11701
+    },
+    "population": 42033
+  },
+  {
+    "id": "3345300",
+    "name": "Karlovac",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 15.55,
+      "latitude": 45.49167
+    },
+    "population": 41869
+  },
+  {
+    "id": "8581467",
+    "name": "Slobozia",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 27.3633,
+      "latitude": 44.5647
+    },
+    "population": 41550
+  },
+  {
+    "id": "2610319",
+    "name": "Viborg",
+    "countryCode": "DK",
+    "coordinates": {
+      "longitude": 9.40201,
+      "latitude": 56.45319
+    },
+    "population": 41239
+  },
+  {
+    "id": "686502",
+    "name": "Alexandria",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 25.33333,
+      "latitude": 43.98333
+    },
+    "population": 40390
+  },
+  {
+    "id": "589580",
+    "name": "Paernu",
+    "countryCode": "EE",
+    "coordinates": {
+      "longitude": 24.49711,
+      "latitude": 58.38588
+    },
+    "population": 40228
+  },
+  {
+    "id": "2738785",
+    "name": "Guarda",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -7.26631,
+      "latitude": 40.53754
+    },
+    "population": 40126
+  },
+  {
+    "id": "2463679",
+    "name": "Corfu",
+    "countryCode": "GR",
+    "coordinates": {
+      "longitude": 19.92016,
+      "latitude": 39.62441
+    },
+    "population": 40047
+  },
+  {
+    "id": "3203521",
+    "name": "Brcko",
+    "countryCode": "BA",
+    "coordinates": {
+      "longitude": 18.8163,
+      "latitude": 44.87162
+    },
+    "population": 38968
+  },
+  {
+    "id": "789541",
+    "name": "Kavadarci",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 22.01218,
+      "latitude": 41.43344
+    },
+    "population": 38799
+  },
+  {
+    "id": "2687700",
+    "name": "Nykoeping",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 17.00788,
+      "latitude": 58.753
+    },
+    "population": 38780
+  },
+  {
+    "id": "2702261",
+    "name": "Kalmar",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 16.36163,
+      "latitude": 56.66157
+    },
+    "population": 38408
+  },
+  {
+    "id": "2660718",
+    "name": "Fribourg",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 7.15128,
+      "latitude": 46.80237
+    },
+    "population": 38365
+  },
+  {
+    "id": "3202781",
+    "name": "Celje",
+    "countryCode": "SI",
+    "coordinates": {
+      "longitude": 15.26044,
+      "latitude": 46.23092
+    },
+    "population": 38059
+  },
+  {
+    "id": "3197378",
+    "name": "Kranj",
+    "countryCode": "SI",
+    "coordinates": {
+      "longitude": 14.35561,
+      "latitude": 46.23887
+    },
+    "population": 37966
+  },
+  {
+    "id": "785387",
+    "name": "Struga",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 20.67894,
+      "latitude": 41.17787
+    },
+    "population": 37387
+  },
+  {
+    "id": "2715459",
+    "name": "Falun",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 15.62597,
+      "latitude": 60.60357
+    },
+    "population": 37291
+  },
+  {
+    "id": "2658761",
+    "name": "Schaffhausen",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 8.63493,
+      "latitude": 47.69732
+    },
+    "population": 36587
+  },
+  {
+    "id": "735563",
+    "name": "Kozani",
+    "countryCode": "GR",
+    "coordinates": {
+      "longitude": 21.78984,
+      "latitude": 40.29931
+    },
+    "population": 36481
+  },
+  {
+    "id": "3188383",
+    "name": "Varazdin",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 16.33778,
+      "latitude": 46.30444
+    },
+    "population": 36187
+  },
+  {
+    "id": "2732773",
+    "name": "Viana do Castelo",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -8.83287,
+      "latitude": 41.69323
+    },
+    "population": 36148
+  },
+  {
+    "id": "782661",
+    "name": "Kukes",
+    "countryCode": "AL",
+    "coordinates": {
+      "longitude": 20.42194,
+      "latitude": 42.07694
+    },
+    "population": 36125
+  },
+  {
+    "id": "2661169",
+    "name": "Chur",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 9.53287,
+      "latitude": 46.84986
+    },
+    "population": 35373
+  },
+  {
+    "id": "2620320",
+    "name": "Hillerod",
+    "countryCode": "DK",
+    "coordinates": {
+      "longitude": 12.30081,
+      "latitude": 55.92791
+    },
+    "population": 35357
+  },
+  {
+    "id": "2742027",
+    "name": "Braganca",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -6.75898,
+      "latitude": 41.80716
+    },
+    "population": 35341
+  },
+  {
+    "id": "3182997",
+    "name": "Aosta",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 7.31722,
+      "latitude": 45.73764
+    },
+    "population": 35261
+  },
+  {
+    "id": "597231",
+    "name": "Marijampole",
+    "countryCode": "LT",
+    "coordinates": {
+      "longitude": 23.35004,
+      "latitude": 54.55787
+    },
+    "population": 34975
+  },
+  {
+    "id": "725905",
+    "name": "Vidin",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 22.88236,
+      "latitude": 43.99159
+    },
+    "population": 34797
+  },
+  {
+    "id": "726174",
+    "name": "Targovishte",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 26.57215,
+      "latitude": 43.2512
+    },
+    "population": 34793
+  },
+  {
+    "id": "2270985",
+    "name": "Beja",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -7.86284,
+      "latitude": 38.01469
+    },
+    "population": 34760
+  },
+  {
+    "id": "2658576",
+    "name": "Sitten",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 7.35559,
+      "latitude": 46.22739
+    },
+    "population": 34708
+  },
+  {
+    "id": "3045643",
+    "name": "Salgotarjan",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 19.80303,
+      "latitude": 48.09872
+    },
+    "population": 34627
+  },
+  {
+    "id": "618456",
+    "name": "Cahul",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 28.19516,
+      "latitude": 45.90456
+    },
+    "population": 34492
+  },
+  {
+    "id": "673441",
+    "name": "Miercurea-Ciuc",
+    "countryCode": "RO",
+    "coordinates": {
+      "longitude": 25.8,
+      "latitude": 46.35
+    },
+    "population": 34484
+  },
+  {
+    "id": "617180",
+    "name": "Ungheni",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 27.80013,
+      "latitude": 47.21023
+    },
+    "population": 34422
+  },
+  {
+    "id": "789403",
+    "name": "Kochani",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 22.41278,
+      "latitude": 41.91639
+    },
+    "population": 34258
+  },
+  {
+    "id": "3044760",
+    "name": "Szekszard",
+    "countryCode": "HU",
+    "coordinates": {
+      "longitude": 18.71189,
+      "latitude": 46.34723
+    },
+    "population": 34174
+  },
+  {
+    "id": "785380",
+    "name": "Strumica",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 22.64288,
+      "latitude": 41.43763
+    },
+    "population": 33825
+  },
+  {
+    "id": "3175121",
+    "name": "L'Aquila",
+    "countryCode": "IT",
+    "coordinates": {
+      "longitude": 13.39954,
+      "latitude": 42.35055
+    },
+    "population": 33691
+  },
+  {
+    "id": "2269514",
+    "name": "Castelo Branco",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -7.49101,
+      "latitude": 39.82364
+    },
+    "population": 33479
+  },
+  {
+    "id": "2659496",
+    "name": "Neuchatel",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 6.931,
+      "latitude": 46.99179
+    },
+    "population": 33475
+  },
+  {
+    "id": "454310",
+    "name": "Ventspils",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 21.56121,
+      "latitude": 57.39485
+    },
+    "population": 32723
+  },
+  {
+    "id": "2562541",
+    "name": "San Pawl il-Bahar",
+    "countryCode": "MT",
+    "coordinates": {
+      "longitude": 14.41561,
+      "latitude": 35.95064
+    },
+    "population": 32042
+  },
+  {
+    "id": "2469274",
+    "name": "Manouba",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 10.09557,
+      "latitude": 36.81006
+    },
+    "population": 32005
+  },
+  {
+    "id": "2465030",
+    "name": "Siliana",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 9.37082,
+      "latitude": 36.08497
+    },
+    "population": 31251
+  },
+  {
+    "id": "789527",
+    "name": "Kicevo",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 20.95867,
+      "latitude": 41.51274
+    },
+    "population": 31123
+  },
+  {
+    "id": "3190941",
+    "name": "Sibenik",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 15.8942,
+      "latitude": 43.73429
+    },
+    "population": 31115
+  },
+  {
+    "id": "3162955",
+    "name": "Arendal",
+    "countryCode": "NO",
+    "coordinates": {
+      "longitude": 8.77253,
+      "latitude": 58.46151
+    },
+    "population": 30916
+  },
+  {
+    "id": "727030",
+    "name": "Smolyan",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 24.71204,
+      "latitude": 41.57439
+    },
+    "population": 30689
+  },
+  {
+    "id": "2657908",
+    "name": "Zug",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 8.51745,
+      "latitude": 47.17242
+    },
+    "population": 30542
+  },
+  {
+    "id": "2781503",
+    "name": "Bregenz",
+    "countryCode": "AT",
+    "coordinates": {
+      "longitude": 9.7471,
+      "latitude": 47.50311
+    },
+    "population": 29806
+  },
+  {
+    "id": "727221",
+    "name": "Silistra",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 27.26056,
+      "latitude": 44.1171
+    },
+    "population": 29498
+  },
+  {
+    "id": "3154084",
+    "name": "Hamar",
+    "countryCode": "NO",
+    "coordinates": {
+      "longitude": 11.06798,
+      "latitude": 60.7945
+    },
+    "population": 29479
+  },
+  {
+    "id": "2263480",
+    "name": "Santarem",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -8.68617,
+      "latitude": 39.23379
+    },
+    "population": 29385
+  },
+  {
+    "id": "3147474",
+    "name": "Lillehammer",
+    "countryCode": "NO",
+    "coordinates": {
+      "longitude": 10.46628,
+      "latitude": 61.11514
+    },
+    "population": 29011
+  },
+  {
+    "id": "2474141",
+    "name": "Boumerdas",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 3.47717,
+      "latitude": 36.76639
+    },
+    "population": 28996
+  },
+  {
+    "id": "727696",
+    "name": "Razgrad",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 26.51849,
+      "latitude": 43.53331
+    },
+    "population": 28931
+  },
+  {
+    "id": "256866",
+    "name": "Mytilene",
+    "countryCode": "GR",
+    "coordinates": {
+      "longitude": 26.55529,
+      "latitude": 39.10772
+    },
+    "population": 28322
+  },
+  {
+    "id": "788654",
+    "name": "Lipkovo",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 21.58559,
+      "latitude": 42.15696
+    },
+    "population": 28102
+  },
+  {
+    "id": "729559",
+    "name": "Lovech",
+    "countryCode": "BG",
+    "coordinates": {
+      "longitude": 24.71763,
+      "latitude": 43.13227
+    },
+    "population": 27910
+  },
+  {
+    "id": "3190813",
+    "name": "Sisak",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 16.37748,
+      "latitude": 45.46608
+    },
+    "population": 27859
+  },
+  {
+    "id": "617367",
+    "name": "Soroca",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 28.28489,
+      "latitude": 48.15659
+    },
+    "population": 27423
+  },
+  {
+    "id": "3201047",
+    "name": "Dubrovnik",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 18.10909,
+      "latitude": 42.64125
+    },
+    "population": 26922
+  },
+  {
+    "id": "146412",
+    "name": "Kyrenia",
+    "countryCode": "CY",
+    "coordinates": {
+      "longitude": 33.31729,
+      "latitude": 35.33634
+    },
+    "population": 26701
+  },
+  {
+    "id": "252601",
+    "name": "Tripoli",
+    "countryCode": "GR",
+    "coordinates": {
+      "longitude": 22.37883,
+      "latitude": 37.50959
+    },
+    "population": 26561
+  },
+  {
+    "id": "456202",
+    "name": "Rezekne",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 27.34,
+      "latitude": 56.51028
+    },
+    "population": 26429
+  },
+  {
+    "id": "3197753",
+    "name": "Koper",
+    "countryCode": "SI",
+    "coordinates": {
+      "longitude": 13.72963,
+      "latitude": 45.5482
+    },
+    "population": 25753
+  },
+  {
+    "id": "2660727",
+    "name": "Frauenfeld",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 8.89893,
+      "latitude": 47.55776
+    },
+    "population": 25607
+  },
+  {
+    "id": "783926",
+    "name": "Zelino",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 21.06417,
+      "latitude": 41.98028
+    },
+    "population": 25422
+  },
+  {
+    "id": "593672",
+    "name": "Utena",
+    "countryCode": "LT",
+    "coordinates": {
+      "longitude": 25.60462,
+      "latitude": 55.4978
+    },
+    "population": 25397
+  },
+  {
+    "id": "786565",
+    "name": "Radovis",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 22.46472,
+      "latitude": 41.63833
+    },
+    "population": 24984
+  },
+  {
+    "id": "617638",
+    "name": "Orhei",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 28.82535,
+      "latitude": 47.38503
+    },
+    "population": 24918
+  },
+  {
+    "id": "3194351",
+    "name": "Novo Mesto",
+    "countryCode": "SI",
+    "coordinates": {
+      "longitude": 15.16886,
+      "latitude": 45.80397
+    },
+    "population": 24446
+  },
+  {
+    "id": "3203982",
+    "name": "Bjelovar",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 16.85071,
+      "latitude": 45.89789
+    },
+    "population": 24392
+  },
+  {
+    "id": "2563191",
+    "name": "Birkirkara",
+    "countryCode": "MT",
+    "coordinates": {
+      "longitude": 14.46115,
+      "latitude": 35.89706
+    },
+    "population": 24356
+  },
+  {
+    "id": "3189075",
+    "name": "Velenje",
+    "countryCode": "SI",
+    "coordinates": {
+      "longitude": 15.11277,
+      "latitude": 46.35719
+    },
+    "population": 24327
+  },
+  {
+    "id": "2562704",
+    "name": "Mosta",
+    "countryCode": "MT",
+    "coordinates": {
+      "longitude": 14.42566,
+      "latitude": 35.90942
+    },
+    "population": 23482
+  },
+  {
+    "id": "783148",
+    "name": "Gjirokaster",
+    "countryCode": "AL",
+    "coordinates": {
+      "longitude": 20.13889,
+      "latitude": 40.07583
+    },
+    "population": 23437
+  },
+  {
+    "id": "2662689",
+    "name": "Visby",
+    "countryCode": "SE",
+    "coordinates": {
+      "longitude": 18.29602,
+      "latitude": 57.64089
+    },
+    "population": 23402
+  },
+  {
+    "id": "785113",
+    "name": "Tearce",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 21.05179,
+      "latitude": 42.07593
+    },
+    "population": 23096
+  },
+  {
+    "id": "618405",
+    "name": "Comrat",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 28.65713,
+      "latitude": 46.29488
+    },
+    "population": 22911
+  },
+  {
+    "id": "617076",
+    "name": "Edinet",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 27.30075,
+      "latitude": 48.17319
+    },
+    "population": 22872
+  },
+  {
+    "id": "453754",
+    "name": "Valmiera",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 25.42751,
+      "latitude": 57.54108
+    },
+    "population": 22812
+  },
+  {
+    "id": "457065",
+    "name": "Ogre",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 24.61401,
+      "latitude": 56.8162
+    },
+    "population": 22767
+  },
+  {
+    "id": "2562501",
+    "name": "Sliema",
+    "countryCode": "MT",
+    "coordinates": {
+      "longitude": 14.50175,
+      "latitude": 35.91247
+    },
+    "population": 22591
+  },
+  {
+    "id": "2264508",
+    "name": "Portalegre",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -7.43122,
+      "latitude": 39.29379
+    },
+    "population": 22368
+  },
+  {
+    "id": "3197728",
+    "name": "Koprivnica",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 16.8297,
+      "latitude": 46.16364
+    },
+    "population": 22262
+  },
+  {
+    "id": "3187047",
+    "name": "Vukovar",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 19.00225,
+      "latitude": 45.35161
+    },
+    "population": 22255
+  },
+  {
+    "id": "2766429",
+    "name": "Sankt Poelten",
+    "countryCode": "AT",
+    "coordinates": {
+      "longitude": 15.63725,
+      "latitude": 48.20762
+    },
+    "population": 21911
+  },
+  {
+    "id": "618120",
+    "name": "Causeni",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 29.41087,
+      "latitude": 46.63738
+    },
+    "population": 21690
+  },
+  {
+    "id": "2661881",
+    "name": "Aarau",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 8.04422,
+      "latitude": 47.39254
+    },
+    "population": 21503
+  },
+  {
+    "id": "593926",
+    "name": "Telsiai",
+    "countryCode": "LT",
+    "coordinates": {
+      "longitude": 22.24722,
+      "latitude": 55.98139
+    },
+    "population": 21294
+  },
+  {
+    "id": "593959",
+    "name": "Taurage",
+    "countryCode": "LT",
+    "coordinates": {
+      "longitude": 22.28972,
+      "latitude": 55.25222
+    },
+    "population": 21203
+  },
+  {
+    "id": "459283",
+    "name": "Jekabpils",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 25.85735,
+      "latitude": 56.49903
+    },
+    "population": 21014
+  },
+  {
+    "id": "789045",
+    "name": "Kriva Palanka",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 22.33385,
+      "latitude": 42.20197
+    },
+    "population": 20820
+  },
+  {
+    "id": "2464041",
+    "name": "Zaghouan",
+    "countryCode": "TN",
+    "coordinates": {
+      "longitude": 10.14292,
+      "latitude": 36.40291
+    },
+    "population": 20798
+  },
+  {
+    "id": "790744",
+    "name": "Gevgelija",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 22.50108,
+      "latitude": 41.14289
+    },
+    "population": 20664
+  },
+  {
+    "id": "3199394",
+    "name": "Herceg Novi",
+    "countryCode": "ME",
+    "coordinates": {
+      "longitude": 18.5375,
+      "latitude": 42.45306
+    },
+    "population": 19536
+  },
+  {
+    "id": "787716",
+    "name": "Negotino",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 22.09056,
+      "latitude": 41.48456
+    },
+    "population": 19515
+  },
+  {
+    "id": "3193161",
+    "name": "Pljevlja",
+    "countryCode": "ME",
+    "coordinates": {
+      "longitude": 19.35843,
+      "latitude": 43.3567
+    },
+    "population": 19489
+  },
+  {
+    "id": "617302",
+    "name": "Straseni",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 28.60774,
+      "latitude": 47.14216
+    },
+    "population": 19225
+  },
+  {
+    "id": "864723",
+    "name": "Marupe",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 24.05113,
+      "latitude": 56.90544
+    },
+    "population": 19096
+  },
+  {
+    "id": "3184935",
+    "name": "Lezhe",
+    "countryCode": "AL",
+    "coordinates": {
+      "longitude": 19.64361,
+      "latitude": 41.78361
+    },
+    "population": 18695
+  },
+  {
+    "id": "785345",
+    "name": "Studenicani",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 21.53483,
+      "latitude": 41.92208
+    },
+    "population": 18219
+  },
+  {
+    "id": "784424",
+    "name": "Vinica",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 22.51074,
+      "latitude": 41.8812
+    },
+    "population": 18218
+  },
+  {
+    "id": "791606",
+    "name": "Debar",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 20.52198,
+      "latitude": 41.52286
+    },
+    "population": 18074
+  },
+  {
+    "id": "3203106",
+    "name": "Budva",
+    "countryCode": "ME",
+    "coordinates": {
+      "longitude": 18.83922,
+      "latitude": 42.28721
+    },
+    "population": 18000
+  },
+  {
+    "id": "3192241",
+    "name": "Ptuj",
+    "countryCode": "SI",
+    "coordinates": {
+      "longitude": 15.87018,
+      "latitude": 46.42005
+    },
+    "population": 17984
+  },
+  {
+    "id": "455898",
+    "name": "Salaspils",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 24.36544,
+      "latitude": 56.86014
+    },
+    "population": 17826
+  },
+  {
+    "id": "3204509",
+    "name": "Bar",
+    "countryCode": "ME",
+    "coordinates": {
+      "longitude": 19.09841,
+      "latitude": 42.0937
+    },
+    "population": 17727
+  },
+  {
+    "id": "791559",
+    "name": "Delcevo",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 22.76944,
+      "latitude": 41.96722
+    },
+    "population": 17415
+  },
+  {
+    "id": "587577",
+    "name": "Viljandi",
+    "countryCode": "EE",
+    "coordinates": {
+      "longitude": 25.59159,
+      "latitude": 58.36319
+    },
+    "population": 17407
+  },
+  {
+    "id": "2732438",
+    "name": "Vila Real",
+    "countryCode": "PT",
+    "coordinates": {
+      "longitude": -7.7432,
+      "latitude": 41.3001
+    },
+    "population": 17001
+  },
+  {
+    "id": "617993",
+    "name": "Hincesti",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 28.58999,
+      "latitude": 46.83089
+    },
+    "population": 16900
+  },
+  {
+    "id": "3190589",
+    "name": "Pozega",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 17.68528,
+      "latitude": 45.34028
+    },
+    "population": 16867
+  },
+  {
+    "id": "2562629",
+    "name": "Qormi",
+    "countryCode": "MT",
+    "coordinates": {
+      "longitude": 14.472,
+      "latitude": 35.87601
+    },
+    "population": 16801
+  },
+  {
+    "id": "2658564",
+    "name": "Solothurn",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 7.53714,
+      "latitude": 47.20791
+    },
+    "population": 16777
+  },
+  {
+    "id": "618329",
+    "name": "Floresti",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 28.29339,
+      "latitude": 47.89168
+    },
+    "population": 16759
+  },
+  {
+    "id": "786341",
+    "name": "Resen",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 21.00885,
+      "latitude": 41.08999
+    },
+    "population": 16539
+  },
+  {
+    "id": "833357",
+    "name": "Ilinden",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 21.58084,
+      "latitude": 41.99297
+    },
+    "population": 16406
+  },
+  {
+    "id": "792227",
+    "name": "Brvenica",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 20.98091,
+      "latitude": 41.96707
+    },
+    "population": 16267
+  },
+  {
+    "id": "454768",
+    "name": "Tukums",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 23.15554,
+      "latitude": 56.96764
+    },
+    "population": 16182
+  },
+  {
+    "id": "618370",
+    "name": "Drochia",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 27.81242,
+      "latitude": 48.03686
+    },
+    "population": 16080
+  },
+  {
+    "id": "3040051",
+    "name": "les Escaldes",
+    "countryCode": "AD",
+    "coordinates": {
+      "longitude": 1.53414,
+      "latitude": 42.50729
+    },
+    "population": 15853
+  },
+  {
+    "id": "2660365",
+    "name": "Herisau",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 9.27916,
+      "latitude": 47.38615
+    },
+    "population": 15744
+  },
+  {
+    "id": "2562266",
+    "name": "Zabbar",
+    "countryCode": "MT",
+    "coordinates": {
+      "longitude": 14.53592,
+      "latitude": 35.87687
+    },
+    "population": 15648
+  },
+  {
+    "id": "3204176",
+    "name": "Bijelo Polje",
+    "countryCode": "ME",
+    "coordinates": {
+      "longitude": 19.74758,
+      "latitude": 43.03834
+    },
+    "population": 15400
+  },
+  {
+    "id": "2658665",
+    "name": "Schwyz",
+    "countryCode": "CH",
+    "coordinates": {
+      "longitude": 8.65414,
+      "latitude": 47.02076
+    },
+    "population": 15181
+  },
+  {
+    "id": "2476028",
+    "name": "Tipasa",
+    "countryCode": "DZ",
+    "coordinates": {
+      "longitude": 2.44889,
+      "latitude": 36.58972
+    },
+    "population": 15180
+  },
+  {
+    "id": "792501",
+    "name": "Bogovinje",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 20.91533,
+      "latitude": 41.92235
+    },
+    "population": 15166
+  },
+  {
+    "id": "3188915",
+    "name": "Trbovlje",
+    "countryCode": "SI",
+    "coordinates": {
+      "longitude": 15.05178,
+      "latitude": 46.1541
+    },
+    "population": 15163
+  },
+  {
+    "id": "3202641",
+    "name": "Cetinje",
+    "countryCode": "ME",
+    "coordinates": {
+      "longitude": 18.91417,
+      "latitude": 42.39063
+    },
+    "population": 15137
+  },
+  {
+    "id": "3202888",
+    "name": "Cakovec",
+    "countryCode": "HR",
+    "coordinates": {
+      "longitude": 16.43389,
+      "latitude": 46.38444
+    },
+    "population": 15078
+  },
+  {
+    "id": "460570",
+    "name": "Cesis",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 25.27456,
+      "latitude": 57.31188
+    },
+    "population": 15020
+  },
+  {
+    "id": "589165",
+    "name": "Rakvere",
+    "countryCode": "EE",
+    "coordinates": {
+      "longitude": 26.35784,
+      "latitude": 59.34808
+    },
+    "population": 14984
+  },
+  {
+    "id": "618196",
+    "name": "Ialoveni",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 28.78153,
+      "latitude": 46.94357
+    },
+    "population": 14915
+  },
+  {
+    "id": "2562683",
+    "name": "Naxxar",
+    "countryCode": "MT",
+    "coordinates": {
+      "longitude": 14.44382,
+      "latitude": 35.91368
+    },
+    "population": 14890
+  },
+  {
+    "id": "455718",
+    "name": "Sigulda",
+    "countryCode": "LV",
+    "coordinates": {
+      "longitude": 24.85953,
+      "latitude": 57.15375
+    },
+    "population": 14757
+  },
+  {
+    "id": "2567539",
+    "name": "San Gwann",
+    "countryCode": "MT",
+    "coordinates": {
+      "longitude": 14.47611,
+      "latitude": 35.90556
+    },
+    "population": 14720
+  },
+  {
+    "id": "782061",
+    "name": "Peshkopi",
+    "countryCode": "AL",
+    "coordinates": {
+      "longitude": 20.42858,
+      "latitude": 41.685
+    },
+    "population": 14710
+  },
+  {
+    "id": "617914",
+    "name": "Singerei",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 28.1407,
+      "latitude": 47.63694
+    },
+    "population": 14600
+  },
+  {
+    "id": "2562850",
+    "name": "Swieqi",
+    "countryCode": "MT",
+    "coordinates": {
+      "longitude": 14.47998,
+      "latitude": 35.92154
+    },
+    "population": 14452
+  },
+  {
+    "id": "618344",
+    "name": "Falesti",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 27.71264,
+      "latitude": 47.57667
+    },
+    "population": 14377
+  },
+  {
+    "id": "617904",
+    "name": "Leova",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 28.25298,
+      "latitude": 46.48195
+    },
+    "population": 14301
+  },
+  {
+    "id": "618454",
+    "name": "Calarasi",
+    "countryCode": "MD",
+    "coordinates": {
+      "longitude": 28.30953,
+      "latitude": 47.25548
+    },
+    "population": 14066
+  },
+  {
+    "id": "792656",
+    "name": "Berovo",
+    "countryCode": "MK",
+    "coordinates": {
+      "longitude": 22.85716,
+      "latitude": 41.70182
+    },
+    "population": 13847
+  },
+  {
+    "id": "2562557",
+    "name": "San Giljan",
+    "countryCode": "MT",
+    "coordinates": {
+      "longitude": 14.48977,
+      "latitude": 35.91839
+    },
+    "population": 13792
+  },
+  {
+    "id": "2562698",
+    "name": "Imsida",
+    "countryCode": "MT",
+    "coordinates": {
+      "longitude": 14.48278,
+      "latitude": 35.8925
+    },
+    "population": 13713
+  },
+  {
+    "id": "3198365",
+    "name": "Kamnik",
+    "countryCode": "SI",
+    "coordinates": {
+      "longitude": 14.61207,
+      "latitude": 46.22587
+    },
+    "population": 13644
+  }
+]
