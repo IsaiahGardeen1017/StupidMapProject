@@ -13,7 +13,11 @@ import type {
   ProvinceId
 } from "../DataTypes";
 import { MAP_RENDER_CONFIG, MAP_VIEW_CONFIG } from "../global-configs";
-import { getPolygonPath, getProvinceFill } from "../lib/mapMath";
+import {
+  getPolygonPath,
+  getProvinceFill,
+  getProvincePolygons
+} from "../lib/mapMath";
 
 type MapCanvasProps = {
   mapData: MapData;
@@ -60,6 +64,21 @@ function isPointInsideRing(point: ProjectedPoint, ring: ProjectedPoint[]) {
   }
 
   return inside;
+}
+
+function isPointInsideProvinceGeometry(
+  point: ProjectedPoint,
+  provinceGeometry: MapData["provinces"][number]["geometry"]
+) {
+  const polygons = getProvincePolygons(provinceGeometry);
+
+  return polygons.some((polygon) => {
+    if (!isPointInsideRing(point, polygon.exteriorRing)) {
+      return false;
+    }
+
+    return !polygon.holes.some((hole) => isPointInsideRing(point, hole));
+  });
 }
 
 export function MapCanvas({
@@ -125,11 +144,17 @@ export function MapCanvas({
     context.translate(-viewport.centerX, -viewport.centerY);
 
     for (const province of mapData.provinces) {
-      if (!province.geometry?.exteriorRing?.length) {
+      if (!getProvincePolygons(province.geometry).some((polygon) => polygon.exteriorRing.length > 0)) {
         continue;
       }
 
-      const provincePath = getPolygonPath(province.geometry.exteriorRing);
+      const provincePath = new Path2D();
+      for (const polygon of getProvincePolygons(province.geometry)) {
+        provincePath.addPath(getPolygonPath(polygon.exteriorRing));
+        for (const hole of polygon.holes) {
+          provincePath.addPath(getPolygonPath(hole));
+        }
+      }
       context.fillStyle = getProvinceFill(
         province.id,
         mapData,
@@ -144,17 +169,8 @@ export function MapCanvas({
         (province.id === selectedProvinceId
           ? 2.5
           : MAP_RENDER_CONFIG.provinceStrokeWidth) / scale;
-      context.fill(provincePath);
+      context.fill(provincePath, "evenodd");
       context.stroke(provincePath);
-
-      if (province.geometry.holes.length > 0) {
-        context.save();
-        context.globalCompositeOperation = "destination-out";
-        for (const hole of province.geometry.holes) {
-          context.fill(getPolygonPath(hole));
-        }
-        context.restore();
-      }
     }
 
     context.restore();
@@ -291,8 +307,10 @@ export function MapCanvas({
           const clickedProvince = [...mapData.provinces]
             .reverse()
             .find((province) =>
-              province.geometry?.exteriorRing?.length
-                ? isPointInsideRing(worldPoint, province.geometry.exteriorRing)
+              getProvincePolygons(province.geometry).some(
+                (polygon) => polygon.exteriorRing.length > 0
+              )
+                ? isPointInsideProvinceGeometry(worldPoint, province.geometry)
                 : false
             );
 

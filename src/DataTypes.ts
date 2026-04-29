@@ -49,8 +49,14 @@ export type ProvinceId = `#${string}`;
 
 export type PolygonRing = ProjectedPoint[];
 
+export type ProvincePolygon = {
+  exteriorRing: PolygonRing;
+  holes: PolygonRing[];
+};
+
 export type ProvinceGeometry = {
   id: ProvinceId;
+  polygons?: ProvincePolygon[];
   exteriorRing: PolygonRing;
   holes: PolygonRing[];
   centroid: ProjectedPoint;

@@ -7,6 +7,7 @@ import type {
   ProvinceId,
   ProvinceOwnerRecord
 } from "../DataTypes";
+import { getProvincePolygons } from "./mapMath";
 import factionsData from "../../data/derived/factions.json";
 import generatedProvinceData from "../../data/derived/generated-provinces.json";
 import ownershipChangesData from "../../data/derived/ownership-changes.json";
@@ -125,6 +126,60 @@ function buildProvinceMetadataMap(provinces: ProvinceData[]) {
   return provinceMap;
 }
 
+function mergeProvinceGeometriesById(provinces: ProvinceData[]): ProvinceData[] {
+  const mergedById = new Map<ProvinceId, ProvinceData>();
+
+  for (const province of provinces) {
+    const existing = mergedById.get(province.id);
+    if (!existing) {
+      mergedById.set(province.id, {
+        ...province,
+        geometry: {
+          ...province.geometry,
+          polygons: getProvincePolygons(province.geometry)
+        }
+      });
+      continue;
+    }
+
+    const existingPolygons = getProvincePolygons(existing.geometry);
+    const nextPolygons = getProvincePolygons(province.geometry);
+    const nextArea = existing.geometry.area + province.geometry.area;
+    const nextPixelCount = existing.geometry.pixelCount + province.geometry.pixelCount;
+    const existingWeight = existing.geometry.area;
+    const nextWeight = province.geometry.area;
+    const weightTotal = existingWeight + nextWeight;
+
+    existing.geometry = {
+      ...existing.geometry,
+      polygons: [...existingPolygons, ...nextPolygons],
+      area: nextArea,
+      pixelCount: nextPixelCount,
+      centroid:
+        weightTotal > 0
+          ? {
+              x:
+                (existing.geometry.centroid.x * existingWeight +
+                  province.geometry.centroid.x * nextWeight) /
+                weightTotal,
+              y:
+                (existing.geometry.centroid.y * existingWeight +
+                  province.geometry.centroid.y * nextWeight) /
+                weightTotal
+            }
+          : existing.geometry.centroid,
+      boundingBox: {
+        minX: Math.min(existing.geometry.boundingBox.minX, province.geometry.boundingBox.minX),
+        minY: Math.min(existing.geometry.boundingBox.minY, province.geometry.boundingBox.minY),
+        maxX: Math.max(existing.geometry.boundingBox.maxX, province.geometry.boundingBox.maxX),
+        maxY: Math.max(existing.geometry.boundingBox.maxY, province.geometry.boundingBox.maxY)
+      }
+    };
+  }
+
+  return [...mergedById.values()];
+}
+
 function mergeMapData(
   rawWorldData: RawMapData,
   rawGeneratedProvinceData: RawProvinceLike[],
@@ -135,6 +190,9 @@ function mergeMapData(
   const normalizedGeneratedProvinces = rawGeneratedProvinceData
     .map((province, index) => normalizeProvince(province, index))
     .filter((province): province is ProvinceData => Boolean(province));
+  const mergedGeneratedProvinces = mergeProvinceGeometriesById(
+    normalizedGeneratedProvinces
+  );
   const provinceMetadata = buildProvinceMetadataMap(normalizedWorldData.provinces);
 
   const participants =
@@ -148,8 +206,8 @@ function mergeMapData(
   );
 
   const provinces =
-    normalizedGeneratedProvinces.length > 0
-      ? normalizedGeneratedProvinces.map((province, index) => ({
+    mergedGeneratedProvinces.length > 0
+      ? mergedGeneratedProvinces.map((province, index) => ({
           ...province,
           name:
             provinceMetadata.get(province.id)?.name ??

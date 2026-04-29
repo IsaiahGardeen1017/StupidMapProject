@@ -14,7 +14,7 @@ export const PLAYBACK_CONFIG = {
 } as const;
 
 export const MAP_IMPORT_CONFIG = {
-    provinceSimplifyTolerance: 2,
+    provinceSimplifyTolerance: 1.5,
 } as const;
 
 export const MAP_RENDER_CONFIG = {
