@@ -1,0 +1,12 @@
+{
+    "faction-1": {
+        "id": "faction-1",
+        "name": "France",
+        "color": "#1c7bff"
+    },
+    "faction-2": {
+        "id": "faction-2",
+        "name": "Netherlands",
+        "color": "#ff9d1c"
+    }
+}

@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/datatypes.ts","./src/global-configs.ts","./src/main.tsx","./src/components/mapcanvas.tsx","./src/lib/mapdata.ts","./src/lib/mapmath.ts"],"version":"5.9.3"}
+{"root":["./src/app.tsx","./src/datatypes.ts","./src/projectiontunerapp.tsx","./src/global-configs.ts","./src/main.tsx","./src/components/mapcanvas.tsx","./src/lib/datemath.ts","./src/lib/mapdata.ts","./src/lib/mapmath.ts","./src/lib/projectionmath.ts"],"version":"5.9.3"}

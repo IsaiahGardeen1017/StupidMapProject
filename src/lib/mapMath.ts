@@ -1,14 +1,16 @@
 import type {
   DateString,
+  MapData,
   Participant,
   ProjectedPoint,
-  ProvinceData,
+  ProvinceId,
   ProvinceOwnerRecord
 } from "../DataTypes";
 import { MAP_RENDER_CONFIG } from "../global-configs";
+import { dateStringToNumber } from "./dateMath";
 
 export function projectDateToNumber(date: DateString): number {
-  return Date.parse(`${date}T00:00:00Z`);
+  return dateStringToNumber(date);
 }
 
 export function getOwnerRecordAtDate(
@@ -30,11 +32,15 @@ export function getOwnerRecordAtDate(
 }
 
 export function getProvinceFill(
-  province: ProvinceData,
+  provinceId: ProvinceId,
+  mapData: MapData,
   selectedDate: DateString,
   participants: Record<string, Participant>
 ): string {
-  const record = getOwnerRecordAtDate(province.ownerTimeline, selectedDate);
+  const record = getOwnerRecordAtDate(
+    mapData.ownershipChanges[provinceId] ?? [],
+    selectedDate
+  );
   if (!record) {
     return MAP_RENDER_CONFIG.unownedProvinceFill;
   }
@@ -46,6 +52,18 @@ export function getProvinceFill(
 
   const participant = participants[controllingParticipantId];
   return participant?.color ?? MAP_RENDER_CONFIG.unownedProvinceFill;
+}
+
+export function getProvinceOwnerIdAtDate(
+  provinceId: ProvinceId,
+  mapData: MapData,
+  selectedDate: DateString
+) {
+  const record = getOwnerRecordAtDate(
+    mapData.ownershipChanges[provinceId] ?? [],
+    selectedDate
+  );
+  return record?.occupierId ?? record?.ownerId;
 }
 
 export function getPolygonPath(points: ProjectedPoint[]): Path2D {

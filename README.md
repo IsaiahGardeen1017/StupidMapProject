@@ -21,10 +21,9 @@ The repo currently includes:
 - a Europe-focused Lambert Conformal Conic projection
 - downloaded `Natural Earth` physical basemap source files
 - downloaded `GeoNames` settlement source files
-- scripts to generate overlay SVGs
-- scripts to generate overlay SVGs and PNGs
+- scripts to generate overlay SVGs and PNGs for multiple tracing layers
 - a script to convert a province ID bitmap into generated province geometry JSON
-- a minimal browser renderer for provinces and owner colors
+- an in-memory editor for ownership changes and factions
 
 ## Requirements
 
@@ -82,6 +81,30 @@ Render the Europe settlements overlay:
 npm run tool:render-settlements
 ```
 
+Render a denser France/Germany settlements overlay:
+
+```powershell
+npm run tool:render-france-germany-settlements
+```
+
+Render the rivers overlay:
+
+```powershell
+npm run tool:render-rivers
+```
+
+Render the modern international border overlay:
+
+```powershell
+npm run tool:render-modern-borders
+```
+
+Render the modern admin-1 or provincial border overlay:
+
+```powershell
+npm run tool:render-admin1-borders
+```
+
 These outputs are written to [data/derived](/C:/MyProjectsC/StupidMapProject/data/derived).
 Each render script now produces both:
 
@@ -89,6 +112,15 @@ Each render script now produces both:
 - a `PNG` for use in Krita or other bitmap editors
 
 For actual province painting, prefer the PNG outputs.
+
+The current tracing overlays are:
+
+- `europe-basemap-overlay`: coastlines, land, and lakes
+- `europe-settlements-overlay`: general Europe settlements from `GeoNames cities500`
+- `france-germany-settlements-overlay`: denser France/Germany settlement labels
+- `europe-rivers-overlay`: rivers and lake centerlines
+- `europe-modern-borders-overlay`: modern international borders
+- `europe-admin1-borders-overlay`: modern internal state and provincial borders where available
 
 ### 3. Paint a province ID map
 
@@ -119,12 +151,29 @@ The app now combines two files automatically:
 
 - [data/derived/world-data.json](/C:/MyProjectsC/StupidMapProject/data/derived/world-data.json)
 - [data/derived/generated-provinces.json](/C:/MyProjectsC/StupidMapProject/data/derived/generated-provinces.json)
+- [data/derived/factions.json](/C:/MyProjectsC/StupidMapProject/data/derived/factions.json)
+- [data/derived/ownership-changes.json](/C:/MyProjectsC/StupidMapProject/data/derived/ownership-changes.json)
 
-`world-data.json` is where you keep timeline data, participants, and optional province metadata like names and owner histories.
+`world-data.json` is the base world object.
 
 `generated-provinces.json` is the geometry output from the converter.
 
+`factions.json` is merged into the `participants` section at runtime.
+
+`ownership-changes.json` is merged into the `ownershipChanges` section at runtime.
+
 You no longer need to paste converted province geometry into the world data file manually.
+
+## Editor workflow
+
+The app now edits an in-memory merged world object only. There is no persistence layer yet.
+
+- Use the `Ownership` tab to select a faction or `No owner`, then click provinces on the map.
+- Use the `Copy Ownership` button to copy just the `ownershipChanges` section.
+- Use the `Factions` tab to add, delete, rename, and recolor participants.
+- Use the `Copy Factions` button to copy just the `participants` section.
+
+You can then paste those copied sections into the derived JSON files yourself.
 
 ## Key files
 
@@ -133,16 +182,20 @@ You no longer need to paste converted province geometry into the world data file
 - World data loader: [src/lib/mapData.ts](/C:/MyProjectsC/StupidMapProject/src/lib/mapData.ts)
 - Projection helpers: [tools/lib/mapPipeline.ts](/C:/MyProjectsC/StupidMapProject/tools/lib/mapPipeline.ts)
 - Basemap renderer: [tools/render-basemap-overlay.ts](/C:/MyProjectsC/StupidMapProject/tools/render-basemap-overlay.ts)
+- Rivers renderer: [tools/render-rivers-overlay.ts](/C:/MyProjectsC/StupidMapProject/tools/render-rivers-overlay.ts)
+- Modern border renderer: [tools/render-modern-borders-overlay.ts](/C:/MyProjectsC/StupidMapProject/tools/render-modern-borders-overlay.ts)
+- Admin-1 border renderer: [tools/render-admin1-borders-overlay.ts](/C:/MyProjectsC/StupidMapProject/tools/render-admin1-borders-overlay.ts)
 - Settlement renderer: [tools/render-settlement-overlay.ts](/C:/MyProjectsC/StupidMapProject/tools/render-settlement-overlay.ts)
+- Dense France/Germany settlement renderer: [tools/render-france-germany-settlements-overlay.ts](/C:/MyProjectsC/StupidMapProject/tools/render-france-germany-settlements-overlay.ts)
 - Province converter: [tools/convert-province-bitmap.ts](/C:/MyProjectsC/StupidMapProject/tools/convert-province-bitmap.ts)
 - Pipeline notes: [MAP_PIPELINE.md](/C:/MyProjectsC/StupidMapProject/MAP_PIPELINE.md)
 
 ## Current limitations
 
-- The settlement source is `GeoNames cities500`, which is practical but not deeply historical.
+- The settlement sources are still modern-first overlays rather than deeply historical gazetteers.
 - The province converter is a first-pass bitmap contour extractor, not a full GIS polygonization pipeline.
-- Rivers are intentionally ignored for now.
-- The browser renderer is still a minimal proof of concept, not yet a full editor.
+- River geometry is available as an overlay, but rivers are not yet part of the editable map data model.
+- Edits are in-memory only and must be copied out manually.
 
 ## Next good steps
 

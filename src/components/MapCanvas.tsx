@@ -6,13 +6,20 @@ import {
   type PointerEvent,
   type WheelEvent
 } from "react";
-import type { DateString, MapData } from "../DataTypes";
+import type {
+  DateString,
+  MapData,
+  ProjectedPoint,
+  ProvinceId
+} from "../DataTypes";
 import { MAP_RENDER_CONFIG, MAP_VIEW_CONFIG } from "../global-configs";
 import { getPolygonPath, getProvinceFill } from "../lib/mapMath";
 
 type MapCanvasProps = {
   mapData: MapData;
+  onProvinceClick?: (provinceId: ProvinceId) => void;
   selectedDate: DateString;
+  selectedProvinceId?: ProvinceId;
 };
 
 type ViewportState = {
@@ -23,11 +30,44 @@ type ViewportState = {
 
 type DragState = {
   pointerId: number;
+  startClientX: number;
+  startClientY: number;
   lastClientX: number;
   lastClientY: number;
 };
 
-export function MapCanvas({ mapData, selectedDate }: MapCanvasProps) {
+function isPointInsideRing(point: ProjectedPoint, ring: ProjectedPoint[]) {
+  let inside = false;
+
+  for (
+    let currentIndex = 0, previousIndex = ring.length - 1;
+    currentIndex < ring.length;
+    previousIndex = currentIndex, currentIndex += 1
+  ) {
+    const current = ring[currentIndex];
+    const previous = ring[previousIndex];
+
+    const intersects =
+      current.y > point.y !== previous.y > point.y &&
+      point.x <
+        ((previous.x - current.x) * (point.y - current.y)) /
+          (previous.y - current.y) +
+          current.x;
+
+    if (intersects) {
+      inside = !inside;
+    }
+  }
+
+  return inside;
+}
+
+export function MapCanvas({
+  mapData,
+  onProvinceClick,
+  selectedDate,
+  selectedProvinceId
+}: MapCanvasProps) {
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
   const dragStateRef = useRef<DragState | null>(null);
   const [viewport, setViewport] = useState<ViewportState>(() => ({
@@ -91,12 +131,19 @@ export function MapCanvas({ mapData, selectedDate }: MapCanvasProps) {
 
       const provincePath = getPolygonPath(province.geometry.exteriorRing);
       context.fillStyle = getProvinceFill(
-        province,
+        province.id,
+        mapData,
         selectedDate,
         mapData.participants
       );
-      context.strokeStyle = MAP_RENDER_CONFIG.provinceStroke;
-      context.lineWidth = MAP_RENDER_CONFIG.provinceStrokeWidth / scale;
+      context.strokeStyle =
+        province.id === selectedProvinceId
+          ? "#8f1d1d"
+          : MAP_RENDER_CONFIG.provinceStroke;
+      context.lineWidth =
+        (province.id === selectedProvinceId
+          ? 2.5
+          : MAP_RENDER_CONFIG.provinceStrokeWidth) / scale;
       context.fill(provincePath);
       context.stroke(provincePath);
 
@@ -111,7 +158,14 @@ export function MapCanvas({ mapData, selectedDate }: MapCanvasProps) {
     }
 
     context.restore();
-  }, [mapData, selectedDate, viewport, worldSize.height, worldSize.width]);
+  }, [
+    mapData,
+    selectedDate,
+    selectedProvinceId,
+    viewport,
+    worldSize.height,
+    worldSize.width
+  ]);
 
   function getCanvasMetrics() {
     const canvas = canvasRef.current;
@@ -173,6 +227,8 @@ export function MapCanvas({ mapData, selectedDate }: MapCanvasProps) {
 
     dragStateRef.current = {
       pointerId: event.pointerId,
+      startClientX: event.clientX,
+      startClientY: event.clientY,
       lastClientX: event.clientX,
       lastClientY: event.clientY
     };
@@ -212,6 +268,40 @@ export function MapCanvas({ mapData, selectedDate }: MapCanvasProps) {
     }
 
     if (dragStateRef.current?.pointerId === event.pointerId) {
+      const dragState = dragStateRef.current;
+      const movedDistance = Math.hypot(
+        event.clientX - dragState.startClientX,
+        event.clientY - dragState.startClientY
+      );
+
+      if (movedDistance < 4 && onProvinceClick) {
+        const metrics = getCanvasMetrics();
+        if (metrics) {
+          const pointerScreenX = event.clientX - metrics.rect.left;
+          const pointerScreenY = event.clientY - metrics.rect.top;
+          const worldPoint = {
+            x:
+              viewport.centerX +
+              (pointerScreenX - metrics.rect.width / 2) / metrics.scale,
+            y:
+              viewport.centerY +
+              (pointerScreenY - metrics.rect.height / 2) / metrics.scale
+          };
+
+          const clickedProvince = [...mapData.provinces]
+            .reverse()
+            .find((province) =>
+              province.geometry?.exteriorRing?.length
+                ? isPointInsideRing(worldPoint, province.geometry.exteriorRing)
+                : false
+            );
+
+          if (clickedProvince) {
+            onProvinceClick(clickedProvince.id);
+          }
+        }
+      }
+
       dragStateRef.current = null;
       canvas.releasePointerCapture(event.pointerId);
     }
@@ -220,10 +310,10 @@ export function MapCanvas({ mapData, selectedDate }: MapCanvasProps) {
   return (
     <canvas
       className="map-canvas"
+      onPointerCancel={handlePointerUp}
       onPointerDown={handlePointerDown}
       onPointerMove={handlePointerMove}
       onPointerUp={handlePointerUp}
-      onPointerCancel={handlePointerUp}
       onWheel={handleWheel}
       ref={canvasRef}
     />

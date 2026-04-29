@@ -5,6 +5,14 @@ export const MAP_VIEW_CONFIG = {
     zoomIntensity: 0.0015,
 } as const;
 
+export const PLAYBACK_CONFIG = {
+    defaultMillisecondsPerDay: 300,
+    minMultiplier: 0.25,
+    maxMultiplier: 6,
+    sliderStep: 0.05,
+    minimumIntervalMilliseconds: 30,
+} as const;
+
 export const MAP_IMPORT_CONFIG = {
     provinceSimplifyTolerance: 2,
 } as const;

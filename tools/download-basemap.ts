@@ -23,6 +23,18 @@ const DOWNLOADS: DownloadTarget[] = [
   {
     url: "https://naturalearth.s3.amazonaws.com/10m_physical/ne_10m_geography_regions_points.zip",
     fileName: "ne_10m_geography_regions_points.zip"
+  },
+  {
+    url: "https://naturalearth.s3.amazonaws.com/10m_physical/ne_10m_rivers_lake_centerlines.zip",
+    fileName: "ne_10m_rivers_lake_centerlines.zip"
+  },
+  {
+    url: "https://naturalearth.s3.amazonaws.com/10m_cultural/ne_10m_admin_0_boundary_lines_land.zip",
+    fileName: "ne_10m_admin_0_boundary_lines_land.zip"
+  },
+  {
+    url: "https://naturalearth.s3.amazonaws.com/10m_cultural/ne_10m_admin_1_states_provinces_lines.zip",
+    fileName: "ne_10m_admin_1_states_provinces_lines.zip"
   }
 ];
 

@@ -1,1202 +1,1202 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4096 3072" width="4096" height="3072"><rect x="0" y="0" width="4096" height="3072" fill="transparent" />
-<circle cx="3336.34" cy="2390.29" r="3.5" fill="#7f1111" />
-<text x="3342.34" y="2386.29" font-size="22" font-family="Georgia, serif" fill="#241811">Istanbul</text>
-<circle cx="1316.13" cy="1417.15" r="3.5" fill="#7f1111" />
-<text x="1322.13" y="1413.15" font-size="22" font-family="Georgia, serif" fill="#241811">London</text>
-<circle cx="2917.31" cy="407.74" r="3.5" fill="#7f1111" />
-<text x="2923.31" y="403.74" font-size="22" font-family="Georgia, serif" fill="#241811">Saint Petersburg</text>
-<circle cx="3651.41" cy="2411.71" r="3.5" fill="#7f1111" />
-<text x="3657.41" y="2407.71" font-size="22" font-family="Georgia, serif" fill="#241811">Ankara</text>
-<circle cx="2131.78" cy="1350.69" r="3.5" fill="#7f1111" />
-<text x="2137.78" y="1346.69" font-size="22" font-family="Georgia, serif" fill="#241811">Berlin</text>
-<circle cx="894.98" cy="2551.45" r="3.5" fill="#7f1111" />
-<text x="900.98" y="2547.45" font-size="22" font-family="Georgia, serif" fill="#241811">Madrid</text>
-<circle cx="3188.47" cy="1379.03" r="3.5" fill="#7f1111" />
-<text x="3194.47" y="1375.03" font-size="22" font-family="Georgia, serif" fill="#241811">Kyiv</text>
-<circle cx="1369.64" cy="3035.40" r="3.5" fill="#7f1111" />
-<text x="1375.64" y="3031.40" font-size="22" font-family="Georgia, serif" fill="#241811">Algiers</text>
-<circle cx="2114.89" cy="2495.41" r="3.5" fill="#7f1111" />
-<text x="2120.89" y="2491.41" font-size="22" font-family="Georgia, serif" fill="#241811">Rome</text>
-<circle cx="1437.77" cy="1719.91" r="3.5" fill="#7f1111" />
-<text x="1443.77" y="1715.91" font-size="22" font-family="Georgia, serif" fill="#241811">Paris</text>
-<circle cx="3365.73" cy="2474.11" r="3.5" fill="#7f1111" />
-<text x="3371.73" y="2470.11" font-size="22" font-family="Georgia, serif" fill="#241811">Bursa</text>
-<circle cx="3265.99" cy="2704.06" r="3.5" fill="#7f1111" />
-<text x="3271.99" y="2700.06" font-size="22" font-family="Georgia, serif" fill="#241811">Izmir</text>
-<circle cx="3053.86" cy="2085.28" r="3.5" fill="#7f1111" />
-<text x="3059.86" y="2081.28" font-size="22" font-family="Georgia, serif" fill="#241811">Bucharest</text>
-<circle cx="2929.60" cy="1074.43" r="3.5" fill="#7f1111" />
-<text x="2935.60" y="1070.43" font-size="22" font-family="Georgia, serif" fill="#241811">Minsk</text>
-<circle cx="2526.37" cy="1852.69" r="3.5" fill="#7f1111" />
-<text x="2532.37" y="1848.69" font-size="22" font-family="Georgia, serif" fill="#241811">Budapest</text>
-<circle cx="2585.05" cy="1332.33" r="3.5" fill="#7f1111" />
-<text x="2591.05" y="1328.33" font-size="22" font-family="Georgia, serif" fill="#241811">Warsaw</text>
-<circle cx="2344.55" cy="1797.52" r="3.5" fill="#7f1111" />
-<text x="2350.55" y="1793.52" font-size="22" font-family="Georgia, serif" fill="#241811">Vienna</text>
-<circle cx="2332.90" cy="602.39" r="3.5" fill="#7f1111" />
-<text x="2338.90" y="598.39" font-size="22" font-family="Georgia, serif" fill="#241811">Stockholm</text>
-<circle cx="2658.23" cy="2125.49" r="3.5" fill="#7f1111" />
-<text x="2664.23" y="2121.49" font-size="22" font-family="Georgia, serif" fill="#241811">Belgrade</text>
-<circle cx="2206.30" cy="1607.09" r="3.5" fill="#7f1111" />
-<text x="2212.30" y="1603.09" font-size="22" font-family="Georgia, serif" fill="#241811">Prague</text>
-<circle cx="2070.67" cy="1016.28" r="3.5" fill="#7f1111" />
-<text x="2076.67" y="1012.28" font-size="22" font-family="Georgia, serif" fill="#241811">Copenhagen</text>
-<circle cx="2893.67" cy="2313.36" r="3.5" fill="#7f1111" />
-<text x="2899.67" y="2309.36" font-size="22" font-family="Georgia, serif" fill="#241811">Sofia</text>
-<circle cx="1966.13" cy="564.20" r="3.5" fill="#7f1111" />
-<text x="1972.13" y="560.20" font-size="22" font-family="Georgia, serif" fill="#241811">Oslo</text>
-<circle cx="990.36" cy="1152.83" r="3.5" fill="#7f1111" />
-<text x="996.36" y="1148.83" font-size="22" font-family="Georgia, serif" fill="#241811">Dublin</text>
-<circle cx="1581.28" cy="1519.89" r="3.5" fill="#7f1111" />
-<text x="1587.28" y="1515.89" font-size="22" font-family="Georgia, serif" fill="#241811">Brussels</text>
-<circle cx="1928.93" cy="1246.27" r="3.5" fill="#7f1111" />
-<text x="1934.93" y="1242.27" font-size="22" font-family="Georgia, serif" fill="#241811">Hamburg</text>
-<circle cx="2677.37" cy="802.44" r="3.5" fill="#7f1111" />
-<text x="2683.37" y="798.44" font-size="22" font-family="Georgia, serif" fill="#241811">Riga</text>
-<circle cx="1625.10" cy="1360.17" r="3.5" fill="#7f1111" />
-<text x="1631.10" y="1356.17" font-size="22" font-family="Georgia, serif" fill="#241811">Amsterdam</text>
-<circle cx="2523.04" cy="2249.03" r="3.5" fill="#7f1111" />
-<text x="2529.04" y="2245.03" font-size="22" font-family="Georgia, serif" fill="#241811">Sarajevo</text>
-<circle cx="1942.76" cy="3055.27" r="3.5" fill="#7f1111" />
-<text x="1948.76" y="3051.27" font-size="22" font-family="Georgia, serif" fill="#241811">Tunis</text>
-<circle cx="1345.57" cy="2518.80" r="3.5" fill="#7f1111" />
-<text x="1351.57" y="2514.80" font-size="22" font-family="Georgia, serif" fill="#241811">Barcelona</text>
-<circle cx="3011.83" cy="2813.08" r="3.5" fill="#7f1111" />
-<text x="3017.83" y="2809.08" font-size="22" font-family="Georgia, serif" fill="#241811">Athens</text>
-<circle cx="2338.44" cy="2056.18" r="3.5" fill="#7f1111" />
-<text x="2344.44" y="2052.18" font-size="22" font-family="Georgia, serif" fill="#241811">Zagreb</text>
-<circle cx="2655.50" cy="453.84" r="3.5" fill="#7f1111" />
-<text x="2661.50" y="449.84" font-size="22" font-family="Georgia, serif" fill="#241811">Helsinki</text>
-<circle cx="3176.26" cy="1766.24" r="3.5" fill="#7f1111" />
-<text x="3182.26" y="1762.24" font-size="22" font-family="Georgia, serif" fill="#241811">Chisinau</text>
-<circle cx="2739.30" cy="2345.16" r="3.5" fill="#7f1111" />
-<text x="2745.30" y="2341.16" font-size="22" font-family="Georgia, serif" fill="#241811">Pristina</text>
-<circle cx="2785.26" cy="1024.60" r="3.5" fill="#7f1111" />
-<text x="2791.26" y="1020.60" font-size="22" font-family="Georgia, serif" fill="#241811">Vilnius</text>
-<circle cx="447.59" cy="2627.62" r="3.5" fill="#7f1111" />
-<text x="453.59" y="2623.62" font-size="22" font-family="Georgia, serif" fill="#241811">Lisbon</text>
-<circle cx="2768.95" cy="2414.35" r="3.5" fill="#7f1111" />
-<text x="2774.95" y="2410.35" font-size="22" font-family="Georgia, serif" fill="#241811">Skopje</text>
-<circle cx="3687.71" cy="2635.40" r="3.5" fill="#7f1111" />
-<text x="3693.71" y="2631.40" font-size="22" font-family="Georgia, serif" fill="#241811">Konya</text>
-<circle cx="2392.85" cy="1799.05" r="3.5" fill="#7f1111" />
-<text x="2398.85" y="1795.05" font-size="22" font-family="Georgia, serif" fill="#241811">Bratislava</text>
-<circle cx="2660.34" cy="2505.63" r="3.5" fill="#7f1111" />
-<text x="2666.34" y="2501.63" font-size="22" font-family="Georgia, serif" fill="#241811">Tirana</text>
-<circle cx="2661.47" cy="533.08" r="3.5" fill="#7f1111" />
-<text x="2667.47" y="529.08" font-size="22" font-family="Georgia, serif" fill="#241811">Tallinn</text>
-<circle cx="1873.42" cy="2112.18" r="3.5" fill="#7f1111" />
-<text x="1879.42" y="2108.18" font-size="22" font-family="Georgia, serif" fill="#241811">Milan</text>
-<circle cx="3579.45" cy="2783.51" r="3.5" fill="#7f1111" />
-<text x="3585.45" y="2779.51" font-size="22" font-family="Georgia, serif" fill="#241811">Antalya</text>
-<circle cx="2236.34" cy="2038.82" r="3.5" fill="#7f1111" />
-<text x="2242.34" y="2034.82" font-size="22" font-family="Georgia, serif" fill="#241811">Ljubljana</text>
-<circle cx="2032.27" cy="1824.07" r="3.5" fill="#7f1111" />
-<text x="2038.27" y="1820.07" font-size="22" font-family="Georgia, serif" fill="#241811">Munich</text>
-<circle cx="2605.01" cy="2391.57" r="2" fill="#7f1111" />
-<text x="2611.01" y="2387.57" font-size="16" font-family="Georgia, serif" fill="#241811">Podgorica</text>
-<circle cx="3840.57" cy="2895.29" r="2" fill="#7f1111" />
-<text x="3846.57" y="2891.29" font-size="16" font-family="Georgia, serif" fill="#241811">Nicosia</text>
-<circle cx="1758.44" cy="1949.61" r="2" fill="#7f1111" />
-<text x="1764.44" y="1945.61" font-size="16" font-family="Georgia, serif" fill="#241811">Bern</text>
-<circle cx="1684.50" cy="1660.38" r="2" fill="#7f1111" />
-<text x="1690.50" y="1656.38" font-size="16" font-family="Georgia, serif" fill="#241811">Luxembourg</text>
-<circle cx="637.05" cy="3015.89" r="3.5" fill="#7f1111" />
-<text x="643.05" y="3011.89" font-size="22" font-family="Georgia, serif" fill="#241811">Tangier</text>
-<circle cx="1745.37" cy="2295.30" r="2" fill="#7f1111" />
-<text x="1751.37" y="2291.30" font-size="16" font-family="Georgia, serif" fill="#241811">Monaco</text>
-<circle cx="1159.32" cy="1641.58" r="2" fill="#7f1111" />
-<text x="1165.32" y="1637.58" font-size="16" font-family="Georgia, serif" fill="#241811">Saint Helier</text>
-<circle cx="681.18" cy="2983.56" r="2" fill="#7f1111" />
-<text x="687.18" y="2979.56" font-size="16" font-family="Georgia, serif" fill="#241811">Gibraltar</text>
-<circle cx="1106.87" cy="1091.19" r="2" fill="#7f1111" />
-<text x="1112.87" y="1087.19" font-size="16" font-family="Georgia, serif" fill="#241811">Douglas</text>
-<circle cx="1311.36" cy="2392.13" r="2" fill="#7f1111" />
-<text x="1317.36" y="2388.13" font-size="16" font-family="Georgia, serif" fill="#241811">Andorra la Vella</text>
-<circle cx="1136.83" cy="1607.79" r="2" fill="#7f1111" />
-<text x="1142.83" y="1603.79" font-size="16" font-family="Georgia, serif" fill="#241811">Saint Peter Port</text>
-<circle cx="2415.30" cy="507.70" r="2" fill="#7f1111" />
-<text x="2421.30" y="503.70" font-size="16" font-family="Georgia, serif" fill="#241811">Mariehamn</text>
-<circle cx="3312.16" cy="1782.61" r="3.5" fill="#7f1111" />
-<text x="3318.16" y="1778.61" font-size="22" font-family="Georgia, serif" fill="#241811">Odesa</text>
-<circle cx="2300.51" cy="3144.54" r="2" fill="#7f1111" />
-<text x="2306.51" y="3140.54" font-size="16" font-family="Georgia, serif" fill="#241811">Valletta</text>
-<circle cx="1897.42" cy="1932.04" r="2" fill="#7f1111" />
-<text x="1903.42" y="1928.04" font-size="16" font-family="Georgia, serif" fill="#241811">Vaduz</text>
-<circle cx="2103.21" cy="2274.10" r="2" fill="#7f1111" />
-<text x="2109.21" y="2270.10" font-size="16" font-family="Georgia, serif" fill="#241811">San Marino</text>
-<circle cx="2110.63" cy="2494.41" r="2" fill="#7f1111" />
-<text x="2116.63" y="2490.41" font-size="16" font-family="Georgia, serif" fill="#241811">Vatican City</text>
-<circle cx="3484.68" cy="2484.93" r="3.5" fill="#7f1111" />
-<text x="3490.68" y="2480.93" font-size="22" font-family="Georgia, serif" fill="#241811">Eskisehir</text>
-<circle cx="2250.71" cy="2601.72" r="3.5" fill="#7f1111" />
-<text x="2256.71" y="2597.72" font-size="22" font-family="Georgia, serif" fill="#241811">Naples</text>
-<circle cx="1597.16" cy="2334.86" r="3.5" fill="#7f1111" />
-<text x="1603.16" y="2330.86" font-size="22" font-family="Georgia, serif" fill="#241811">Marseille</text>
-<circle cx="1768.52" cy="2152.12" r="3.5" fill="#7f1111" />
-<text x="1774.52" y="2148.12" font-size="22" font-family="Georgia, serif" fill="#241811">Turin</text>
-<circle cx="1130.24" cy="2699.56" r="3.5" fill="#7f1111" />
-<text x="1136.24" y="2695.56" font-size="22" font-family="Georgia, serif" fill="#241811">Valencia</text>
-<circle cx="2550.63" cy="1572.17" r="3.5" fill="#7f1111" />
-<text x="2556.63" y="1568.17" font-size="22" font-family="Georgia, serif" fill="#241811">Krakow</text>
-<circle cx="1054.54" cy="3108.63" r="3.5" fill="#7f1111" />
-<text x="1060.54" y="3104.63" font-size="22" font-family="Georgia, serif" fill="#241811">Oran</text>
-<circle cx="2807.61" cy="1549.04" r="3.5" fill="#7f1111" />
-<text x="2813.61" y="1545.04" font-size="22" font-family="Georgia, serif" fill="#241811">Lviv</text>
-<circle cx="1125.01" cy="2457.85" r="3.5" fill="#7f1111" />
-<text x="1131.01" y="2453.85" font-size="22" font-family="Georgia, serif" fill="#241811">Zaragoza</text>
-<circle cx="659.15" cy="2837.75" r="3.5" fill="#7f1111" />
-<text x="665.15" y="2833.75" font-size="22" font-family="Georgia, serif" fill="#241811">Sevilla</text>
-<circle cx="2359.67" cy="1484.83" r="3.5" fill="#7f1111" />
-<text x="2365.67" y="1480.83" font-size="22" font-family="Georgia, serif" fill="#241811">Wroclaw</text>
-<circle cx="2195.47" cy="2905.15" r="3.5" fill="#7f1111" />
-<text x="2201.47" y="2901.15" font-size="22" font-family="Georgia, serif" fill="#241811">Palermo</text>
-<circle cx="2499.94" cy="1395.28" r="3.5" fill="#7f1111" />
-<text x="2505.94" y="1391.28" font-size="22" font-family="Georgia, serif" fill="#241811">Lodz</text>
-<circle cx="1876.28" cy="1755.86" r="3.5" fill="#7f1111" />
-<text x="1882.28" y="1751.86" font-size="22" font-family="Georgia, serif" fill="#241811">Stuttgart</text>
-<circle cx="1732.46" cy="1490.19" r="3.5" fill="#7f1111" />
-<text x="1738.46" y="1486.19" font-size="22" font-family="Georgia, serif" fill="#241811">Duesseldorf</text>
-<circle cx="2032.25" cy="799.93" r="3.5" fill="#7f1111" />
-<text x="2038.25" y="795.93" font-size="22" font-family="Georgia, serif" fill="#241811">Goeteborg</text>
-<circle cx="1854.98" cy="2226.17" r="3.5" fill="#7f1111" />
-<text x="1860.98" y="2222.17" font-size="22" font-family="Georgia, serif" fill="#241811">Genoa</text>
-<circle cx="2158.69" cy="1506.91" r="3.5" fill="#7f1111" />
-<text x="2164.69" y="1502.91" font-size="22" font-family="Georgia, serif" fill="#241811">Dresden</text>
-<circle cx="3550.43" cy="1911.81" r="3.5" fill="#7f1111" />
-<text x="3556.43" y="1907.81" font-size="22" font-family="Georgia, serif" fill="#241811">Sevastopol</text>
-<circle cx="1859.40" cy="1296.39" r="3.5" fill="#7f1111" />
-<text x="1865.40" y="1292.39" font-size="22" font-family="Georgia, serif" fill="#241811">Bremen</text>
-<circle cx="3885.76" cy="2685.29" r="3.5" fill="#7f1111" />
-<text x="3891.76" y="2681.29" font-size="22" font-family="Georgia, serif" fill="#241811">Mersin</text>
-<circle cx="2341.30" cy="1346.74" r="3.5" fill="#7f1111" />
-<text x="2347.30" y="1342.74" font-size="22" font-family="Georgia, serif" fill="#241811">Poznan</text>
-<circle cx="1576.19" cy="2067.99" r="3.5" fill="#7f1111" />
-<text x="1582.19" y="2063.99" font-size="22" font-family="Georgia, serif" fill="#241811">Lyon</text>
-<circle cx="1913.44" cy="1372.36" r="3.5" fill="#7f1111" />
-<text x="1919.44" y="1368.36" font-size="22" font-family="Georgia, serif" fill="#241811">Hannover</text>
-<circle cx="1211.21" cy="917.12" r="3.5" fill="#7f1111" />
-<text x="1217.21" y="913.12" font-size="22" font-family="Georgia, serif" fill="#241811">Edinburgh</text>
-<circle cx="1318.63" cy="2273.44" r="3.5" fill="#7f1111" />
-<text x="1324.63" y="2269.44" font-size="22" font-family="Georgia, serif" fill="#241811">Toulouse</text>
-<circle cx="3159.78" cy="1167.58" r="3.5" fill="#7f1111" />
-<text x="3165.78" y="1163.58" font-size="22" font-family="Georgia, serif" fill="#241811">Homyel'</text>
-<circle cx="2420.27" cy="1128.22" r="3.5" fill="#7f1111" />
-<text x="2426.27" y="1124.22" font-size="22" font-family="Georgia, serif" fill="#241811">Gdansk</text>
-<circle cx="2520.23" cy="1075.35" r="3.5" fill="#7f1111" />
-<text x="2526.23" y="1071.35" font-size="22" font-family="Georgia, serif" fill="#241811">Kaliningrad</text>
-<circle cx="1049.90" cy="2851.54" r="3.5" fill="#7f1111" />
-<text x="1055.90" y="2847.54" font-size="22" font-family="Georgia, serif" fill="#241811">Murcia</text>
-<circle cx="3378.39" cy="1705.27" r="3.5" fill="#7f1111" />
-<text x="3384.39" y="1701.27" font-size="22" font-family="Georgia, serif" fill="#241811">Mykolayiv</text>
-<circle cx="1653.16" cy="3098.49" r="3.5" fill="#7f1111" />
-<text x="1659.16" y="3094.49" font-size="22" font-family="Georgia, serif" fill="#241811">Constantine</text>
-<circle cx="1363.49" cy="2720.68" r="3.5" fill="#7f1111" />
-<text x="1369.49" y="2716.68" font-size="22" font-family="Georgia, serif" fill="#241811">Palma</text>
-<circle cx="3095.69" cy="1543.04" r="3.5" fill="#7f1111" />
-<text x="3101.69" y="1539.04" font-size="22" font-family="Georgia, serif" fill="#241811">Vinnytsya</text>
-<circle cx="3321.96" cy="1015.71" r="3.5" fill="#7f1111" />
-<text x="3327.96" y="1011.71" font-size="22" font-family="Georgia, serif" fill="#241811">Bryansk</text>
-<circle cx="1833.07" cy="1906.92" r="3.5" fill="#7f1111" />
-<text x="1839.07" y="1902.92" font-size="22" font-family="Georgia, serif" fill="#241811">Zuerich</text>
-<circle cx="2193.93" cy="1250.11" r="3.5" fill="#7f1111" />
-<text x="2199.93" y="1246.11" font-size="22" font-family="Georgia, serif" fill="#241811">Szczecin</text>
-<circle cx="2023.47" cy="2216.20" r="3.5" fill="#7f1111" />
-<text x="2029.47" y="2212.20" font-size="22" font-family="Georgia, serif" fill="#241811">Bologna</text>
-<circle cx="2351.01" cy="1690.74" r="3.5" fill="#7f1111" />
-<text x="2357.01" y="1686.74" font-size="22" font-family="Georgia, serif" fill="#241811">Brno</text>
-<circle cx="3090.98" cy="1772.96" r="3.5" fill="#7f1111" />
-<text x="3096.98" y="1768.96" font-size="22" font-family="Georgia, serif" fill="#241811">Iasi</text>
-<circle cx="1637.04" cy="1391.42" r="3.5" fill="#7f1111" />
-<text x="1643.04" y="1387.42" font-size="22" font-family="Georgia, serif" fill="#241811">Utrecht</text>
-<circle cx="1132.49" cy="1387.36" r="3.5" fill="#7f1111" />
-<text x="1138.49" y="1383.36" font-size="22" font-family="Georgia, serif" fill="#241811">Cardiff</text>
-<circle cx="3431.78" cy="2627.27" r="3.5" fill="#7f1111" />
-<text x="3437.78" y="2623.27" font-size="22" font-family="Georgia, serif" fill="#241811">Usak</text>
-<circle cx="2018.19" cy="2293.52" r="3.5" fill="#7f1111" />
-<text x="2024.19" y="2289.52" font-size="22" font-family="Georgia, serif" fill="#241811">Florence</text>
-<circle cx="2094.91" cy="1022.76" r="3.5" fill="#7f1111" />
-<text x="2100.91" y="1018.76" font-size="22" font-family="Georgia, serif" fill="#241811">Malmoe</text>
-<circle cx="2723.96" cy="1148.95" r="3.5" fill="#7f1111" />
-<text x="2729.96" y="1144.95" font-size="22" font-family="Georgia, serif" fill="#241811">Hrodna</text>
-<circle cx="3041.18" cy="898.75" r="3.5" fill="#7f1111" />
-<text x="3047.18" y="894.75" font-size="22" font-family="Georgia, serif" fill="#241811">Vitebsk</text>
-<circle cx="3083.38" cy="1028.02" r="3.5" fill="#7f1111" />
-<text x="3089.38" y="1024.02" font-size="22" font-family="Georgia, serif" fill="#241811">Mahilyow</text>
-<circle cx="1035.85" cy="1025.64" r="3.5" fill="#7f1111" />
-<text x="1041.85" y="1021.64" font-size="22" font-family="Georgia, serif" fill="#241811">Belfast</text>
-<circle cx="2746.64" cy="1314.70" r="3.5" fill="#7f1111" />
-<text x="2752.64" y="1310.70" font-size="22" font-family="Georgia, serif" fill="#241811">Brest</text>
-<circle cx="1748.78" cy="3043.24" r="3.5" fill="#7f1111" />
-<text x="1754.78" y="3039.24" font-size="22" font-family="Georgia, serif" fill="#241811">Annaba</text>
-<circle cx="2693.58" cy="1418.74" r="3.5" fill="#7f1111" />
-<text x="2699.58" y="1414.74" font-size="22" font-family="Georgia, serif" fill="#241811">Lublin</text>
-<circle cx="1346.03" cy="3062.07" r="3.5" fill="#7f1111" />
-<text x="1352.03" y="3058.07" font-size="22" font-family="Georgia, serif" fill="#241811">Blida</text>
-<circle cx="2397.35" cy="1263.36" r="3.5" fill="#7f1111" />
-<text x="2403.35" y="1259.36" font-size="22" font-family="Georgia, serif" fill="#241811">Bydgoszcz</text>
-<circle cx="3151.85" cy="908.12" r="3.5" fill="#7f1111" />
-<text x="3157.85" y="904.12" font-size="22" font-family="Georgia, serif" fill="#241811">Smolensk</text>
-<circle cx="3006.47" cy="2349.07" r="3.5" fill="#7f1111" />
-<text x="3012.47" y="2345.07" font-size="22" font-family="Georgia, serif" fill="#241811">Plovdiv</text>
-<circle cx="3787.29" cy="2540.61" r="3.5" fill="#7f1111" />
-<text x="3793.29" y="2536.61" font-size="22" font-family="Georgia, serif" fill="#241811">Aksaray</text>
-<circle cx="1163.21" cy="1856.47" r="3.5" fill="#7f1111" />
-<text x="1169.21" y="1852.47" font-size="22" font-family="Georgia, serif" fill="#241811">Nantes</text>
-<circle cx="3206.87" cy="2179.80" r="3.5" fill="#7f1111" />
-<text x="3212.87" y="2175.80" font-size="22" font-family="Georgia, serif" fill="#241811">Varna</text>
-<circle cx="3233.03" cy="2064.90" r="3.5" fill="#7f1111" />
-<text x="3239.03" y="2060.90" font-size="22" font-family="Georgia, serif" fill="#241811">Constanta</text>
-<circle cx="2902.38" cy="2539.12" r="3.5" fill="#7f1111" />
-<text x="2908.38" y="2535.12" font-size="22" font-family="Georgia, serif" fill="#241811">Thessaloniki</text>
-<circle cx="2443.57" cy="2555.98" r="3.5" fill="#7f1111" />
-<text x="2449.57" y="2551.98" font-size="22" font-family="Georgia, serif" fill="#241811">Bari</text>
-<circle cx="3431.46" cy="2730.05" r="3.5" fill="#7f1111" />
-<text x="3437.46" y="2726.05" font-size="22" font-family="Georgia, serif" fill="#241811">Denizli</text>
-<circle cx="2292.52" cy="1925.06" r="3.5" fill="#7f1111" />
-<text x="2298.52" y="1921.06" font-size="22" font-family="Georgia, serif" fill="#241811">Graz</text>
-<circle cx="844.04" cy="2402.55" r="3.5" fill="#7f1111" />
-<text x="850.04" y="2398.55" font-size="22" font-family="Georgia, serif" fill="#241811">Valladolid</text>
-<circle cx="2695.85" cy="1213.81" r="3.5" fill="#7f1111" />
-<text x="2701.85" y="1209.81" font-size="22" font-family="Georgia, serif" fill="#241811">Bialystok</text>
-<circle cx="1701.94" cy="504.54" r="3.5" fill="#7f1111" />
-<text x="1707.94" y="500.54" font-size="22" font-family="Georgia, serif" fill="#241811">Bergen</text>
-<circle cx="1612.88" cy="3186.33" r="3.5" fill="#7f1111" />
-<text x="1618.88" y="3182.33" font-size="22" font-family="Georgia, serif" fill="#241811">Batna</text>
-<circle cx="2705.50" cy="1019.39" r="3.5" fill="#7f1111" />
-<text x="2711.50" y="1015.39" font-size="22" font-family="Georgia, serif" fill="#241811">Kaunas</text>
-<circle cx="2491.32" cy="1559.39" r="3.5" fill="#7f1111" />
-<text x="2497.32" y="1555.39" font-size="22" font-family="Georgia, serif" fill="#241811">Katowice</text>
-<circle cx="3447.98" cy="2382.39" r="3.5" fill="#7f1111" />
-<text x="3453.98" y="2378.39" font-size="22" font-family="Georgia, serif" fill="#241811">Adapazari</text>
-<circle cx="2837.98" cy="1878.02" r="3.5" fill="#7f1111" />
-<text x="2843.98" y="1874.02" font-size="22" font-family="Georgia, serif" fill="#241811">Cluj-Napoca</text>
-<circle cx="3203.97" cy="1256.68" r="3.5" fill="#7f1111" />
-<text x="3209.97" y="1252.68" font-size="22" font-family="Georgia, serif" fill="#241811">Chernihiv</text>
-<circle cx="2450.23" cy="1610.63" r="3.5" fill="#7f1111" />
-<text x="2456.23" y="1606.63" font-size="22" font-family="Georgia, serif" fill="#241811">Ostrava</text>
-<circle cx="3455.16" cy="1381.64" r="3.5" fill="#7f1111" />
-<text x="3461.16" y="1377.64" font-size="22" font-family="Georgia, serif" fill="#241811">Poltava</text>
-<circle cx="3046.03" cy="153.16" r="3.5" fill="#7f1111" />
-<text x="3052.03" y="149.16" font-size="22" font-family="Georgia, serif" fill="#241811">Petrozavodsk</text>
-<circle cx="1819.28" cy="1615.16" r="3.5" fill="#7f1111" />
-<text x="1825.28" y="1611.16" font-size="22" font-family="Georgia, serif" fill="#241811">Wiesbaden</text>
-<circle cx="1783.41" cy="1774.94" r="3.5" fill="#7f1111" />
-<text x="1789.41" y="1770.94" font-size="22" font-family="Georgia, serif" fill="#241811">Strasbourg</text>
-<circle cx="2999.21" cy="1549.08" r="3.5" fill="#7f1111" />
-<text x="3005.21" y="1545.08" font-size="22" font-family="Georgia, serif" fill="#241811">Khmelnytskyi</text>
-<circle cx="3309.50" cy="1451.59" r="3.5" fill="#7f1111" />
-<text x="3315.50" y="1447.59" font-size="22" font-family="Georgia, serif" fill="#241811">Cherkasy</text>
-<circle cx="3782.09" cy="2289.57" r="3.5" fill="#7f1111" />
-<text x="3788.09" y="2285.57" font-size="22" font-family="Georgia, serif" fill="#241811">Corum</text>
-<circle cx="1193.00" cy="2120.23" r="3.5" fill="#7f1111" />
-<text x="1199.00" y="2116.23" font-size="22" font-family="Georgia, serif" fill="#241811">Bordeaux</text>
-<circle cx="2958.62" cy="1683.49" r="3.5" fill="#7f1111" />
-<text x="2964.62" y="1679.49" font-size="22" font-family="Georgia, serif" fill="#241811">Chernivtsi</text>
-<circle cx="3082.81" cy="1432.74" r="3.5" fill="#7f1111" />
-<text x="3088.81" y="1428.74" font-size="22" font-family="Georgia, serif" fill="#241811">Zhytomyr</text>
-<circle cx="2575.39" cy="325.11" r="3.5" fill="#7f1111" />
-<text x="2581.39" y="321.11" font-size="22" font-family="Georgia, serif" fill="#241811">Tampere</text>
-<circle cx="1014.29" cy="2306.42" r="3.5" fill="#7f1111" />
-<text x="1020.29" y="2302.42" font-size="22" font-family="Georgia, serif" fill="#241811">Gasteiz / Vitoria</text>
-<circle cx="3425.92" cy="1242.21" r="3.5" fill="#7f1111" />
-<text x="3431.92" y="1238.21" font-size="22" font-family="Georgia, serif" fill="#241811">Sumy</text>
-<circle cx="2993.70" cy="1965.66" r="3.5" fill="#7f1111" />
-<text x="2999.70" y="1961.66" font-size="22" font-family="Georgia, serif" fill="#241811">Brasov</text>
-<circle cx="550.33" cy="2383.30" r="3.5" fill="#7f1111" />
-<text x="556.33" y="2379.30" font-size="22" font-family="Georgia, serif" fill="#241811">Porto</text>
-<circle cx="1554.18" cy="3111.81" r="3.5" fill="#7f1111" />
-<text x="1560.18" y="3107.81" font-size="22" font-family="Georgia, serif" fill="#241811">Setif</text>
-<circle cx="3515.16" cy="2591.72" r="3.5" fill="#7f1111" />
-<text x="3521.16" y="2587.72" font-size="22" font-family="Georgia, serif" fill="#241811">Afyonkarahisar</text>
-<circle cx="2696.25" cy="2015.65" r="3.5" fill="#7f1111" />
-<text x="2702.25" y="2011.65" font-size="22" font-family="Georgia, serif" fill="#241811">Timisoara</text>
-<circle cx="1937.02" cy="1163.90" r="2" fill="#7f1111" />
-<text x="1943.02" y="1159.90" font-size="16" font-family="Georgia, serif" fill="#241811">Kiel</text>
-<circle cx="1728.78" cy="1276.46" r="2" fill="#7f1111" />
-<text x="1734.78" y="1272.46" font-size="16" font-family="Georgia, serif" fill="#241811">Groningen</text>
-<circle cx="3283.21" cy="2676.87" r="2" fill="#7f1111" />
-<text x="3289.21" y="2672.87" font-size="16" font-family="Georgia, serif" fill="#241811">Manisa</text>
-<circle cx="2926.94" cy="1435.58" r="2" fill="#7f1111" />
-<text x="2932.94" y="1431.58" font-size="16" font-family="Georgia, serif" fill="#241811">Rivne</text>
-<circle cx="1499.78" cy="1535.29" r="2" fill="#7f1111" />
-<text x="1505.78" y="1531.29" font-size="16" font-family="Georgia, serif" fill="#241811">Lille</text>
-<circle cx="2868.37" cy="1635.52" r="2" fill="#7f1111" />
-<text x="2874.37" y="1631.52" font-size="16" font-family="Georgia, serif" fill="#241811">Ivano-Frankivsk</text>
-<circle cx="3292.60" cy="2556.97" r="2" fill="#7f1111" />
-<text x="3298.60" y="2552.97" font-size="16" font-family="Georgia, serif" fill="#241811">Balikesir</text>
-<circle cx="2027.10" cy="1396.74" r="2" fill="#7f1111" />
-<text x="2033.10" y="1392.74" font-size="16" font-family="Georgia, serif" fill="#241811">Magdeburg</text>
-<circle cx="2897.16" cy="2134.25" r="2" fill="#7f1111" />
-<text x="2903.16" y="2130.25" font-size="16" font-family="Georgia, serif" fill="#241811">Craiova</text>
-<circle cx="1169.43" cy="1760.41" r="2" fill="#7f1111" />
-<text x="1175.43" y="1756.41" font-size="16" font-family="Georgia, serif" fill="#241811">Rennes</text>
-<circle cx="2910.29" cy="1556.62" r="2" fill="#7f1111" />
-<text x="2916.29" y="1552.62" font-size="16" font-family="Georgia, serif" fill="#241811">Ternopil</text>
-<circle cx="2653.16" cy="1701.28" r="2" fill="#7f1111" />
-<text x="2659.16" y="1697.28" font-size="16" font-family="Georgia, serif" fill="#241811">Kosice</text>
-<circle cx="3003.12" cy="538.84" r="2" fill="#7f1111" />
-<text x="3009.12" y="534.84" font-size="16" font-family="Georgia, serif" fill="#241811">Velikiy Novgorod</text>
-<circle cx="1981.80" cy="3165.31" r="2" fill="#7f1111" />
-<text x="1987.80" y="3161.31" font-size="16" font-family="Georgia, serif" fill="#241811">Sousse</text>
-<circle cx="2432.44" cy="2158.77" r="2" fill="#7f1111" />
-<text x="2438.44" y="2154.77" font-size="16" font-family="Georgia, serif" fill="#241811">Banja Luka</text>
-<circle cx="799.63" cy="2202.80" r="2" fill="#7f1111" />
-<text x="805.63" y="2198.80" font-size="16" font-family="Georgia, serif" fill="#241811">Oviedo</text>
-<circle cx="3350.06" cy="1542.67" r="2" fill="#7f1111" />
-<text x="3356.06" y="1538.67" font-size="16" font-family="Georgia, serif" fill="#241811">Kropyvnytskyi</text>
-<circle cx="3162.30" cy="1945.07" r="2" fill="#7f1111" />
-<text x="3168.30" y="1941.07" font-size="16" font-family="Georgia, serif" fill="#241811">Galati</text>
-<circle cx="1821.28" cy="1626.36" r="2" fill="#7f1111" />
-<text x="1827.28" y="1622.36" font-size="16" font-family="Georgia, serif" fill="#241811">Mainz</text>
-<circle cx="2870.47" cy="1434.33" r="2" fill="#7f1111" />
-<text x="2876.47" y="1430.33" font-size="16" font-family="Georgia, serif" fill="#241811">Lutsk</text>
-<circle cx="2608.75" cy="2084.44" r="2" fill="#7f1111" />
-<text x="2614.75" y="2080.44" font-size="16" font-family="Georgia, serif" fill="#241811">Novi Sad</text>
-<circle cx="1992.99" cy="1520.81" r="2" fill="#7f1111" />
-<text x="1998.99" y="1516.81" font-size="16" font-family="Georgia, serif" fill="#241811">Erfurt</text>
-<circle cx="2905.53" cy="1887.91" r="2" fill="#7f1111" />
-<text x="2911.53" y="1883.91" font-size="16" font-family="Georgia, serif" fill="#241811">Targu Mures</text>
-<circle cx="3192.99" cy="2263.26" r="2" fill="#7f1111" />
-<text x="3198.99" y="2259.26" font-size="16" font-family="Georgia, serif" fill="#241811">Burgas</text>
-<circle cx="2875.60" cy="656.61" r="2" fill="#7f1111" />
-<text x="2881.60" y="652.61" font-size="16" font-family="Georgia, serif" fill="#241811">Pskov</text>
-<circle cx="1047.31" cy="3164.81" r="2" fill="#7f1111" />
-<text x="1053.31" y="3160.81" font-size="16" font-family="Georgia, serif" fill="#241811">Sidi Bel Abbes</text>
-<circle cx="1087.42" cy="2323.73" r="2" fill="#7f1111" />
-<text x="1093.42" y="2319.73" font-size="16" font-family="Georgia, serif" fill="#241811">Pamplona</text>
-<circle cx="2522.53" cy="450.77" r="2" fill="#7f1111" />
-<text x="2528.53" y="446.77" font-size="16" font-family="Georgia, serif" fill="#241811">Turku</text>
-<circle cx="2208.25" cy="1798.08" r="2" fill="#7f1111" />
-<text x="2214.25" y="1794.08" font-size="16" font-family="Georgia, serif" fill="#241811">Linz</text>
-<circle cx="2188.83" cy="2085.10" r="2" fill="#7f1111" />
-<text x="2194.83" y="2081.10" font-size="16" font-family="Georgia, serif" fill="#241811">Trieste</text>
-<circle cx="2695.16" cy="1822.33" r="2" fill="#7f1111" />
-<text x="2701.16" y="1818.33" font-size="16" font-family="Georgia, serif" fill="#241811">Debrecen</text>
-<circle cx="1667.43" cy="2025.40" r="2" fill="#7f1111" />
-<text x="1673.43" y="2021.40" font-size="16" font-family="Georgia, serif" fill="#241811">Geneve</text>
-<circle cx="2678.82" cy="1552.76" r="2" fill="#7f1111" />
-<text x="2684.82" y="1548.76" font-size="16" font-family="Georgia, serif" fill="#241811">Rzeszow</text>
-<circle cx="3414.04" cy="2394.87" r="2" fill="#7f1111" />
-<text x="3420.04" y="2390.87" font-size="16" font-family="Georgia, serif" fill="#241811">Izmit</text>
-<circle cx="2633.45" cy="2510.03" r="2" fill="#7f1111" />
-<text x="2639.45" y="2506.03" font-size="16" font-family="Georgia, serif" fill="#241811">Durres</text>
-<circle cx="1773.72" cy="3210.24" r="2" fill="#7f1111" />
-<text x="1779.72" y="3206.24" font-size="16" font-family="Georgia, serif" fill="#241811">Tebessa</text>
-<circle cx="3501.29" cy="2358.39" r="2" fill="#7f1111" />
-<text x="3507.29" y="2354.39" font-size="16" font-family="Georgia, serif" fill="#241811">Duezce</text>
-<circle cx="574.10" cy="2344.79" r="2" fill="#7f1111" />
-<text x="580.10" y="2340.79" font-size="16" font-family="Georgia, serif" fill="#241811">Braga</text>
-<circle cx="2581.89" cy="1479.83" r="2" fill="#7f1111" />
-<text x="2587.89" y="1475.83" font-size="16" font-family="Georgia, serif" fill="#241811">Kielce</text>
-<circle cx="3701.20" cy="2402.10" r="2" fill="#7f1111" />
-<text x="3707.20" y="2398.10" font-size="16" font-family="Georgia, serif" fill="#241811">Kirikkale</text>
-<circle cx="3454.71" cy="2534.63" r="2" fill="#7f1111" />
-<text x="3460.71" y="2530.63" font-size="16" font-family="Georgia, serif" fill="#241811">Kuetahya</text>
-<circle cx="3536.19" cy="2358.43" r="2" fill="#7f1111" />
-<text x="3542.19" y="2354.43" font-size="16" font-family="Georgia, serif" fill="#241811">Bolu</text>
-<circle cx="2722.21" cy="1870.30" r="2" fill="#7f1111" />
-<text x="2728.21" y="1866.30" font-size="16" font-family="Georgia, serif" fill="#241811">Oradea</text>
-<circle cx="1679.40" cy="3043.07" r="2" fill="#7f1111" />
-<text x="1685.40" y="3039.07" font-size="16" font-family="Georgia, serif" fill="#241811">Skikda</text>
-<circle cx="2111.84" cy="1365.10" r="2" fill="#7f1111" />
-<text x="2117.84" y="1361.10" font-size="16" font-family="Georgia, serif" fill="#241811">Potsdam</text>
-<circle cx="3036.43" cy="2032.33" r="2" fill="#7f1111" />
-<text x="3042.43" y="2028.33" font-size="16" font-family="Georgia, serif" fill="#241811">Ploiesti</text>
-<circle cx="3146.94" cy="2368.10" r="2" fill="#7f1111" />
-<text x="3152.94" y="2364.10" font-size="16" font-family="Georgia, serif" fill="#241811">Edirne</text>
-<circle cx="1738.46" cy="1703.62" r="2" fill="#7f1111" />
-<text x="1744.46" y="1699.62" font-size="16" font-family="Georgia, serif" fill="#241811">Saarbruecken</text>
-<circle cx="1210.27" cy="3168.55" r="2" fill="#7f1111" />
-<text x="1216.27" y="3164.55" font-size="16" font-family="Georgia, serif" fill="#241811">Tiaret</text>
-<circle cx="1221.42" cy="3081.01" r="2" fill="#7f1111" />
-<text x="1227.42" y="3077.01" font-size="16" font-family="Georgia, serif" fill="#241811">Chlef</text>
-<circle cx="1768.88" cy="1884.45" r="2" fill="#7f1111" />
-<text x="1774.88" y="1880.45" font-size="16" font-family="Georgia, serif" fill="#241811">Basel</text>
-<circle cx="2305.97" cy="548.29" r="2" fill="#7f1111" />
-<text x="2311.97" y="544.29" font-size="16" font-family="Georgia, serif" fill="#241811">Uppsala</text>
-<circle cx="1531.18" cy="3047.36" r="2" fill="#7f1111" />
-<text x="1537.18" y="3043.36" font-size="16" font-family="Georgia, serif" fill="#241811">Bejaia</text>
-<circle cx="3764.95" cy="2687.80" r="2" fill="#7f1111" />
-<text x="3770.95" y="2683.80" font-size="16" font-family="Georgia, serif" fill="#241811">Karaman</text>
-<circle cx="945.13" cy="2224.46" r="2" fill="#7f1111" />
-<text x="951.13" y="2220.46" font-size="16" font-family="Georgia, serif" fill="#241811">Santander</text>
-<circle cx="3543.97" cy="2696.31" r="2" fill="#7f1111" />
-<text x="3549.97" y="2692.31" font-size="16" font-family="Georgia, serif" fill="#241811">Isparta</text>
-<circle cx="2540.18" cy="963.82" r="2" fill="#7f1111" />
-<text x="2546.18" y="959.82" font-size="16" font-family="Georgia, serif" fill="#241811">Klaipeda</text>
-<circle cx="2715.32" cy="2399.57" r="2" fill="#7f1111" />
-<text x="2721.32" y="2395.57" font-size="16" font-family="Georgia, serif" fill="#241811">Prizren</text>
-<circle cx="2532.31" cy="1173.10" r="2" fill="#7f1111" />
-<text x="2538.31" y="1169.10" font-size="16" font-family="Georgia, serif" fill="#241811">Olsztyn</text>
-<circle cx="2695.80" cy="1968.93" r="2" fill="#7f1111" />
-<text x="2701.80" y="1964.93" font-size="16" font-family="Georgia, serif" fill="#241811">Arad</text>
-<circle cx="2142.56" cy="1647.37" r="2" fill="#7f1111" />
-<text x="2148.56" y="1643.37" font-size="16" font-family="Georgia, serif" fill="#241811">Pilsen</text>
-<circle cx="2851.92" cy="2815.05" r="2" fill="#7f1111" />
-<text x="2857.92" y="2811.05" font-size="16" font-family="Georgia, serif" fill="#241811">Patra</text>
-<circle cx="2217.85" cy="713.58" r="2" fill="#7f1111" />
-<text x="2223.85" y="709.58" font-size="16" font-family="Georgia, serif" fill="#241811">Linkoeping</text>
-<circle cx="3333.60" cy="2750.11" r="2" fill="#7f1111" />
-<text x="3339.60" y="2746.11" font-size="16" font-family="Georgia, serif" fill="#241811">Aydin</text>
-<circle cx="1117.02" cy="3092.39" r="2" fill="#7f1111" />
-<text x="1123.02" y="3088.39" font-size="16" font-family="Georgia, serif" fill="#241811">Mostaganem</text>
-<circle cx="1610.12" cy="1358.25" r="2" fill="#7f1111" />
-<text x="1616.12" y="1354.25" font-size="16" font-family="Georgia, serif" fill="#241811">Haarlem</text>
-<circle cx="1683.65" cy="1406.48" r="2" fill="#7f1111" />
-<text x="1689.65" y="1402.48" font-size="16" font-family="Georgia, serif" fill="#241811">Arnhem</text>
-<circle cx="1645.44" cy="1433.99" r="2" fill="#7f1111" />
-<text x="1651.44" y="1429.99" font-size="16" font-family="Georgia, serif" fill="#241811">'s-Hertogenbosch</text>
-<circle cx="2616.26" cy="1974.45" r="2" fill="#7f1111" />
-<text x="2622.26" y="1970.45" font-size="16" font-family="Georgia, serif" fill="#241811">Szeged</text>
-<circle cx="1598.19" cy="1901.12" r="2" fill="#7f1111" />
-<text x="1604.19" y="1897.12" font-size="16" font-family="Georgia, serif" fill="#241811">Dijon</text>
-<circle cx="1500.04" cy="3120.80" r="2" fill="#7f1111" />
-<text x="1506.04" y="3116.80" font-size="16" font-family="Georgia, serif" fill="#241811">Bordj Bou Arreridj</text>
-<circle cx="2129.58" cy="1856.91" r="2" fill="#7f1111" />
-<text x="2135.58" y="1852.91" font-size="16" font-family="Georgia, serif" fill="#241811">Salzburg</text>
-<circle cx="3230.26" cy="1768.55" r="2" fill="#7f1111" />
-<text x="3236.26" y="1764.55" font-size="16" font-family="Georgia, serif" fill="#241811">Tiraspol</text>
-<circle cx="2190.46" cy="622.80" r="2" fill="#7f1111" />
-<text x="2196.46" y="618.80" font-size="16" font-family="Georgia, serif" fill="#241811">OErebro</text>
-<circle cx="3161.24" cy="1963.76" r="2" fill="#7f1111" />
-<text x="3167.24" y="1959.76" font-size="16" font-family="Georgia, serif" fill="#241811">Braila</text>
-<circle cx="2631.48" cy="1771.22" r="2" fill="#7f1111" />
-<text x="2637.48" y="1767.22" font-size="16" font-family="Georgia, serif" fill="#241811">Miskolc</text>
-<circle cx="1761.92" cy="3111.72" r="2" fill="#7f1111" />
-<text x="1767.92" y="3107.72" font-size="16" font-family="Georgia, serif" fill="#241811">Souk Ahras</text>
-<circle cx="1023.57" cy="2350.49" r="2" fill="#7f1111" />
-<text x="1029.57" y="2346.49" font-size="16" font-family="Georgia, serif" fill="#241811">Logrono</text>
-<circle cx="3772.00" cy="2456.47" r="2" fill="#7f1111" />
-<text x="3778.00" y="2452.47" font-size="16" font-family="Georgia, serif" fill="#241811">Kirsehir</text>
-<circle cx="2390.24" cy="2300.98" r="2" fill="#7f1111" />
-<text x="2396.24" y="2296.98" font-size="16" font-family="Georgia, serif" fill="#241811">Split</text>
-<circle cx="1860.99" cy="2789.07" r="2" fill="#7f1111" />
-<text x="1866.99" y="2785.07" font-size="16" font-family="Georgia, serif" fill="#241811">Cagliari</text>
-<circle cx="1713.51" cy="658.84" r="2" fill="#7f1111" />
-<text x="1719.51" y="654.84" font-size="16" font-family="Georgia, serif" fill="#241811">Stavanger</text>
-<circle cx="2881.50" cy="2655.61" r="2" fill="#7f1111" />
-<text x="2887.50" y="2651.61" font-size="16" font-family="Georgia, serif" fill="#241811">Larisa</text>
-<circle cx="1337.95" cy="3084.14" r="2" fill="#7f1111" />
-<text x="1343.95" y="3080.14" font-size="16" font-family="Georgia, serif" fill="#241811">Medea</text>
-<circle cx="2488.91" cy="2011.55" r="2" fill="#7f1111" />
-<text x="2494.91" y="2007.55" font-size="16" font-family="Georgia, serif" fill="#241811">Pecs</text>
-<circle cx="3170.89" cy="2532.36" r="2" fill="#7f1111" />
-<text x="3176.89" y="2528.36" font-size="16" font-family="Georgia, serif" fill="#241811">Canakkale</text>
-<circle cx="1925.01" cy="872.13" r="2" fill="#7f1111" />
-<text x="1931.01" y="868.13" font-size="16" font-family="Georgia, serif" fill="#241811">Aalborg</text>
-<circle cx="2960.15" cy="2061.59" r="2" fill="#7f1111" />
-<text x="2966.15" y="2057.59" font-size="16" font-family="Georgia, serif" fill="#241811">Pitesti</text>
-<circle cx="540.39" cy="2486.70" r="2" fill="#7f1111" />
-<text x="546.39" y="2482.70" font-size="16" font-family="Georgia, serif" fill="#241811">Coimbra</text>
-<circle cx="1701.95" cy="1993.52" r="2" fill="#7f1111" />
-<text x="1707.95" y="1989.52" font-size="16" font-family="Georgia, serif" fill="#241811">Lausanne</text>
-<circle cx="1937.29" cy="3181.95" r="2" fill="#7f1111" />
-<text x="1943.29" y="3177.95" font-size="16" font-family="Georgia, serif" fill="#241811">Kairouan</text>
-<circle cx="1919.21" cy="3004.88" r="2" fill="#7f1111" />
-<text x="1925.21" y="3000.88" font-size="16" font-family="Georgia, serif" fill="#241811">Bizerte</text>
-<circle cx="3178.10" cy="3076.41" r="2" fill="#7f1111" />
-<text x="3184.10" y="3072.41" font-size="16" font-family="Georgia, serif" fill="#241811">Irakleion</text>
-<circle cx="3060.26" cy="1847.49" r="2" fill="#7f1111" />
-<text x="3066.26" y="1843.49" font-size="16" font-family="Georgia, serif" fill="#241811">Bacau</text>
-<circle cx="2892.83" cy="1972.20" r="2" fill="#7f1111" />
-<text x="2898.83" y="1968.20" font-size="16" font-family="Georgia, serif" fill="#241811">Sibiu</text>
-<circle cx="1478.89" cy="3159.78" r="2" fill="#7f1111" />
-<text x="1484.89" y="3155.78" font-size="16" font-family="Georgia, serif" fill="#241811">M'Sila</text>
-<circle cx="2022.12" cy="1918.17" r="2" fill="#7f1111" />
-<text x="2028.12" y="1914.17" font-size="16" font-family="Georgia, serif" fill="#241811">Innsbruck</text>
-<circle cx="1586.51" cy="3044.00" r="2" fill="#7f1111" />
-<text x="1592.51" y="3040.00" font-size="16" font-family="Georgia, serif" fill="#241811">Jijel</text>
-<circle cx="1697.47" cy="1350.32" r="2" fill="#7f1111" />
-<text x="1703.47" y="1346.32" font-size="16" font-family="Georgia, serif" fill="#241811">Zwolle</text>
-<circle cx="2432.02" cy="1844.75" r="2" fill="#7f1111" />
-<text x="2438.02" y="1840.75" font-size="16" font-family="Georgia, serif" fill="#241811">Gyor</text>
-<circle cx="499.89" cy="2527.37" r="2" fill="#7f1111" />
-<text x="505.89" y="2523.37" font-size="16" font-family="Georgia, serif" fill="#241811">Leiria</text>
-<circle cx="2254.75" cy="580.10" r="2" fill="#7f1111" />
-<text x="2260.75" y="576.10" font-size="16" font-family="Georgia, serif" fill="#241811">Vaesteras</text>
-<circle cx="2418.94" cy="1524.46" r="2" fill="#7f1111" />
-<text x="2424.94" y="1520.46" font-size="16" font-family="Georgia, serif" fill="#241811">Opole</text>
-<circle cx="3671.11" cy="2236.56" r="2" fill="#7f1111" />
-<text x="3677.11" y="2232.56" font-size="16" font-family="Georgia, serif" fill="#241811">Kastamonu</text>
-<circle cx="3595.24" cy="2284.24" r="2" fill="#7f1111" />
-<text x="3601.24" y="2280.24" font-size="16" font-family="Georgia, serif" fill="#241811">Karabuek</text>
-<circle cx="3097.79" cy="1705.09" r="2" fill="#7f1111" />
-<text x="3103.79" y="1701.09" font-size="16" font-family="Georgia, serif" fill="#241811">Balti</text>
-<circle cx="1684.51" cy="1275.65" r="2" fill="#7f1111" />
-<text x="1690.51" y="1271.65" font-size="16" font-family="Georgia, serif" fill="#241811">Leeuwarden</text>
-<circle cx="1152.48" cy="3119.40" r="2" fill="#7f1111" />
-<text x="1158.48" y="3115.40" font-size="16" font-family="Georgia, serif" fill="#241811">Relizane</text>
-<circle cx="1663.69" cy="1526.38" r="2" fill="#7f1111" />
-<text x="1669.69" y="1522.38" font-size="16" font-family="Georgia, serif" fill="#241811">Maastricht</text>
-<circle cx="3232.59" cy="2423.76" r="2" fill="#7f1111" />
-<text x="3238.59" y="2419.76" font-size="16" font-family="Georgia, serif" fill="#241811">Tekirdag</text>
-<circle cx="2672.93" cy="359.94" r="2" fill="#7f1111" />
-<text x="2678.93" y="355.94" font-size="16" font-family="Georgia, serif" fill="#241811">Lahti</text>
-<circle cx="3064.69" cy="2304.50" r="2" fill="#7f1111" />
-<text x="3070.69" y="2300.50" font-size="16" font-family="Georgia, serif" fill="#241811">Stara Zagora</text>
-<circle cx="3056.03" cy="2149.38" r="2" fill="#7f1111" />
-<text x="3062.03" y="2145.38" font-size="16" font-family="Georgia, serif" fill="#241811">Ruse</text>
-<circle cx="2005.75" cy="2046.89" r="2" fill="#7f1111" />
-<text x="2011.75" y="2042.89" font-size="16" font-family="Georgia, serif" fill="#241811">Trento</text>
-<circle cx="2101.82" cy="2363.41" r="2" fill="#7f1111" />
-<text x="2107.82" y="2359.41" font-size="16" font-family="Georgia, serif" fill="#241811">Perugia</text>
-<circle cx="1719.67" cy="3090.72" r="2" fill="#7f1111" />
-<text x="1725.67" y="3086.72" font-size="16" font-family="Georgia, serif" fill="#241811">Guelma</text>
-<circle cx="2260.39" cy="1405.00" r="2" fill="#7f1111" />
-<text x="2266.39" y="1401.00" font-size="16" font-family="Georgia, serif" fill="#241811">Zielona Gora</text>
-<circle cx="462.13" cy="2654.79" r="2" fill="#7f1111" />
-<text x="468.13" y="2650.79" font-size="16" font-family="Georgia, serif" fill="#241811">Setubal</text>
-<circle cx="2694.45" cy="1776.40" r="2" fill="#7f1111" />
-<text x="2700.45" y="1772.40" font-size="16" font-family="Georgia, serif" fill="#241811">Nyiregyhaza</text>
-<circle cx="1825.65" cy="752.72" r="2" fill="#7f1111" />
-<text x="1831.65" y="748.72" font-size="16" font-family="Georgia, serif" fill="#241811">Kristiansand</text>
-<circle cx="1398.85" cy="1817.75" r="2" fill="#7f1111" />
-<text x="1404.85" y="1813.75" font-size="16" font-family="Georgia, serif" fill="#241811">Orleans</text>
-<circle cx="1365.00" cy="1647.13" r="2" fill="#7f1111" />
-<text x="1371.00" y="1643.13" font-size="16" font-family="Georgia, serif" fill="#241811">Rouen</text>
-<circle cx="2720.69" cy="1698.85" r="2" fill="#7f1111" />
-<text x="2726.69" y="1694.85" font-size="16" font-family="Georgia, serif" fill="#241811">Uzhhorod</text>
-<circle cx="2646.80" cy="2602.03" r="2" fill="#7f1111" />
-<text x="2652.80" y="2598.03" font-size="16" font-family="Georgia, serif" fill="#241811">Vlore</text>
-<circle cx="2237.84" cy="1321.30" r="2" fill="#7f1111" />
-<text x="2243.84" y="1317.30" font-size="16" font-family="Georgia, serif" fill="#241811">Gorzow Wielkopolski</text>
-<circle cx="1944.98" cy="3050.71" r="2" fill="#7f1111" />
-<text x="1950.98" y="3046.71" font-size="16" font-family="Georgia, serif" fill="#241811">Aryanah</text>
-<circle cx="1692.51" cy="3203.79" r="2" fill="#7f1111" />
-<text x="1698.51" y="3199.79" font-size="16" font-family="Georgia, serif" fill="#241811">Khenchela</text>
-<circle cx="2146.31" cy="786.63" r="2" fill="#7f1111" />
-<text x="2152.31" y="782.63" font-size="16" font-family="Georgia, serif" fill="#241811">Joenkoeping</text>
-<circle cx="2771.24" cy="1778.87" r="2" fill="#7f1111" />
-<text x="2777.24" y="1774.87" font-size="16" font-family="Georgia, serif" fill="#241811">Satu Mare</text>
-<circle cx="1610.49" cy="1563.42" r="2" fill="#7f1111" />
-<text x="1616.49" y="1559.42" font-size="16" font-family="Georgia, serif" fill="#241811">Namur</text>
-<circle cx="3220.75" cy="1772.70" r="2" fill="#7f1111" />
-<text x="3226.75" y="1768.70" font-size="16" font-family="Georgia, serif" fill="#241811">Bender</text>
-<circle cx="2576.90" cy="1909.56" r="2" fill="#7f1111" />
-<text x="2582.90" y="1905.56" font-size="16" font-family="Georgia, serif" fill="#241811">Kecskemet</text>
-<circle cx="2819.49" cy="1784.54" r="2" fill="#7f1111" />
-<text x="2825.49" y="1780.54" font-size="16" font-family="Georgia, serif" fill="#241811">Baia Mare</text>
-<circle cx="1113.75" cy="3151.96" r="2" fill="#7f1111" />
-<text x="1119.75" y="3147.96" font-size="16" font-family="Georgia, serif" fill="#241811">Mascara</text>
-<circle cx="2236.47" cy="2116.94" r="2" fill="#7f1111" />
-<text x="2242.47" y="2112.94" font-size="16" font-family="Georgia, serif" fill="#241811">Rijeka</text>
-<circle cx="2714.55" cy="2326.24" r="2" fill="#7f1111" />
-<text x="2720.55" y="2322.24" font-size="16" font-family="Georgia, serif" fill="#241811">Mitrovice</text>
-<circle cx="1939.47" cy="582.58" r="2" fill="#7f1111" />
-<text x="1945.47" y="578.58" font-size="16" font-family="Georgia, serif" fill="#241811">Drammen</text>
-<circle cx="1446.88" cy="3045.26" r="2" fill="#7f1111" />
-<text x="1452.88" y="3041.26" font-size="16" font-family="Georgia, serif" fill="#241811">Tizi Ouzou</text>
-<circle cx="589.29" cy="2449.22" r="2" fill="#7f1111" />
-<text x="595.29" y="2445.22" font-size="16" font-family="Georgia, serif" fill="#241811">Viseu</text>
-<circle cx="3087.30" cy="1997.24" r="2" fill="#7f1111" />
-<text x="3093.30" y="1993.24" font-size="16" font-family="Georgia, serif" fill="#241811">Buzau</text>
-<circle cx="2241.38" cy="1531.76" r="2" fill="#7f1111" />
-<text x="2247.38" y="1527.76" font-size="16" font-family="Georgia, serif" fill="#241811">Liberec</text>
-<circle cx="3014.40" cy="1820.74" r="2" fill="#7f1111" />
-<text x="3020.40" y="1816.74" font-size="16" font-family="Georgia, serif" fill="#241811">Piatra Neamt</text>
-<circle cx="3528.40" cy="2279.42" r="2" fill="#7f1111" />
-<text x="3534.40" y="2275.42" font-size="16" font-family="Georgia, serif" fill="#241811">Zonguldak</text>
-<circle cx="2488.48" cy="1891.10" r="2" fill="#7f1111" />
-<text x="2494.48" y="1887.10" font-size="16" font-family="Georgia, serif" fill="#241811">Szekesfehervar</text>
-<circle cx="2682.84" cy="2525.96" r="2" fill="#7f1111" />
-<text x="2688.84" y="2521.96" font-size="16" font-family="Georgia, serif" fill="#241811">Elbasan</text>
-<circle cx="2219.36" cy="1978.16" r="2" fill="#7f1111" />
-<text x="2225.36" y="1974.16" font-size="16" font-family="Georgia, serif" fill="#241811">Klagenfurt am Woerthersee</text>
-<circle cx="598.92" cy="2202.69" r="2" fill="#7f1111" />
-<text x="604.92" y="2198.69" font-size="16" font-family="Georgia, serif" fill="#241811">Santiago de Compostela</text>
-<circle cx="2388.02" cy="1643.76" r="2" fill="#7f1111" />
-<text x="2394.02" y="1639.76" font-size="16" font-family="Georgia, serif" fill="#241811">Olomouc</text>
-<circle cx="2654.26" cy="917.77" r="2" fill="#7f1111" />
-<text x="2660.26" y="913.77" font-size="16" font-family="Georgia, serif" fill="#241811">Siauliai</text>
-<circle cx="2011.12" cy="1236.99" r="2" fill="#7f1111" />
-<text x="2017.12" y="1232.99" font-size="16" font-family="Georgia, serif" fill="#241811">Schwerin</text>
-<circle cx="2310.05" cy="1978.70" r="2" fill="#7f1111" />
-<text x="2316.05" y="1974.70" font-size="16" font-family="Georgia, serif" fill="#241811">Maribor</text>
-<circle cx="2627.98" cy="2429.11" r="2" fill="#7f1111" />
-<text x="2633.98" y="2425.11" font-size="16" font-family="Georgia, serif" fill="#241811">Shkoder</text>
-<circle cx="3525.22" cy="2707.38" r="2" fill="#7f1111" />
-<text x="3531.22" y="2703.38" font-size="16" font-family="Georgia, serif" fill="#241811">Burdur</text>
-<circle cx="2690.49" cy="2385.34" r="2" fill="#7f1111" />
-<text x="2696.49" y="2381.34" font-size="16" font-family="Georgia, serif" fill="#241811">Gjakove</text>
-<circle cx="2216.42" cy="1725.83" r="2" fill="#7f1111" />
-<text x="2222.42" y="1721.83" font-size="16" font-family="Georgia, serif" fill="#241811">Ceske Budejovice</text>
-<circle cx="1997.44" cy="3170.41" r="2" fill="#7f1111" />
-<text x="2003.44" y="3166.41" font-size="16" font-family="Georgia, serif" fill="#241811">Monastir</text>
-<circle cx="2921.06" cy="2042.89" r="2" fill="#7f1111" />
-<text x="2927.06" y="2038.89" font-size="16" font-family="Georgia, serif" fill="#241811">Ramnicu Valcea</text>
-<circle cx="3390.16" cy="2805.66" r="2" fill="#7f1111" />
-<text x="3396.16" y="2801.66" font-size="16" font-family="Georgia, serif" fill="#241811">Mugla</text>
-<circle cx="2781.55" cy="620.14" r="2" fill="#7f1111" />
-<text x="2787.55" y="616.14" font-size="16" font-family="Georgia, serif" fill="#241811">Tartu</text>
-<circle cx="3849.66" cy="2564.04" r="2" fill="#7f1111" />
-<text x="3855.66" y="2560.04" font-size="16" font-family="Georgia, serif" fill="#241811">Nigde</text>
-<circle cx="2293.63" cy="1587.26" r="2" fill="#7f1111" />
-<text x="2299.63" y="1583.26" font-size="16" font-family="Georgia, serif" fill="#241811">Hradec Kralove</text>
-<circle cx="3684.81" cy="2321.08" r="2" fill="#7f1111" />
-<text x="3690.81" y="2317.08" font-size="16" font-family="Georgia, serif" fill="#241811">Cankiri</text>
-<circle cx="2178.85" cy="1547.50" r="2" fill="#7f1111" />
-<text x="2184.85" y="1543.50" font-size="16" font-family="Georgia, serif" fill="#241811">Usti nad Labem</text>
-<circle cx="2971.59" cy="2217.02" r="2" fill="#7f1111" />
-<text x="2977.59" y="2213.02" font-size="16" font-family="Georgia, serif" fill="#241811">Pleven</text>
-<circle cx="3017.38" cy="1728.12" r="2" fill="#7f1111" />
-<text x="3023.38" y="1724.12" font-size="16" font-family="Georgia, serif" fill="#241811">Botosani</text>
-<circle cx="2180.36" cy="2306.26" r="2" fill="#7f1111" />
-<text x="2186.36" y="2302.26" font-size="16" font-family="Georgia, serif" fill="#241811">Ancona</text>
-<circle cx="2291.45" cy="1605.54" r="2" fill="#7f1111" />
-<text x="2297.45" y="1601.54" font-size="16" font-family="Georgia, serif" fill="#241811">Pardubice</text>
-<circle cx="1947.30" cy="3062.39" r="2" fill="#7f1111" />
-<text x="1953.30" y="3058.39" font-size="16" font-family="Georgia, serif" fill="#241811">Ben Arous</text>
-<circle cx="3796.09" cy="2368.74" r="2" fill="#7f1111" />
-<text x="3802.09" y="2364.74" font-size="16" font-family="Georgia, serif" fill="#241811">Yozgat</text>
-<circle cx="860.32" cy="2606.24" r="2" fill="#7f1111" />
-<text x="866.32" y="2602.24" font-size="16" font-family="Georgia, serif" fill="#241811">Toledo</text>
-<circle cx="2454.62" cy="1774.68" r="2" fill="#7f1111" />
-<text x="2460.62" y="1770.68" font-size="16" font-family="Georgia, serif" fill="#241811">Nitra</text>
-<circle cx="859.64" cy="3119.09" r="2" fill="#7f1111" />
-<text x="865.64" y="3115.09" font-size="16" font-family="Georgia, serif" fill="#241811">Melilla</text>
-<circle cx="2714.22" cy="926.93" r="2" fill="#7f1111" />
-<text x="2720.22" y="922.93" font-size="16" font-family="Georgia, serif" fill="#241811">Panevezys</text>
-<circle cx="1832.42" cy="3237.99" r="2" fill="#7f1111" />
-<text x="1838.42" y="3233.99" font-size="16" font-family="Georgia, serif" fill="#241811">Kasserine</text>
-<circle cx="2993.21" cy="1747.14" r="2" fill="#7f1111" />
-<text x="2999.21" y="1743.14" font-size="16" font-family="Georgia, serif" fill="#241811">Suceava</text>
-<circle cx="3107.76" cy="2265.58" r="2" fill="#7f1111" />
-<text x="3113.76" y="2261.58" font-size="16" font-family="Georgia, serif" fill="#241811">Sliven</text>
-<circle cx="830.40" cy="1115.62" r="2" fill="#7f1111" />
-<text x="836.40" y="1111.62" font-size="16" font-family="Georgia, serif" fill="#241811">Galway</text>
-<circle cx="678.27" cy="3011.93" r="2" fill="#7f1111" />
-<text x="684.27" y="3007.93" font-size="16" font-family="Georgia, serif" fill="#241811">Ceuta</text>
-<circle cx="2482.79" cy="345.36" r="2" fill="#7f1111" />
-<text x="2488.79" y="341.36" font-size="16" font-family="Georgia, serif" fill="#241811">Pori</text>
-<circle cx="2647.39" cy="1671.39" r="2" fill="#7f1111" />
-<text x="2653.39" y="1667.39" font-size="16" font-family="Georgia, serif" fill="#241811">Presov</text>
-<circle cx="2874.65" cy="2328.34" r="2" fill="#7f1111" />
-<text x="2880.65" y="2324.34" font-size="16" font-family="Georgia, serif" fill="#241811">Pernik</text>
-<circle cx="3561.47" cy="2246.89" r="2" fill="#7f1111" />
-<text x="3567.47" y="2242.89" font-size="16" font-family="Georgia, serif" fill="#241811">Bartin</text>
-<circle cx="1816.17" cy="1940.47" r="2" fill="#7f1111" />
-<text x="1822.17" y="1936.47" font-size="16" font-family="Georgia, serif" fill="#241811">Luzern</text>
-<circle cx="2748.51" cy="2055.78" r="2" fill="#7f1111" />
-<text x="2754.51" y="2051.78" font-size="16" font-family="Georgia, serif" fill="#241811">Resita</text>
-<circle cx="2486.11" cy="1671.88" r="2" fill="#7f1111" />
-<text x="2492.11" y="1667.88" font-size="16" font-family="Georgia, serif" fill="#241811">Zilina</text>
-<circle cx="534.92" cy="2435.55" r="2" fill="#7f1111" />
-<text x="540.92" y="2431.55" font-size="16" font-family="Georgia, serif" fill="#241811">Aveiro</text>
-<circle cx="2812.23" cy="2117.49" r="2" fill="#7f1111" />
-<text x="2818.23" y="2113.49" font-size="16" font-family="Georgia, serif" fill="#241811">Drobeta-Turnu Severin</text>
-<circle cx="1660.72" cy="1348.41" r="2" fill="#7f1111" />
-<text x="1666.72" y="1344.41" font-size="16" font-family="Georgia, serif" fill="#241811">Lelystad</text>
-<circle cx="2444.00" cy="2801.83" r="2" fill="#7f1111" />
-<text x="2450.00" y="2797.83" font-size="16" font-family="Georgia, serif" fill="#241811">Catanzaro</text>
-<circle cx="2890.13" cy="1826.59" r="2" fill="#7f1111" />
-<text x="2896.13" y="1822.59" font-size="16" font-family="Georgia, serif" fill="#241811">Bistrita</text>
-<circle cx="2827.69" cy="883.23" r="2" fill="#7f1111" />
-<text x="2833.69" y="879.23" font-size="16" font-family="Georgia, serif" fill="#241811">Daugavpils</text>
-<circle cx="2724.01" cy="359.99" r="2" fill="#7f1111" />
-<text x="2730.01" y="355.99" font-size="16" font-family="Georgia, serif" fill="#241811">Kouvola</text>
-<circle cx="2369.57" cy="1900.35" r="2" fill="#7f1111" />
-<text x="2375.57" y="1896.35" font-size="16" font-family="Georgia, serif" fill="#241811">Szombathely</text>
-<circle cx="1887.87" cy="1901.65" r="2" fill="#7f1111" />
-<text x="1893.87" y="1897.65" font-size="16" font-family="Georgia, serif" fill="#241811">Sankt Gallen</text>
-<circle cx="2526.68" cy="2063.61" r="2" fill="#7f1111" />
-<text x="2532.68" y="2059.61" font-size="16" font-family="Georgia, serif" fill="#241811">Osijek</text>
-<circle cx="3829.78" cy="2494.76" r="2" fill="#7f1111" />
-<text x="3835.78" y="2490.76" font-size="16" font-family="Georgia, serif" fill="#241811">Nevsehir</text>
-<circle cx="2787.46" cy="2396.05" r="2" fill="#7f1111" />
-<text x="2793.46" y="2392.05" font-size="16" font-family="Georgia, serif" fill="#241811">Kumanovo</text>
-<circle cx="2273.57" cy="463.53" r="2" fill="#7f1111" />
-<text x="2279.57" y="459.53" font-size="16" font-family="Georgia, serif" fill="#241811">Gaevle</text>
-<circle cx="2518.09" cy="1719.70" r="2" fill="#7f1111" />
-<text x="2524.09" y="1715.70" font-size="16" font-family="Georgia, serif" fill="#241811">Banska Bystrica</text>
-<circle cx="3434.72" cy="2459.17" r="2" fill="#7f1111" />
-<text x="3440.72" y="2455.17" font-size="16" font-family="Georgia, serif" fill="#241811">Bilecik</text>
-<circle cx="2788.20" cy="2482.66" r="2" fill="#7f1111" />
-<text x="2794.20" y="2478.66" font-size="16" font-family="Georgia, serif" fill="#241811">Prilep</text>
-<circle cx="2848.07" cy="2063.95" r="2" fill="#7f1111" />
-<text x="2854.07" y="2059.95" font-size="16" font-family="Georgia, serif" fill="#241811">Targu Jiu</text>
-<circle cx="2418.26" cy="1680.04" r="2" fill="#7f1111" />
-<text x="2424.26" y="1676.04" font-size="16" font-family="Georgia, serif" fill="#241811">Zlin</text>
-<circle cx="2788.66" cy="321.10" r="2" fill="#7f1111" />
-<text x="2794.66" y="317.10" font-size="16" font-family="Georgia, serif" fill="#241811">Lappeenranta</text>
-<circle cx="3136.59" cy="2193.07" r="2" fill="#7f1111" />
-<text x="3142.59" y="2189.07" font-size="16" font-family="Georgia, serif" fill="#241811">Shumen</text>
-<circle cx="3369.54" cy="2420.96" r="2" fill="#7f1111" />
-<text x="3375.54" y="2416.96" font-size="16" font-family="Georgia, serif" fill="#241811">Yalova</text>
-<circle cx="2606.75" cy="1875.25" r="2" fill="#7f1111" />
-<text x="2612.75" y="1871.25" font-size="16" font-family="Georgia, serif" fill="#241811">Szolnok</text>
-<circle cx="2186.26" cy="880.97" r="2" fill="#7f1111" />
-<text x="2192.26" y="876.97" font-size="16" font-family="Georgia, serif" fill="#241811">Vaexjoe</text>
-<circle cx="1007.06" cy="3145.95" r="2" fill="#7f1111" />
-<text x="1013.06" y="3141.95" font-size="16" font-family="Georgia, serif" fill="#241811">Ain Temouchent</text>
-<circle cx="2082.82" cy="908.82" r="2" fill="#7f1111" />
-<text x="2088.82" y="904.82" font-size="16" font-family="Georgia, serif" fill="#241811">Halmstad</text>
-<circle cx="1989.44" cy="3095.17" r="2" fill="#7f1111" />
-<text x="1995.44" y="3091.17" font-size="16" font-family="Georgia, serif" fill="#241811">Nabeul</text>
-<circle cx="497.74" cy="2836.69" r="2" fill="#7f1111" />
-<text x="503.74" y="2832.69" font-size="16" font-family="Georgia, serif" fill="#241811">Faro</text>
-<circle cx="3192.96" cy="2145.05" r="2" fill="#7f1111" />
-<text x="3198.96" y="2141.05" font-size="16" font-family="Georgia, serif" fill="#241811">Dobrich</text>
-<circle cx="2777.01" cy="2519.20" r="2" fill="#7f1111" />
-<text x="2783.01" y="2515.20" font-size="16" font-family="Georgia, serif" fill="#241811">Bitola</text>
-<circle cx="1727.50" cy="1300.20" r="2" fill="#7f1111" />
-<text x="1733.50" y="1296.20" font-size="16" font-family="Georgia, serif" fill="#241811">Assen</text>
-<circle cx="1432.36" cy="3081.42" r="2" fill="#7f1111" />
-<text x="1438.36" y="3077.42" font-size="16" font-family="Georgia, serif" fill="#241811">Bouira</text>
-<circle cx="2616.63" cy="371.59" r="2" fill="#7f1111" />
-<text x="2622.63" y="367.59" font-size="16" font-family="Georgia, serif" fill="#241811">Haemeenlinna</text>
-<circle cx="2889.76" cy="2389.56" r="2" fill="#7f1111" />
-<text x="2895.76" y="2385.56" font-size="16" font-family="Georgia, serif" fill="#241811">Blagoevgrad</text>
-<circle cx="2521.30" cy="880.59" r="2" fill="#7f1111" />
-<text x="2527.30" y="876.59" font-size="16" font-family="Georgia, serif" fill="#241811">Liepaja</text>
-<circle cx="2299.16" cy="2243.26" r="2" fill="#7f1111" />
-<text x="2305.16" y="2239.26" font-size="16" font-family="Georgia, serif" fill="#241811">Zadar</text>
-<circle cx="1691.84" cy="3154.78" r="2" fill="#7f1111" />
-<text x="1697.84" y="3150.78" font-size="16" font-family="Georgia, serif" fill="#241811">Oum el Bouaghi</text>
-<circle cx="2998.85" cy="2044.20" r="2" fill="#7f1111" />
-<text x="3004.85" y="2040.20" font-size="16" font-family="Georgia, serif" fill="#241811">Targoviste</text>
-<circle cx="2233.16" cy="954.14" r="2" fill="#7f1111" />
-<text x="2239.16" y="950.14" font-size="16" font-family="Georgia, serif" fill="#241811">Karlskrona</text>
-<circle cx="3098.11" cy="1933.44" r="2" fill="#7f1111" />
-<text x="3104.11" y="1929.44" font-size="16" font-family="Georgia, serif" fill="#241811">Focsani</text>
-<circle cx="1253.71" cy="3147.66" r="2" fill="#7f1111" />
-<text x="1259.71" y="3143.66" font-size="16" font-family="Georgia, serif" fill="#241811">Tissemsilt</text>
-<circle cx="3428.31" cy="1726.03" r="2" fill="#7f1111" />
-<text x="3434.31" y="1722.03" font-size="16" font-family="Georgia, serif" fill="#241811">Kherson</text>
-<circle cx="2481.95" cy="1848.44" r="2" fill="#7f1111" />
-<text x="2487.95" y="1844.44" font-size="16" font-family="Georgia, serif" fill="#241811">Tatabanya</text>
-<circle cx="3219.26" cy="1957.48" r="2" fill="#7f1111" />
-<text x="3225.26" y="1953.48" font-size="16" font-family="Georgia, serif" fill="#241811">Tulcea</text>
-<circle cx="2761.67" cy="2673.16" r="2" fill="#7f1111" />
-<text x="2767.67" y="2669.16" font-size="16" font-family="Georgia, serif" fill="#241811">Ioannina</text>
-<circle cx="3069.08" cy="2358.81" r="2" fill="#7f1111" />
-<text x="3075.08" y="2354.81" font-size="16" font-family="Georgia, serif" fill="#241811">Haskovo</text>
-<circle cx="2456.82" cy="1984.04" r="2" fill="#7f1111" />
-<text x="2462.82" y="1980.04" font-size="16" font-family="Georgia, serif" fill="#241811">Kaposvar</text>
-<circle cx="2849.79" cy="1952.17" r="2" fill="#7f1111" />
-<text x="2855.79" y="1948.17" font-size="16" font-family="Georgia, serif" fill="#241811">Alba Iulia</text>
-<circle cx="3124.72" cy="2283.94" r="2" fill="#7f1111" />
-<text x="3130.72" y="2279.94" font-size="16" font-family="Georgia, serif" fill="#241811">Yambol</text>
-<circle cx="2934.10" cy="2113.38" r="2" fill="#7f1111" />
-<text x="2940.10" y="2109.38" font-size="16" font-family="Georgia, serif" fill="#241811">Slatina</text>
-<circle cx="1625.06" cy="3087.49" r="2" fill="#7f1111" />
-<text x="1631.06" y="3083.49" font-size="16" font-family="Georgia, serif" fill="#241811">Mila</text>
-<circle cx="2735.22" cy="2418.67" r="2" fill="#7f1111" />
-<text x="2741.22" y="2414.67" font-size="16" font-family="Georgia, serif" fill="#241811">Tetovo</text>
-<circle cx="3112.38" cy="1826.15" r="2" fill="#7f1111" />
-<text x="3118.38" y="1822.15" font-size="16" font-family="Georgia, serif" fill="#241811">Vaslui</text>
-<circle cx="2421.64" cy="1771.08" r="2" fill="#7f1111" />
-<text x="2427.64" y="1767.08" font-size="16" font-family="Georgia, serif" fill="#241811">Trnava</text>
-<circle cx="2678.76" cy="2571.24" r="2" fill="#7f1111" />
-<text x="2684.76" y="2567.24" font-size="16" font-family="Georgia, serif" fill="#241811">Berat</text>
-<circle cx="2387.99" cy="1940.94" r="2" fill="#7f1111" />
-<text x="2393.99" y="1936.94" font-size="16" font-family="Georgia, serif" fill="#241811">Zalaegerszeg</text>
-<circle cx="1862.97" cy="3065.21" r="2" fill="#7f1111" />
-<text x="1868.97" y="3061.21" font-size="16" font-family="Georgia, serif" fill="#241811">Beja</text>
-<circle cx="2104.63" cy="617.17" r="2" fill="#7f1111" />
-<text x="2110.63" y="613.17" font-size="16" font-family="Georgia, serif" fill="#241811">Karlstad</text>
-<circle cx="1903.77" cy="1015.39" r="2" fill="#7f1111" />
-<text x="1909.77" y="1011.39" font-size="16" font-family="Georgia, serif" fill="#241811">Vejle</text>
-<circle cx="665.06" cy="2665.77" r="2" fill="#7f1111" />
-<text x="671.06" y="2661.77" font-size="16" font-family="Georgia, serif" fill="#241811">Merida</text>
-<circle cx="2673.69" cy="1918.32" r="2" fill="#7f1111" />
-<text x="2679.69" y="1914.32" font-size="16" font-family="Georgia, serif" fill="#241811">Bekescsaba</text>
-<circle cx="2743.09" cy="2377.69" r="2" fill="#7f1111" />
-<text x="2749.09" y="2373.69" font-size="16" font-family="Georgia, serif" fill="#241811">Ferizaj</text>
-<circle cx="3049.86" cy="2236.00" r="2" fill="#7f1111" />
-<text x="3055.86" y="2232.00" font-size="16" font-family="Georgia, serif" fill="#241811">Veliko Turnovo</text>
-<circle cx="1985.02" cy="631.64" r="2" fill="#7f1111" />
-<text x="1991.02" y="627.64" font-size="16" font-family="Georgia, serif" fill="#241811">Sarpsborg</text>
-<circle cx="2445.61" cy="1712.51" r="2" fill="#7f1111" />
-<text x="2451.61" y="1708.51" font-size="16" font-family="Georgia, serif" fill="#241811">Trencin</text>
-<circle cx="2742.01" cy="2570.80" r="2" fill="#7f1111" />
-<text x="2748.01" y="2566.80" font-size="16" font-family="Georgia, serif" fill="#241811">Korce</text>
-<circle cx="3193.87" cy="2349.32" r="2" fill="#7f1111" />
-<text x="3199.87" y="2345.32" font-size="16" font-family="Georgia, serif" fill="#241811">Kirklareli</text>
-<circle cx="2577.81" cy="2359.07" r="2" fill="#7f1111" />
-<text x="2583.81" y="2355.07" font-size="16" font-family="Georgia, serif" fill="#241811">Niksic</text>
-<circle cx="2798.26" cy="2439.88" r="2" fill="#7f1111" />
-<text x="2804.26" y="2435.88" font-size="16" font-family="Georgia, serif" fill="#241811">Veles</text>
-<circle cx="2456.49" cy="1905.54" r="2" fill="#7f1111" />
-<text x="2462.49" y="1901.54" font-size="16" font-family="Georgia, serif" fill="#241811">Veszprem</text>
-<circle cx="2368.13" cy="2615.71" r="2" fill="#7f1111" />
-<text x="2374.13" y="2611.71" font-size="16" font-family="Georgia, serif" fill="#241811">Potenza</text>
-<circle cx="2649.02" cy="2573.57" r="2" fill="#7f1111" />
-<text x="2655.02" y="2569.57" font-size="16" font-family="Georgia, serif" fill="#241811">Fier</text>
-<circle cx="1949.80" cy="633.80" r="2" fill="#7f1111" />
-<text x="1955.80" y="629.80" font-size="16" font-family="Georgia, serif" fill="#241811">Tonsberg</text>
-<circle cx="1274.06" cy="3076.69" r="2" fill="#7f1111" />
-<text x="1280.06" y="3072.69" font-size="16" font-family="Georgia, serif" fill="#241811">Ain Defla</text>
-<circle cx="2975.55" cy="2350.97" r="2" fill="#7f1111" />
-<text x="2981.55" y="2346.97" font-size="16" font-family="Georgia, serif" fill="#241811">Pazardzhik</text>
-<circle cx="2662.28" cy="837.99" r="2" fill="#7f1111" />
-<text x="2668.28" y="833.99" font-size="16" font-family="Georgia, serif" fill="#241811">Jelgava</text>
-<circle cx="3055.86" cy="2145.23" r="2" fill="#7f1111" />
-<text x="3061.86" y="2141.23" font-size="16" font-family="Georgia, serif" fill="#241811">Giurgiu</text>
-<circle cx="1836.13" cy="2495.14" r="2" fill="#7f1111" />
-<text x="1842.13" y="2491.14" font-size="16" font-family="Georgia, serif" fill="#241811">Ajaccio</text>
-<circle cx="2608.12" cy="1796.76" r="2" fill="#7f1111" />
-<text x="2614.12" y="1792.76" font-size="16" font-family="Georgia, serif" fill="#241811">Eger</text>
-<circle cx="1823.30" cy="3125.74" r="2" fill="#7f1111" />
-<text x="1829.30" y="3121.74" font-size="16" font-family="Georgia, serif" fill="#241811">El Kef</text>
-<circle cx="537.97" cy="2671.80" r="2" fill="#7f1111" />
-<text x="543.97" y="2667.80" font-size="16" font-family="Georgia, serif" fill="#241811">Evora</text>
-<circle cx="2793.98" cy="1839.70" r="2" fill="#7f1111" />
-<text x="2799.98" y="1835.70" font-size="16" font-family="Georgia, serif" fill="#241811">Zalau</text>
-<circle cx="2895.01" cy="2734.19" r="2" fill="#7f1111" />
-<text x="2901.01" y="2730.19" font-size="16" font-family="Georgia, serif" fill="#241811">Lamia</text>
-<circle cx="2659.39" cy="803.91" r="2" fill="#7f1111" />
-<text x="2665.39" y="799.91" font-size="16" font-family="Georgia, serif" fill="#241811">Jurmala</text>
-<circle cx="2764.43" cy="2364.11" r="2" fill="#7f1111" />
-<text x="2770.43" y="2360.11" font-size="16" font-family="Georgia, serif" fill="#241811">Gjilan</text>
-<circle cx="2017.31" cy="3200.55" r="2" fill="#7f1111" />
-<text x="2023.31" y="3196.55" font-size="16" font-family="Georgia, serif" fill="#241811">Mahdia</text>
-<circle cx="2731.42" cy="266.64" r="2" fill="#7f1111" />
-<text x="2737.42" y="262.64" font-size="16" font-family="Georgia, serif" fill="#241811">Mikkeli</text>
-<circle cx="1830.03" cy="3089.59" r="2" fill="#7f1111" />
-<text x="1836.03" y="3085.59" font-size="16" font-family="Georgia, serif" fill="#241811">Jendouba</text>
-<circle cx="2090.33" cy="2112.58" r="2" fill="#7f1111" />
-<text x="2096.33" y="2108.58" font-size="16" font-family="Georgia, serif" fill="#241811">Venice</text>
-<circle cx="2733.81" cy="2442.40" r="2" fill="#7f1111" />
-<text x="2739.81" y="2438.40" font-size="16" font-family="Georgia, serif" fill="#241811">Gostivar</text>
-<circle cx="1909.67" cy="640.04" r="2" fill="#7f1111" />
-<text x="1915.67" y="636.04" font-size="16" font-family="Georgia, serif" fill="#241811">Skien</text>
-<circle cx="2284.75" cy="1675.32" r="2" fill="#7f1111" />
-<text x="2290.75" y="1671.32" font-size="16" font-family="Georgia, serif" fill="#241811">Jihlava</text>
-<circle cx="3000.92" cy="1939.86" r="2" fill="#7f1111" />
-<text x="3006.92" y="1935.86" font-size="16" font-family="Georgia, serif" fill="#241811">Sfantu Gheorghe</text>
-<circle cx="2901.24" cy="2255.21" r="2" fill="#7f1111" />
-<text x="2907.24" y="2251.21" font-size="16" font-family="Georgia, serif" fill="#241811">Vratsa</text>
-<circle cx="2276.17" cy="2522.79" r="2" fill="#7f1111" />
-<text x="2282.17" y="2518.79" font-size="16" font-family="Georgia, serif" fill="#241811">Campobasso</text>
-<circle cx="2722.23" cy="1070.90" r="2" fill="#7f1111" />
-<text x="2728.23" y="1066.90" font-size="16" font-family="Georgia, serif" fill="#241811">Alytus</text>
-<circle cx="2676.22" cy="2357.04" r="2" fill="#7f1111" />
-<text x="2682.22" y="2353.04" font-size="16" font-family="Georgia, serif" fill="#241811">Peje</text>
-<circle cx="2828.77" cy="2431.10" r="2" fill="#7f1111" />
-<text x="2834.77" y="2427.10" font-size="16" font-family="Georgia, serif" fill="#241811">Shtip</text>
-<circle cx="3032.25" cy="2263.18" r="2" fill="#7f1111" />
-<text x="3038.25" y="2259.18" font-size="16" font-family="Georgia, serif" fill="#241811">Gabrovo</text>
-<circle cx="1886.33" cy="3253.12" r="2" fill="#7f1111" />
-<text x="1892.33" y="3249.12" font-size="16" font-family="Georgia, serif" fill="#241811">Sidi Bouzid</text>
-<circle cx="2873.40" cy="2238.66" r="2" fill="#7f1111" />
-<text x="2879.40" y="2234.66" font-size="16" font-family="Georgia, serif" fill="#241811">Montana</text>
-<circle cx="2855.64" cy="2366.69" r="2" fill="#7f1111" />
-<text x="2861.64" y="2362.69" font-size="16" font-family="Georgia, serif" fill="#241811">Kyustendil</text>
-<circle cx="1541.75" cy="1446.57" r="2" fill="#7f1111" />
-<text x="1547.75" y="1442.57" font-size="16" font-family="Georgia, serif" fill="#241811">Middelburg</text>
-<circle cx="3075.54" cy="2448.23" r="2" fill="#7f1111" />
-<text x="3081.54" y="2444.23" font-size="16" font-family="Georgia, serif" fill="#241811">Komotini</text>
-<circle cx="2108.71" cy="1597.02" r="2" fill="#7f1111" />
-<text x="2114.71" y="1593.02" font-size="16" font-family="Georgia, serif" fill="#241811">Karlovy Vary</text>
-<circle cx="2712.91" cy="2480.80" r="2" fill="#7f1111" />
-<text x="2718.91" y="2476.80" font-size="16" font-family="Georgia, serif" fill="#241811">Centar Zupa</text>
-<circle cx="2484.57" cy="2111.20" r="2" fill="#7f1111" />
-<text x="2490.57" y="2107.20" font-size="16" font-family="Georgia, serif" fill="#241811">Slavonski Brod</text>
-<circle cx="3061.48" cy="2392.81" r="2" fill="#7f1111" />
-<text x="3067.48" y="2388.81" font-size="16" font-family="Georgia, serif" fill="#241811">Kardzhali</text>
-<circle cx="1862.50" cy="2033.61" r="2" fill="#7f1111" />
-<text x="1868.50" y="2029.61" font-size="16" font-family="Georgia, serif" fill="#241811">Bellinzona</text>
-<circle cx="994.87" cy="1140.08" r="2" fill="#7f1111" />
-<text x="1000.87" y="1136.08" font-size="16" font-family="Georgia, serif" fill="#241811">Swords</text>
-<circle cx="3888.47" cy="2883.04" r="2" fill="#7f1111" />
-<text x="3894.47" y="2879.04" font-size="16" font-family="Georgia, serif" fill="#241811">Famagusta</text>
-<circle cx="2736.14" cy="2516.80" r="2" fill="#7f1111" />
-<text x="2742.14" y="2512.80" font-size="16" font-family="Georgia, serif" fill="#241811">Ohrid</text>
-<circle cx="2311.66" cy="2093.40" r="2" fill="#7f1111" />
-<text x="2317.66" y="2089.40" font-size="16" font-family="Georgia, serif" fill="#241811">Karlovac</text>
-<circle cx="3136.85" cy="2049.04" r="2" fill="#7f1111" />
-<text x="3142.85" y="2045.04" font-size="16" font-family="Georgia, serif" fill="#241811">Slobozia</text>
-<circle cx="1897.02" cy="935.70" r="2" fill="#7f1111" />
-<text x="1903.02" y="931.70" font-size="16" font-family="Georgia, serif" fill="#241811">Viborg</text>
-<circle cx="3010.11" cy="2145.60" r="2" fill="#7f1111" />
-<text x="3016.11" y="2141.60" font-size="16" font-family="Georgia, serif" fill="#241811">Alexandria</text>
-<circle cx="2669.59" cy="646.61" r="2" fill="#7f1111" />
-<text x="2675.59" y="642.61" font-size="16" font-family="Georgia, serif" fill="#241811">Paernu</text>
-<circle cx="633.49" cy="2475.27" r="2" fill="#7f1111" />
-<text x="639.49" y="2471.27" font-size="16" font-family="Georgia, serif" fill="#241811">Guarda</text>
-<circle cx="2691.22" cy="2688.70" r="2" fill="#7f1111" />
-<text x="2697.22" y="2684.70" font-size="16" font-family="Georgia, serif" fill="#241811">Corfu</text>
-<circle cx="2543.21" cy="2135.12" r="2" fill="#7f1111" />
-<text x="2549.21" y="2131.12" font-size="16" font-family="Georgia, serif" fill="#241811">Brcko</text>
-<circle cx="2820.52" cy="2467.12" r="2" fill="#7f1111" />
-<text x="2826.52" y="2463.12" font-size="16" font-family="Georgia, serif" fill="#241811">Kavadarci</text>
-<circle cx="2285.53" cy="670.16" r="2" fill="#7f1111" />
-<text x="2291.53" y="666.16" font-size="16" font-family="Georgia, serif" fill="#241811">Nykoeping</text>
-<circle cx="2270.89" cy="896.98" r="2" fill="#7f1111" />
-<text x="2276.89" y="892.98" font-size="16" font-family="Georgia, serif" fill="#241811">Kalmar</text>
-<circle cx="1738.05" cy="1964.43" r="2" fill="#7f1111" />
-<text x="1744.05" y="1960.43" font-size="16" font-family="Georgia, serif" fill="#241811">Fribourg</text>
-<circle cx="2286.43" cy="2015.69" r="2" fill="#7f1111" />
-<text x="2292.43" y="2011.69" font-size="16" font-family="Georgia, serif" fill="#241811">Celje</text>
-<circle cx="2225.05" cy="2019.34" r="2" fill="#7f1111" />
-<text x="2231.05" y="2015.34" font-size="16" font-family="Georgia, serif" fill="#241811">Kranj</text>
-<circle cx="2726.14" cy="2511.74" r="2" fill="#7f1111" />
-<text x="2732.14" y="2507.74" font-size="16" font-family="Georgia, serif" fill="#241811">Struga</text>
-<circle cx="2201.23" cy="478.27" r="2" fill="#7f1111" />
-<text x="2207.23" y="474.27" font-size="16" font-family="Georgia, serif" fill="#241811">Falun</text>
-<circle cx="1839.32" cy="1871.57" r="2" fill="#7f1111" />
-<text x="1845.32" y="1867.57" font-size="16" font-family="Georgia, serif" fill="#241811">Schaffhausen</text>
-<circle cx="2822.61" cy="2592.13" r="2" fill="#7f1111" />
-<text x="2828.61" y="2588.13" font-size="16" font-family="Georgia, serif" fill="#241811">Kozani</text>
-<circle cx="2358.76" cy="2001.36" r="2" fill="#7f1111" />
-<text x="2364.76" y="1997.36" font-size="16" font-family="Georgia, serif" fill="#241811">Varazdin</text>
-<circle cx="548.30" cy="2321.34" r="2" fill="#7f1111" />
-<text x="554.30" y="2317.34" font-size="16" font-family="Georgia, serif" fill="#241811">Viana do Castelo</text>
-<circle cx="2694.19" cy="2418.04" r="2" fill="#7f1111" />
-<text x="2700.19" y="2414.04" font-size="16" font-family="Georgia, serif" fill="#241811">Kukes</text>
-<circle cx="1897.99" cy="1963.37" r="2" fill="#7f1111" />
-<text x="1903.99" y="1959.37" font-size="16" font-family="Georgia, serif" fill="#241811">Chur</text>
-<circle cx="2055.30" cy="989.87" r="2" fill="#7f1111" />
-<text x="2061.30" y="985.87" font-size="16" font-family="Georgia, serif" fill="#241811">Hillerod</text>
-<circle cx="700.05" cy="2350.56" r="2" fill="#7f1111" />
-<text x="706.05" y="2346.56" font-size="16" font-family="Georgia, serif" fill="#241811">Braganca</text>
-<circle cx="1745.29" cy="2079.32" r="2" fill="#7f1111" />
-<text x="1751.29" y="2075.32" font-size="16" font-family="Georgia, serif" fill="#241811">Aosta</text>
-<circle cx="2680.86" cy="1061.99" r="2" fill="#7f1111" />
-<text x="2686.86" y="1057.99" font-size="16" font-family="Georgia, serif" fill="#241811">Marijampole</text>
-<circle cx="2839.24" cy="2181.89" r="2" fill="#7f1111" />
-<text x="2845.24" y="2177.89" font-size="16" font-family="Georgia, serif" fill="#241811">Vidin</text>
-<circle cx="3112.46" cy="2201.50" r="2" fill="#7f1111" />
-<text x="3118.46" y="2197.50" font-size="16" font-family="Georgia, serif" fill="#241811">Targovishte</text>
-<circle cx="527.48" cy="2731.49" r="2" fill="#7f1111" />
-<text x="533.48" y="2727.49" font-size="16" font-family="Georgia, serif" fill="#241811">Beja</text>
-<circle cx="1749.69" cy="2026.77" r="2" fill="#7f1111" />
-<text x="1755.69" y="2022.77" font-size="16" font-family="Georgia, serif" fill="#241811">Sitten</text>
-<circle cx="2568.43" cy="1781.66" r="2" fill="#7f1111" />
-<text x="2574.43" y="1777.66" font-size="16" font-family="Georgia, serif" fill="#241811">Salgotarjan</text>
-<circle cx="3160.46" cy="1893.59" r="2" fill="#7f1111" />
-<text x="3166.46" y="1889.59" font-size="16" font-family="Georgia, serif" fill="#241811">Cahul</text>
-<circle cx="2991.68" cy="1888.85" r="2" fill="#7f1111" />
-<text x="2997.68" y="1884.85" font-size="16" font-family="Georgia, serif" fill="#241811">Miercurea-Ciuc</text>
-<circle cx="3102.87" cy="1764.86" r="2" fill="#7f1111" />
-<text x="3108.87" y="1760.86" font-size="16" font-family="Georgia, serif" fill="#241811">Ungheni</text>
-<circle cx="2841.70" cy="2409.84" r="2" fill="#7f1111" />
-<text x="2847.70" y="2405.84" font-size="16" font-family="Georgia, serif" fill="#241811">Kochani</text>
-<circle cx="2518.43" cy="1978.37" r="2" fill="#7f1111" />
-<text x="2524.43" y="1974.37" font-size="16" font-family="Georgia, serif" fill="#241811">Szekszard</text>
-<circle cx="2866.76" cy="2457.88" r="2" fill="#7f1111" />
-<text x="2872.76" y="2453.88" font-size="16" font-family="Georgia, serif" fill="#241811">Strumica</text>
-<circle cx="2178.32" cy="2442.70" r="2" fill="#7f1111" />
-<text x="2184.32" y="2438.70" font-size="16" font-family="Georgia, serif" fill="#241811">L'Aquila</text>
-<circle cx="599.79" cy="2546.55" r="2" fill="#7f1111" />
-<text x="605.79" y="2542.55" font-size="16" font-family="Georgia, serif" fill="#241811">Castelo Branco</text>
-<circle cx="1724.06" cy="1943.44" r="2" fill="#7f1111" />
-<text x="1730.06" y="1939.44" font-size="16" font-family="Georgia, serif" fill="#241811">Neuchatel</text>
-<circle cx="2536.69" cy="781.36" r="2" fill="#7f1111" />
-<text x="2542.69" y="777.36" font-size="16" font-family="Georgia, serif" fill="#241811">Ventspils</text>
-<circle cx="2292.05" cy="3139.43" r="2" fill="#7f1111" />
-<text x="2298.05" y="3135.43" font-size="16" font-family="Georgia, serif" fill="#241811">San Pawl il-Bahar</text>
-<circle cx="1937.07" cy="3056.27" r="2" fill="#7f1111" />
-<text x="1943.07" y="3052.27" font-size="16" font-family="Georgia, serif" fill="#241811">Manouba</text>
-<circle cx="1877.74" cy="3136.46" r="2" fill="#7f1111" />
-<text x="1883.74" y="3132.46" font-size="16" font-family="Georgia, serif" fill="#241811">Siliana</text>
-<circle cx="2741.79" cy="2472.26" r="2" fill="#7f1111" />
-<text x="2747.79" y="2468.26" font-size="16" font-family="Georgia, serif" fill="#241811">Kicevo</text>
-<circle cx="2349.50" cy="2280.35" r="2" fill="#7f1111" />
-<text x="2355.50" y="2276.35" font-size="16" font-family="Georgia, serif" fill="#241811">Sibenik</text>
-<circle cx="1866.36" cy="719.92" r="2" fill="#7f1111" />
-<text x="1872.36" y="715.92" font-size="16" font-family="Georgia, serif" fill="#241811">Arendal</text>
-<circle cx="3015.43" cy="2411.37" r="2" fill="#7f1111" />
-<text x="3021.43" y="2407.37" font-size="16" font-family="Georgia, serif" fill="#241811">Smolyan</text>
-<circle cx="1830.52" cy="1927.72" r="2" fill="#7f1111" />
-<text x="1836.52" y="1923.72" font-size="16" font-family="Georgia, serif" fill="#241811">Zug</text>
-<circle cx="1912.59" cy="1893.31" r="2" fill="#7f1111" />
-<text x="1918.59" y="1889.31" font-size="16" font-family="Georgia, serif" fill="#241811">Bregenz</text>
-<circle cx="3140.34" cy="2097.87" r="2" fill="#7f1111" />
-<text x="3146.34" y="2093.87" font-size="16" font-family="Georgia, serif" fill="#241811">Silistra</text>
-<circle cx="1980.72" cy="468.90" r="2" fill="#7f1111" />
-<text x="1986.72" y="464.90" font-size="16" font-family="Georgia, serif" fill="#241811">Hamar</text>
-<circle cx="495.76" cy="2583.99" r="2" fill="#7f1111" />
-<text x="501.76" y="2579.99" font-size="16" font-family="Georgia, serif" fill="#241811">Santarem</text>
-<circle cx="1951.56" cy="434.60" r="2" fill="#7f1111" />
-<text x="1957.56" y="430.60" font-size="16" font-family="Georgia, serif" fill="#241811">Lillehammer</text>
-<circle cx="1401.42" cy="3034.87" r="2" fill="#7f1111" />
-<text x="1407.42" y="3030.87" font-size="16" font-family="Georgia, serif" fill="#241811">Boumerdas</text>
-<circle cx="3102.35" cy="2172.73" r="2" fill="#7f1111" />
-<text x="3108.35" y="2168.73" font-size="16" font-family="Georgia, serif" fill="#241811">Razgrad</text>
-<circle cx="3205.41" cy="2641.38" r="2" fill="#7f1111" />
-<text x="3211.41" y="2637.38" font-size="16" font-family="Georgia, serif" fill="#241811">Mytilene</text>
-<circle cx="2777.62" cy="2395.15" r="2" fill="#7f1111" />
-<text x="2783.62" y="2391.15" font-size="16" font-family="Georgia, serif" fill="#241811">Lipkovo</text>
-<circle cx="2984.43" cy="2245.69" r="2" fill="#7f1111" />
-<text x="2990.43" y="2241.69" font-size="16" font-family="Georgia, serif" fill="#241811">Lovech</text>
-<circle cx="2368.74" cy="2090.97" r="2" fill="#7f1111" />
-<text x="2374.74" y="2086.97" font-size="16" font-family="Georgia, serif" fill="#241811">Sisak</text>
-<circle cx="3110.82" cy="1657.82" r="2" fill="#7f1111" />
-<text x="3116.82" y="1653.82" font-size="16" font-family="Georgia, serif" fill="#241811">Soroca</text>
-<circle cx="2518.98" cy="2381.14" r="2" fill="#7f1111" />
-<text x="2524.98" y="2377.14" font-size="16" font-family="Georgia, serif" fill="#241811">Dubrovnik</text>
-<circle cx="3832.37" cy="2879.07" r="2" fill="#7f1111" />
-<text x="3838.37" y="2875.07" font-size="16" font-family="Georgia, serif" fill="#241811">Kyrenia</text>
-<circle cx="2914.76" cy="2885.78" r="2" fill="#7f1111" />
-<text x="2920.76" y="2881.78" font-size="16" font-family="Georgia, serif" fill="#241811">Tripoli</text>
-<circle cx="2856.04" cy="806.76" r="2" fill="#7f1111" />
-<text x="2862.04" y="802.76" font-size="16" font-family="Georgia, serif" fill="#241811">Rezekne</text>
-<circle cx="2186.11" cy="2096.19" r="2" fill="#7f1111" />
-<text x="2192.11" y="2092.19" font-size="16" font-family="Georgia, serif" fill="#241811">Koper</text>
-<circle cx="1856.52" cy="1886.87" r="2" fill="#7f1111" />
-<text x="1862.52" y="1882.87" font-size="16" font-family="Georgia, serif" fill="#241811">Frauenfeld</text>
-<circle cx="2742.44" cy="2420.71" r="2" fill="#7f1111" />
-<text x="2748.44" y="2416.71" font-size="16" font-family="Georgia, serif" fill="#241811">Zelino</text>
-<circle cx="2786.16" cy="935.87" r="2" fill="#7f1111" />
-<text x="2792.16" y="931.87" font-size="16" font-family="Georgia, serif" fill="#241811">Utena</text>
-<circle cx="2850.24" cy="2438.90" r="2" fill="#7f1111" />
-<text x="2856.24" y="2434.90" font-size="16" font-family="Georgia, serif" fill="#241811">Radovis</text>
-<circle cx="3164.52" cy="1727.90" r="2" fill="#7f1111" />
-<text x="3170.52" y="1723.90" font-size="16" font-family="Georgia, serif" fill="#241811">Orhei</text>
-<circle cx="2283.24" cy="2062.01" r="2" fill="#7f1111" />
-<text x="2289.24" y="2058.01" font-size="16" font-family="Georgia, serif" fill="#241811">Novo Mesto</text>
-<circle cx="2397.21" cy="2041.41" r="2" fill="#7f1111" />
-<text x="2403.21" y="2037.41" font-size="16" font-family="Georgia, serif" fill="#241811">Bjelovar</text>
-<circle cx="2296.12" cy="3145.13" r="2" fill="#7f1111" />
-<text x="2302.12" y="3141.13" font-size="16" font-family="Georgia, serif" fill="#241811">Birkirkara</text>
-<circle cx="2275.54" cy="2002.94" r="2" fill="#7f1111" />
-<text x="2281.54" y="1998.94" font-size="16" font-family="Georgia, serif" fill="#241811">Velenje</text>
-<circle cx="2293.13" cy="3143.95" r="2" fill="#7f1111" />
-<text x="2299.13" y="3139.95" font-size="16" font-family="Georgia, serif" fill="#241811">Mosta</text>
-<circle cx="2701.56" cy="2637.22" r="2" fill="#7f1111" />
-<text x="2707.56" y="2633.22" font-size="16" font-family="Georgia, serif" fill="#241811">Gjirokaster</text>
-<circle cx="2363.30" cy="781.13" r="2" fill="#7f1111" />
-<text x="2369.30" y="777.13" font-size="16" font-family="Georgia, serif" fill="#241811">Visby</text>
-<circle cx="2740.08" cy="2410.59" r="2" fill="#7f1111" />
-<text x="2746.08" y="2406.59" font-size="16" font-family="Georgia, serif" fill="#241811">Tearce</text>
-<circle cx="3181.18" cy="1844.24" r="2" fill="#7f1111" />
-<text x="3187.18" y="1840.24" font-size="16" font-family="Georgia, serif" fill="#241811">Comrat</text>
-<circle cx="3048.11" cy="1673.34" r="2" fill="#7f1111" />
-<text x="3054.11" y="1669.34" font-size="16" font-family="Georgia, serif" fill="#241811">Edinet</text>
-<circle cx="2734.02" cy="724.37" r="2" fill="#7f1111" />
-<text x="2740.02" y="720.37" font-size="16" font-family="Georgia, serif" fill="#241811">Valmiera</text>
-<circle cx="2706.52" cy="810.17" r="2" fill="#7f1111" />
-<text x="2712.52" y="806.17" font-size="16" font-family="Georgia, serif" fill="#241811">Ogre</text>
-<circle cx="2299.36" cy="3143.19" r="2" fill="#7f1111" />
-<text x="2305.36" y="3139.19" font-size="16" font-family="Georgia, serif" fill="#241811">Sliema</text>
-<circle cx="591.51" cy="2604.10" r="2" fill="#7f1111" />
-<text x="597.51" y="2600.10" font-size="16" font-family="Georgia, serif" fill="#241811">Portalegre</text>
-<circle cx="2393.30" cy="2013.09" r="2" fill="#7f1111" />
-<text x="2399.30" y="2009.09" font-size="16" font-family="Georgia, serif" fill="#241811">Koprivnica</text>
-<circle cx="2550.19" cy="2082.03" r="2" fill="#7f1111" />
-<text x="2556.19" y="2078.03" font-size="16" font-family="Georgia, serif" fill="#241811">Vukovar</text>
-<circle cx="2296.78" cy="1802.00" r="2" fill="#7f1111" />
-<text x="2302.78" y="1798.00" font-size="16" font-family="Georgia, serif" fill="#241811">Sankt Poelten</text>
-<circle cx="3221.58" cy="1794.10" r="2" fill="#7f1111" />
-<text x="3227.58" y="1790.10" font-size="16" font-family="Georgia, serif" fill="#241811">Causeni</text>
-<circle cx="1799.57" cy="1903.28" r="2" fill="#7f1111" />
-<text x="1805.57" y="1899.28" font-size="16" font-family="Georgia, serif" fill="#241811">Aarau</text>
-<circle cx="2595.83" cy="924.04" r="2" fill="#7f1111" />
-<text x="2601.83" y="920.04" font-size="16" font-family="Georgia, serif" fill="#241811">Telsiai</text>
-<circle cx="2610.25" cy="1000.48" r="2" fill="#7f1111" />
-<text x="2616.25" y="996.48" font-size="16" font-family="Georgia, serif" fill="#241811">Taurage</text>
-<circle cx="2778.40" cy="827.98" r="2" fill="#7f1111" />
-<text x="2784.40" y="823.98" font-size="16" font-family="Georgia, serif" fill="#241811">Jekabpils</text>
-<circle cx="2831.12" cy="2380.36" r="2" fill="#7f1111" />
-<text x="2837.12" y="2376.36" font-size="16" font-family="Georgia, serif" fill="#241811">Kriva Palanka</text>
-<circle cx="1940.99" cy="3101.39" r="2" fill="#7f1111" />
-<text x="1946.99" y="3097.39" font-size="16" font-family="Georgia, serif" fill="#241811">Zaghouan</text>
-<circle cx="2861.43" cy="2491.51" r="2" fill="#7f1111" />
-<text x="2867.43" y="2487.51" font-size="16" font-family="Georgia, serif" fill="#241811">Gevgelija</text>
-<circle cx="2552.20" cy="2397.47" r="2" fill="#7f1111" />
-<text x="2558.20" y="2393.47" font-size="16" font-family="Georgia, serif" fill="#241811">Herceg Novi</text>
-<circle cx="2825.42" cy="2460.56" r="2" fill="#7f1111" />
-<text x="2831.42" y="2456.56" font-size="16" font-family="Georgia, serif" fill="#241811">Negotino</text>
-<circle cx="2600.16" cy="2292.20" r="2" fill="#7f1111" />
-<text x="2606.16" y="2288.20" font-size="16" font-family="Georgia, serif" fill="#241811">Pljevlja</text>
-<circle cx="3156.66" cy="1757.17" r="2" fill="#7f1111" />
-<text x="3162.66" y="1753.17" font-size="16" font-family="Georgia, serif" fill="#241811">Straseni</text>
-<circle cx="2675.28" cy="807.33" r="2" fill="#7f1111" />
-<text x="2681.28" y="803.33" font-size="16" font-family="Georgia, serif" fill="#241811">Marupe</text>
-<circle cx="2641.32" cy="2458.37" r="2" fill="#7f1111" />
-<text x="2647.32" y="2454.37" font-size="16" font-family="Georgia, serif" fill="#241811">Lezhe</text>
-<circle cx="2777.66" cy="2421.00" r="2" fill="#7f1111" />
-<text x="2783.66" y="2417.00" font-size="16" font-family="Georgia, serif" fill="#241811">Studenicani</text>
-<circle cx="2849.43" cy="2412.24" r="2" fill="#7f1111" />
-<text x="2855.43" y="2408.24" font-size="16" font-family="Georgia, serif" fill="#241811">Vinica</text>
-<circle cx="2709.51" cy="2476.47" r="2" fill="#7f1111" />
-<text x="2715.51" y="2472.47" font-size="16" font-family="Georgia, serif" fill="#241811">Debar</text>
-<circle cx="2576.12" cy="2412.42" r="2" fill="#7f1111" />
-<text x="2582.12" y="2408.42" font-size="16" font-family="Georgia, serif" fill="#241811">Budva</text>
-<circle cx="2326.22" cy="1991.92" r="2" fill="#7f1111" />
-<text x="2332.22" y="1987.92" font-size="16" font-family="Georgia, serif" fill="#241811">Ptuj</text>
-<circle cx="2692.62" cy="808.47" r="2" fill="#7f1111" />
-<text x="2698.62" y="804.47" font-size="16" font-family="Georgia, serif" fill="#241811">Salaspils</text>
-<circle cx="2597.41" cy="2430.68" r="2" fill="#7f1111" />
-<text x="2603.41" y="2426.68" font-size="16" font-family="Georgia, serif" fill="#241811">Bar</text>
-<circle cx="2866.75" cy="2399.37" r="2" fill="#7f1111" />
-<text x="2872.75" y="2395.37" font-size="16" font-family="Georgia, serif" fill="#241811">Delcevo</text>
-<circle cx="2725.11" cy="636.19" r="2" fill="#7f1111" />
-<text x="2731.11" y="632.19" font-size="16" font-family="Georgia, serif" fill="#241811">Viljandi</text>
-<circle cx="616.97" cy="2385.10" r="2" fill="#7f1111" />
-<text x="622.97" y="2381.10" font-size="16" font-family="Georgia, serif" fill="#241811">Vila Real</text>
-<circle cx="3163.32" cy="1789.82" r="2" fill="#7f1111" />
-<text x="3169.32" y="1785.82" font-size="16" font-family="Georgia, serif" fill="#241811">Hincesti</text>
-<circle cx="2459.85" cy="2094.79" r="2" fill="#7f1111" />
-<text x="2465.85" y="2090.79" font-size="16" font-family="Georgia, serif" fill="#241811">Pozega</text>
-<circle cx="2297.14" cy="3147.40" r="2" fill="#7f1111" />
-<text x="2303.14" y="3143.40" font-size="16" font-family="Georgia, serif" fill="#241811">Qormi</text>
-<circle cx="1765.31" cy="1921.95" r="2" fill="#7f1111" />
-<text x="1771.31" y="1917.95" font-size="16" font-family="Georgia, serif" fill="#241811">Solothurn</text>
-<circle cx="3117.89" cy="1685.16" r="2" fill="#7f1111" />
-<text x="3123.89" y="1681.16" font-size="16" font-family="Georgia, serif" fill="#241811">Floresti</text>
-<circle cx="2751.90" cy="2517.14" r="2" fill="#7f1111" />
-<text x="2757.90" y="2513.14" font-size="16" font-family="Georgia, serif" fill="#241811">Resen</text>
-<circle cx="2779.88" cy="2412.80" r="2" fill="#7f1111" />
-<text x="2785.88" y="2408.80" font-size="16" font-family="Georgia, serif" fill="#241811">Ilinden</text>
-<circle cx="2736.56" cy="2423.15" r="2" fill="#7f1111" />
-<text x="2742.56" y="2419.15" font-size="16" font-family="Georgia, serif" fill="#241811">Brvenica</text>
-<circle cx="2627.18" cy="810.63" r="2" fill="#7f1111" />
-<text x="2633.18" y="806.63" font-size="16" font-family="Georgia, serif" fill="#241811">Tukums</text>
-<circle cx="3083.80" cy="1678.66" r="2" fill="#7f1111" />
-<text x="3089.80" y="1674.66" font-size="16" font-family="Georgia, serif" fill="#241811">Drochia</text>
-<circle cx="1312.30" cy="2392.30" r="2" fill="#7f1111" />
-<text x="1318.30" y="2388.30" font-size="16" font-family="Georgia, serif" fill="#241811">les Escaldes</text>
-<circle cx="1881.50" cy="1905.63" r="2" fill="#7f1111" />
-<text x="1887.50" y="1901.63" font-size="16" font-family="Georgia, serif" fill="#241811">Herisau</text>
-<circle cx="2302.39" cy="3146.95" r="2" fill="#7f1111" />
-<text x="2308.39" y="3142.95" font-size="16" font-family="Georgia, serif" fill="#241811">Zabbar</text>
-<circle cx="2632.14" cy="2322.30" r="2" fill="#7f1111" />
-<text x="2638.14" y="2318.30" font-size="16" font-family="Georgia, serif" fill="#241811">Bijelo Polje</text>
-<circle cx="1839.35" cy="1944.20" r="2" fill="#7f1111" />
-<text x="1845.35" y="1940.20" font-size="16" font-family="Georgia, serif" fill="#241811">Schwyz</text>
-<circle cx="1316.61" cy="3045.42" r="2" fill="#7f1111" />
-<text x="1322.61" y="3041.42" font-size="16" font-family="Georgia, serif" fill="#241811">Tipasa</text>
-<circle cx="2732.45" cy="2428.76" r="2" fill="#7f1111" />
-<text x="2738.45" y="2424.76" font-size="16" font-family="Georgia, serif" fill="#241811">Bogovinje</text>
-<circle cx="2272.82" cy="2025.05" r="2" fill="#7f1111" />
-<text x="2278.82" y="2021.05" font-size="16" font-family="Georgia, serif" fill="#241811">Trbovlje</text>
-<circle cx="2580.31" cy="2400.54" r="2" fill="#7f1111" />
-<text x="2586.31" y="2396.54" font-size="16" font-family="Georgia, serif" fill="#241811">Cetinje</text>
-<circle cx="2364.55" cy="1992.16" r="2" fill="#7f1111" />
-<text x="2370.55" y="1988.16" font-size="16" font-family="Georgia, serif" fill="#241811">Cakovec</text>
-<circle cx="2730.90" cy="750.25" r="2" fill="#7f1111" />
-<text x="2736.90" y="746.25" font-size="16" font-family="Georgia, serif" fill="#241811">Cesis</text>
-<circle cx="2741.74" cy="523.55" r="2" fill="#7f1111" />
-<text x="2747.74" y="519.55" font-size="16" font-family="Georgia, serif" fill="#241811">Rakvere</text>
-<circle cx="3172.89" cy="1774.51" r="2" fill="#7f1111" />
-<text x="3178.89" y="1770.51" font-size="16" font-family="Georgia, serif" fill="#241811">Ialoveni</text>
-<circle cx="2294.59" cy="3143.38" r="2" fill="#7f1111" />
-<text x="2300.59" y="3139.38" font-size="16" font-family="Georgia, serif" fill="#241811">Naxxar</text>
-<circle cx="2712.61" cy="771.84" r="2" fill="#7f1111" />
-<text x="2718.61" y="767.84" font-size="16" font-family="Georgia, serif" fill="#241811">Sigulda</text>
-<circle cx="2297.30" cy="3144.10" r="2" fill="#7f1111" />
-<text x="2303.30" y="3140.10" font-size="16" font-family="Georgia, serif" fill="#241811">San Gwann</text>
-<circle cx="2700.30" cy="2460.12" r="2" fill="#7f1111" />
-<text x="2706.30" y="2456.12" font-size="16" font-family="Georgia, serif" fill="#241811">Peshkopi</text>
-<circle cx="3114.41" cy="1714.37" r="2" fill="#7f1111" />
-<text x="3120.41" y="1710.37" font-size="16" font-family="Georgia, serif" fill="#241811">Singerei</text>
-<circle cx="2297.51" cy="3142.31" r="2" fill="#7f1111" />
-<text x="2303.51" y="3138.31" font-size="16" font-family="Georgia, serif" fill="#241811">Swieqi</text>
-<circle cx="3088.46" cy="1728.28" r="2" fill="#7f1111" />
-<text x="3094.46" y="1724.28" font-size="16" font-family="Georgia, serif" fill="#241811">Falesti</text>
-<circle cx="3150.04" cy="1832.40" r="2" fill="#7f1111" />
-<text x="3156.04" y="1828.40" font-size="16" font-family="Georgia, serif" fill="#241811">Leova</text>
-<circle cx="3134.62" cy="1750.93" r="2" fill="#7f1111" />
-<text x="3140.62" y="1746.93" font-size="16" font-family="Georgia, serif" fill="#241811">Calarasi</text>
-<circle cx="2877.81" cy="2426.51" r="2" fill="#7f1111" />
-<text x="2883.81" y="2422.51" font-size="16" font-family="Georgia, serif" fill="#241811">Berovo</text>
-<circle cx="2298.34" cy="3142.60" r="2" fill="#7f1111" />
-<text x="2304.34" y="3138.60" font-size="16" font-family="Georgia, serif" fill="#241811">San Giljan</text>
-<circle cx="2297.93" cy="3145.51" r="2" fill="#7f1111" />
-<text x="2303.93" y="3141.51" font-size="16" font-family="Georgia, serif" fill="#241811">Imsida</text>
-<circle cx="2242.52" cy="2019.55" r="2" fill="#7f1111" />
-<text x="2248.52" y="2015.55" font-size="16" font-family="Georgia, serif" fill="#241811">Kamnik</text>
+<circle cx="3089.28" cy="1933.01" r="3.5" fill="#7f1111" />
+<text x="3095.28" y="1929.01" font-size="22" font-family="Georgia, serif" fill="#241811">Istanbul</text>
+<circle cx="3435.45" cy="2895.30" r="3.5" fill="#7f1111" />
+<text x="3441.45" y="2891.30" font-size="22" font-family="Georgia, serif" fill="#241811">Cairo</text>
+<circle cx="1049.55" cy="973.35" r="3.5" fill="#7f1111" />
+<text x="1055.55" y="969.35" font-size="22" font-family="Georgia, serif" fill="#241811">London</text>
+<circle cx="3307.32" cy="2809.53" r="3.5" fill="#7f1111" />
+<text x="3313.32" y="2805.53" font-size="22" font-family="Georgia, serif" fill="#241811">Alexandria</text>
+<circle cx="3396.49" cy="1988.36" r="3.5" fill="#7f1111" />
+<text x="3402.49" y="1984.36" font-size="22" font-family="Georgia, serif" fill="#241811">Ankara</text>
+<circle cx="1928.10" cy="921.11" r="3.5" fill="#7f1111" />
+<text x="1934.10" y="917.11" font-size="22" font-family="Georgia, serif" fill="#241811">Berlin</text>
+<circle cx="3432.88" cy="2900.61" r="3.5" fill="#7f1111" />
+<text x="3438.88" y="2896.61" font-size="22" font-family="Georgia, serif" fill="#241811">Giza</text>
+<circle cx="649.75" cy="1979.78" r="3.5" fill="#7f1111" />
+<text x="655.75" y="1975.78" font-size="22" font-family="Georgia, serif" fill="#241811">Madrid</text>
+<circle cx="3054.82" cy="1037.55" r="3.5" fill="#7f1111" />
+<text x="3060.82" y="1033.55" font-size="22" font-family="Georgia, serif" fill="#241811">Kyiv</text>
+<circle cx="235.60" cy="2547.56" r="3.5" fill="#7f1111" />
+<text x="241.60" y="2543.56" font-size="22" font-family="Georgia, serif" fill="#241811">Casablanca</text>
+<circle cx="1124.43" cy="2373.70" r="3.5" fill="#7f1111" />
+<text x="1130.43" y="2369.70" font-size="22" font-family="Georgia, serif" fill="#241811">Algiers</text>
+<circle cx="1865.66" cy="1931.81" r="3.5" fill="#7f1111" />
+<text x="1871.66" y="1927.81" font-size="22" font-family="Georgia, serif" fill="#241811">Rome</text>
+<circle cx="1183.18" cy="1244.85" r="3.5" fill="#7f1111" />
+<text x="1189.18" y="1240.85" font-size="22" font-family="Georgia, serif" fill="#241811">Paris</text>
+<circle cx="3109.16" cy="2006.58" r="3.5" fill="#7f1111" />
+<text x="3115.16" y="2002.58" font-size="22" font-family="Georgia, serif" fill="#241811">Bursa</text>
+<circle cx="2987.95" cy="2187.51" r="3.5" fill="#7f1111" />
+<text x="2993.95" y="2183.51" font-size="22" font-family="Georgia, serif" fill="#241811">Izmir</text>
+<circle cx="3712.72" cy="2492.58" r="3.5" fill="#7f1111" />
+<text x="3718.72" y="2488.58" font-size="22" font-family="Georgia, serif" fill="#241811">Beirut</text>
+<circle cx="2838.38" cy="1643.57" r="3.5" fill="#7f1111" />
+<text x="2844.38" y="1639.57" font-size="22" font-family="Georgia, serif" fill="#241811">Bucharest</text>
+<circle cx="2813.86" cy="729.01" r="3.5" fill="#7f1111" />
+<text x="2819.86" y="725.01" font-size="22" font-family="Georgia, serif" fill="#241811">Minsk</text>
+<circle cx="2317.31" cy="1395.85" r="3.5" fill="#7f1111" />
+<text x="2323.31" y="1391.85" font-size="22" font-family="Georgia, serif" fill="#241811">Budapest</text>
+<circle cx="2417.26" cy="932.64" r="3.5" fill="#7f1111" />
+<text x="2423.26" y="928.64" font-size="22" font-family="Georgia, serif" fill="#241811">Warsaw</text>
+<circle cx="2131.62" cy="1335.56" r="3.5" fill="#7f1111" />
+<text x="2137.62" y="1331.56" font-size="22" font-family="Georgia, serif" fill="#241811">Vienna</text>
+<circle cx="305.27" cy="2520.24" r="3.5" fill="#7f1111" />
+<text x="311.27" y="2516.24" font-size="22" font-family="Georgia, serif" fill="#241811">Rabat</text>
+<circle cx="3783.17" cy="2514.41" r="3.5" fill="#7f1111" />
+<text x="3789.17" y="2510.41" font-size="22" font-family="Georgia, serif" fill="#241811">Damascus</text>
+<circle cx="1917.13" cy="2756.72" r="3.5" fill="#7f1111" />
+<text x="1923.13" y="2752.72" font-size="22" font-family="Georgia, serif" fill="#241811">Tripoli</text>
+<circle cx="3786.88" cy="2658.32" r="3.5" fill="#7f1111" />
+<text x="3792.88" y="2654.32" font-size="22" font-family="Georgia, serif" fill="#241811">Amman</text>
+<circle cx="2433.58" cy="1643.87" r="3.5" fill="#7f1111" />
+<text x="2439.58" y="1639.87" font-size="22" font-family="Georgia, serif" fill="#241811">Belgrade</text>
+<circle cx="3793.94" cy="2180.81" r="3.5" fill="#7f1111" />
+<text x="3799.94" y="2176.81" font-size="22" font-family="Georgia, serif" fill="#241811">Gaziantep</text>
+<circle cx="1996.14" cy="1157.89" r="3.5" fill="#7f1111" />
+<text x="2002.14" y="1153.89" font-size="22" font-family="Georgia, serif" fill="#241811">Prague</text>
+<circle cx="1875.25" cy="607.20" r="3.5" fill="#7f1111" />
+<text x="1881.25" y="603.20" font-size="22" font-family="Georgia, serif" fill="#241811">Copenhagen</text>
+<circle cx="2656.40" cy="1824.25" r="3.5" fill="#7f1111" />
+<text x="2662.40" y="1820.25" font-size="22" font-family="Georgia, serif" fill="#241811">Sofia</text>
+<circle cx="3795.28" cy="2260.88" r="3.5" fill="#7f1111" />
+<text x="3801.28" y="2256.88" font-size="22" font-family="Georgia, serif" fill="#241811">Aleppo</text>
+<circle cx="688.67" cy="742.60" r="3.5" fill="#7f1111" />
+<text x="694.67" y="738.60" font-size="22" font-family="Georgia, serif" fill="#241811">Dublin</text>
+<circle cx="1333.95" cy="1063.90" r="3.5" fill="#7f1111" />
+<text x="1339.95" y="1059.90" font-size="22" font-family="Georgia, serif" fill="#241811">Brussels</text>
+<circle cx="1711.96" cy="817.45" r="3.5" fill="#7f1111" />
+<text x="1717.96" y="813.45" font-size="22" font-family="Georgia, serif" fill="#241811">Hamburg</text>
+<circle cx="3638.02" cy="2218.87" r="3.5" fill="#7f1111" />
+<text x="3644.02" y="2214.87" font-size="22" font-family="Georgia, serif" fill="#241811">Adana</text>
+<circle cx="2564.99" cy="447.03" r="3.5" fill="#7f1111" />
+<text x="2570.99" y="443.03" font-size="22" font-family="Georgia, serif" fill="#241811">Riga</text>
+<circle cx="1381.08" cy="918.10" r="3.5" fill="#7f1111" />
+<text x="1387.08" y="914.10" font-size="22" font-family="Georgia, serif" fill="#241811">Amsterdam</text>
+<circle cx="2288.14" cy="1741.24" r="3.5" fill="#7f1111" />
+<text x="2294.14" y="1737.24" font-size="22" font-family="Georgia, serif" fill="#241811">Sarajevo</text>
+<circle cx="1679.46" cy="2395.66" r="3.5" fill="#7f1111" />
+<text x="1685.46" y="2391.66" font-size="22" font-family="Georgia, serif" fill="#241811">Tunis</text>
+<circle cx="1096.77" cy="1941.58" r="3.5" fill="#7f1111" />
+<text x="1102.77" y="1937.58" font-size="22" font-family="Georgia, serif" fill="#241811">Barcelona</text>
+<circle cx="2730.98" cy="2254.16" r="3.5" fill="#7f1111" />
+<text x="2736.98" y="2250.16" font-size="22" font-family="Georgia, serif" fill="#241811">Athens</text>
+<circle cx="2111.32" cy="1563.08" r="3.5" fill="#7f1111" />
+<text x="2117.32" y="1559.08" font-size="22" font-family="Georgia, serif" fill="#241811">Zagreb</text>
+<circle cx="2996.68" cy="1379.45" r="3.5" fill="#7f1111" />
+<text x="3002.68" y="1375.45" font-size="22" font-family="Georgia, serif" fill="#241811">Chisinau</text>
+<circle cx="2499.23" cy="1838.86" r="3.5" fill="#7f1111" />
+<text x="2505.23" y="1834.86" font-size="22" font-family="Georgia, serif" fill="#241811">Pristina</text>
+<circle cx="2661.97" cy="667.03" r="3.5" fill="#7f1111" />
+<text x="2667.97" y="663.03" font-size="22" font-family="Georgia, serif" fill="#241811">Vilnius</text>
+<circle cx="2523.67" cy="1900.06" r="3.5" fill="#7f1111" />
+<text x="2529.67" y="1896.06" font-size="22" font-family="Georgia, serif" fill="#241811">Skopje</text>
+<circle cx="3615.64" cy="2059.89" r="3.5" fill="#7f1111" />
+<text x="3621.64" y="2055.89" font-size="22" font-family="Georgia, serif" fill="#241811">Kayseri</text>
+<circle cx="3404.33" cy="2178.14" r="3.5" fill="#7f1111" />
+<text x="3410.33" y="2174.14" font-size="22" font-family="Georgia, serif" fill="#241811">Konya</text>
+<circle cx="2181.90" cy="1339.73" r="3.5" fill="#7f1111" />
+<text x="2187.90" y="1335.73" font-size="22" font-family="Georgia, serif" fill="#241811">Bratislava</text>
+<circle cx="3437.26" cy="1017.44" r="3.5" fill="#7f1111" />
+<text x="3443.26" y="1013.44" font-size="22" font-family="Georgia, serif" fill="#241811">Kharkiv</text>
+<circle cx="2408.98" cy="1969.52" r="3.5" fill="#7f1111" />
+<text x="2414.98" y="1965.52" font-size="22" font-family="Georgia, serif" fill="#241811">Tirana</text>
+<circle cx="1632.47" cy="1594.33" r="3.5" fill="#7f1111" />
+<text x="1638.47" y="1590.33" font-size="22" font-family="Georgia, serif" fill="#241811">Milan</text>
+<circle cx="3282.68" cy="2286.81" r="3.5" fill="#7f1111" />
+<text x="3288.68" y="2282.81" font-size="22" font-family="Georgia, serif" fill="#241811">Antalya</text>
+<circle cx="2007.37" cy="1542.75" r="3.5" fill="#7f1111" />
+<text x="2013.37" y="1538.75" font-size="22" font-family="Georgia, serif" fill="#241811">Ljubljana</text>
+<circle cx="1804.58" cy="1345.02" r="3.5" fill="#7f1111" />
+<text x="1810.58" y="1341.02" font-size="22" font-family="Georgia, serif" fill="#241811">Munich</text>
+<circle cx="2361.43" cy="1868.80" r="2" fill="#7f1111" />
+<text x="2367.43" y="1864.80" font-size="16" font-family="Georgia, serif" fill="#241811">Podgorica</text>
+<circle cx="3519.04" cy="2409.25" r="2" fill="#7f1111" />
+<text x="3525.04" y="2405.25" font-size="16" font-family="Georgia, serif" fill="#241811">Nicosia</text>
+<circle cx="451.71" cy="2542.02" r="3.5" fill="#7f1111" />
+<text x="457.71" y="2538.02" font-size="22" font-family="Georgia, serif" fill="#241811">Fes</text>
+<circle cx="1516.97" cy="1449.63" r="2" fill="#7f1111" />
+<text x="1522.97" y="1445.63" font-size="16" font-family="Georgia, serif" fill="#241811">Bern</text>
+<circle cx="1442.89" cy="1191.25" r="2" fill="#7f1111" />
+<text x="1448.89" y="1187.25" font-size="16" font-family="Georgia, serif" fill="#241811">Luxembourg</text>
+<circle cx="416.61" cy="2376.23" r="3.5" fill="#7f1111" />
+<text x="422.61" y="2372.23" font-size="22" font-family="Georgia, serif" fill="#241811">Tangier</text>
+<circle cx="1498.85" cy="1750.89" r="2" fill="#7f1111" />
+<text x="1504.85" y="1746.89" font-size="16" font-family="Georgia, serif" fill="#241811">Monaco</text>
+<circle cx="888.99" cy="1180.42" r="2" fill="#7f1111" />
+<text x="894.99" y="1176.42" font-size="16" font-family="Georgia, serif" fill="#241811">Saint Helier</text>
+<circle cx="457.72" cy="2347.79" r="2" fill="#7f1111" />
+<text x="463.72" y="2343.79" font-size="16" font-family="Georgia, serif" fill="#241811">Gibraltar</text>
+<circle cx="812.66" cy="679.77" r="2" fill="#7f1111" />
+<text x="818.66" y="675.77" font-size="16" font-family="Georgia, serif" fill="#241811">Douglas</text>
+<circle cx="1061.09" cy="1834.01" r="2" fill="#7f1111" />
+<text x="1067.09" y="1830.01" font-size="16" font-family="Georgia, serif" fill="#241811">Andorra la Vella</text>
+<circle cx="864.25" cy="1150.84" r="2" fill="#7f1111" />
+<text x="870.25" y="1146.84" font-size="16" font-family="Georgia, serif" fill="#241811">Saint Peter Port</text>
+<circle cx="3134.21" cy="1409.89" r="3.5" fill="#7f1111" />
+<text x="3140.21" y="1405.89" font-size="22" font-family="Georgia, serif" fill="#241811">Odesa</text>
+<circle cx="2021.85" cy="2481.51" r="2" fill="#7f1111" />
+<text x="2027.85" y="2477.51" font-size="16" font-family="Georgia, serif" fill="#241811">Valletta</text>
+<circle cx="1661.27" cy="1436.78" r="2" fill="#7f1111" />
+<text x="1667.27" y="1432.78" font-size="16" font-family="Georgia, serif" fill="#241811">Vaduz</text>
+<circle cx="1861.88" cy="1741.67" r="2" fill="#7f1111" />
+<text x="1867.88" y="1737.67" font-size="16" font-family="Georgia, serif" fill="#241811">San Marino</text>
+<circle cx="1861.44" cy="1930.80" r="2" fill="#7f1111" />
+<text x="1867.44" y="1926.80" font-size="16" font-family="Georgia, serif" fill="#241811">Vatican City</text>
+<circle cx="168.55" cy="2716.66" r="3.5" fill="#7f1111" />
+<text x="174.55" y="2712.66" font-size="22" font-family="Georgia, serif" fill="#241811">Marrakesh</text>
+<circle cx="3731.47" cy="2686.33" r="3.5" fill="#7f1111" />
+<text x="3737.47" y="2682.33" font-size="22" font-family="Georgia, serif" fill="#241811">Jerusalem</text>
+<circle cx="3389.09" cy="1175.35" r="3.5" fill="#7f1111" />
+<text x="3395.09" y="1171.35" font-size="22" font-family="Georgia, serif" fill="#241811">Dnipro</text>
+<circle cx="3224.61" cy="2029.11" r="3.5" fill="#7f1111" />
+<text x="3230.61" y="2025.11" font-size="22" font-family="Georgia, serif" fill="#241811">Eskisehir</text>
+<circle cx="1996.71" cy="2027.52" r="3.5" fill="#7f1111" />
+<text x="2002.71" y="2023.52" font-size="22" font-family="Georgia, serif" fill="#241811">Naples</text>
+<circle cx="1348.65" cy="1783.61" r="3.5" fill="#7f1111" />
+<text x="1354.65" y="1779.61" font-size="22" font-family="Georgia, serif" fill="#241811">Marseille</text>
+<circle cx="1524.43" cy="1627.18" r="3.5" fill="#7f1111" />
+<text x="1530.43" y="1623.18" font-size="22" font-family="Georgia, serif" fill="#241811">Turin</text>
+<circle cx="886.23" cy="2097.56" r="3.5" fill="#7f1111" />
+<text x="892.23" y="2093.56" font-size="22" font-family="Georgia, serif" fill="#241811">Valencia</text>
+<circle cx="2362.37" cy="1147.53" r="3.5" fill="#7f1111" />
+<text x="2368.37" y="1143.53" font-size="22" font-family="Georgia, serif" fill="#241811">Krakow</text>
+<circle cx="821.26" cy="2438.32" r="3.5" fill="#7f1111" />
+<text x="827.26" y="2434.32" font-size="22" font-family="Georgia, serif" fill="#241811">Oran</text>
+<circle cx="3796.08" cy="2645.58" r="3.5" fill="#7f1111" />
+<text x="3802.08" y="2641.58" font-size="22" font-family="Georgia, serif" fill="#241811">Zarqa</text>
+<circle cx="3502.61" cy="2773.55" r="3.5" fill="#7f1111" />
+<text x="3508.61" y="2769.55" font-size="22" font-family="Georgia, serif" fill="#241811">Port Said</text>
+<circle cx="3792.46" cy="2399.43" r="3.5" fill="#7f1111" />
+<text x="3798.46" y="2395.43" font-size="22" font-family="Georgia, serif" fill="#241811">Homs</text>
+<circle cx="2485.32" cy="2809.61" r="3.5" fill="#7f1111" />
+<text x="2491.32" y="2805.61" font-size="22" font-family="Georgia, serif" fill="#241811">Benghazi</text>
+<circle cx="2635.29" cy="1148.39" r="3.5" fill="#7f1111" />
+<text x="2641.29" y="1144.39" font-size="22" font-family="Georgia, serif" fill="#241811">Lviv</text>
+<circle cx="3406.69" cy="1231.88" r="3.5" fill="#7f1111" />
+<text x="3412.69" y="1227.88" font-size="22" font-family="Georgia, serif" fill="#241811">Zaporizhzhya</text>
+<circle cx="3702.89" cy="2342.02" r="3.5" fill="#7f1111" />
+<text x="3708.89" y="2338.02" font-size="22" font-family="Georgia, serif" fill="#241811">Latakia</text>
+<circle cx="3543.17" cy="2886.17" r="3.5" fill="#7f1111" />
+<text x="3549.17" y="2882.17" font-size="22" font-family="Georgia, serif" fill="#241811">Suez</text>
+<circle cx="875.68" cy="1893.54" r="3.5" fill="#7f1111" />
+<text x="881.68" y="1889.54" font-size="22" font-family="Georgia, serif" fill="#241811">Zaragoza</text>
+<circle cx="430.09" cy="2228.61" r="3.5" fill="#7f1111" />
+<text x="436.09" y="2224.61" font-size="22" font-family="Georgia, serif" fill="#241811">Sevilla</text>
+<circle cx="2165.55" cy="1055.64" r="3.5" fill="#7f1111" />
+<text x="2171.55" y="1051.64" font-size="22" font-family="Georgia, serif" fill="#241811">Wroclaw</text>
+<circle cx="1929.89" cy="2279.52" r="3.5" fill="#7f1111" />
+<text x="1935.89" y="2275.52" font-size="22" font-family="Georgia, serif" fill="#241811">Palermo</text>
+<circle cx="2321.27" cy="983.57" r="3.5" fill="#7f1111" />
+<text x="2327.27" y="979.57" font-size="22" font-family="Georgia, serif" fill="#241811">Lodz</text>
+<circle cx="1643.26" cy="1279.81" r="3.5" fill="#7f1111" />
+<text x="1649.26" y="1275.81" font-size="22" font-family="Georgia, serif" fill="#241811">Stuttgart</text>
+<circle cx="3430.63" cy="2806.24" r="3.5" fill="#7f1111" />
+<text x="3436.63" y="2802.24" font-size="22" font-family="Georgia, serif" fill="#241811">Al Mansurah</text>
+<circle cx="1495.46" cy="1037.75" r="3.5" fill="#7f1111" />
+<text x="1501.46" y="1033.75" font-size="22" font-family="Georgia, serif" fill="#241811">Duesseldorf</text>
+<circle cx="1840.76" cy="399.71" r="3.5" fill="#7f1111" />
+<text x="1846.76" y="395.71" font-size="22" font-family="Georgia, serif" fill="#241811">Goeteborg</text>
+<circle cx="1611.24" cy="1693.04" r="3.5" fill="#7f1111" />
+<text x="1617.24" y="1689.04" font-size="22" font-family="Georgia, serif" fill="#241811">Genoa</text>
+<circle cx="3403.33" cy="2833.33" r="3.5" fill="#7f1111" />
+<text x="3409.33" y="2829.33" font-size="22" font-family="Georgia, serif" fill="#241811">Tanta</text>
+<circle cx="3767.17" cy="2606.38" r="3.5" fill="#7f1111" />
+<text x="3773.17" y="2602.38" font-size="22" font-family="Georgia, serif" fill="#241811">Irbid</text>
+<circle cx="1950.15" cy="1065.02" r="3.5" fill="#7f1111" />
+<text x="1956.15" y="1061.02" font-size="22" font-family="Georgia, serif" fill="#241811">Dresden</text>
+<circle cx="3360.03" cy="1552.33" r="3.5" fill="#7f1111" />
+<text x="3366.03" y="1548.33" font-size="22" font-family="Georgia, serif" fill="#241811">Sevastopol</text>
+<circle cx="1635.23" cy="862.12" r="3.5" fill="#7f1111" />
+<text x="1641.23" y="858.12" font-size="22" font-family="Georgia, serif" fill="#241811">Bremen</text>
+<circle cx="707.62" cy="2518.12" r="3.5" fill="#7f1111" />
+<text x="713.62" y="2514.12" font-size="22" font-family="Georgia, serif" fill="#241811">Oujda</text>
+<circle cx="3588.65" cy="2244.40" r="3.5" fill="#7f1111" />
+<text x="3594.65" y="2240.40" font-size="22" font-family="Georgia, serif" fill="#241811">Mersin</text>
+<circle cx="2154.14" cy="928.51" r="3.5" fill="#7f1111" />
+<text x="2160.14" y="924.51" font-size="22" font-family="Georgia, serif" fill="#241811">Poznan</text>
+<circle cx="1328.15" cy="1552.12" r="3.5" fill="#7f1111" />
+<text x="1334.15" y="1548.12" font-size="22" font-family="Georgia, serif" fill="#241811">Lyon</text>
+<circle cx="3413.28" cy="2968.12" r="3.5" fill="#7f1111" />
+<text x="3419.28" y="2964.12" font-size="22" font-family="Georgia, serif" fill="#241811">Al Fayyum</text>
+<circle cx="1691.88" cy="933.38" r="3.5" fill="#7f1111" />
+<text x="1697.88" y="929.38" font-size="22" font-family="Georgia, serif" fill="#241811">Hannover</text>
+<circle cx="920.57" cy="512.12" r="3.5" fill="#7f1111" />
+<text x="926.57" y="508.12" font-size="22" font-family="Georgia, serif" fill="#241811">Edinburgh</text>
+<circle cx="1066.86" cy="1732.01" r="3.5" fill="#7f1111" />
+<text x="1072.86" y="1728.01" font-size="22" font-family="Georgia, serif" fill="#241811">Toulouse</text>
+<circle cx="3050.75" cy="842.62" r="3.5" fill="#7f1111" />
+<text x="3056.75" y="838.62" font-size="22" font-family="Georgia, serif" fill="#241811">Homyel'</text>
+<circle cx="2253.91" cy="731.74" r="3.5" fill="#7f1111" />
+<text x="2259.91" y="727.74" font-size="22" font-family="Georgia, serif" fill="#241811">Gdansk</text>
+<circle cx="2367.23" cy="689.98" r="3.5" fill="#7f1111" />
+<text x="2373.23" y="685.98" font-size="22" font-family="Georgia, serif" fill="#241811">Kaliningrad</text>
+<circle cx="810.92" cy="2226.29" r="3.5" fill="#7f1111" />
+<text x="816.92" y="2222.29" font-size="22" font-family="Georgia, serif" fill="#241811">Murcia</text>
+<circle cx="329.64" cy="2501.41" r="3.5" fill="#7f1111" />
+<text x="335.64" y="2497.41" font-size="22" font-family="Georgia, serif" fill="#241811">Kenitra</text>
+<circle cx="3211.63" cy="1350.71" r="3.5" fill="#7f1111" />
+<text x="3217.63" y="1346.71" font-size="22" font-family="Georgia, serif" fill="#241811">Mykolayiv</text>
+<circle cx="3786.49" cy="2362.60" r="3.5" fill="#7f1111" />
+<text x="3792.49" y="2358.60" font-size="22" font-family="Georgia, serif" fill="#241811">Hamah</text>
+<circle cx="3723.26" cy="2397.87" r="3.5" fill="#7f1111" />
+<text x="3729.26" y="2393.87" font-size="22" font-family="Georgia, serif" fill="#241811">Tartus</text>
+<circle cx="3394.86" cy="852.65" r="3.5" fill="#7f1111" />
+<text x="3400.86" y="848.65" font-size="22" font-family="Georgia, serif" fill="#241811">Kursk</text>
+<circle cx="1398.57" cy="2426.23" r="3.5" fill="#7f1111" />
+<text x="1404.57" y="2422.23" font-size="22" font-family="Georgia, serif" fill="#241811">Constantine</text>
+<circle cx="1116.31" cy="2111.87" r="3.5" fill="#7f1111" />
+<text x="1122.31" y="2107.87" font-size="22" font-family="Georgia, serif" fill="#241811">Palma</text>
+<circle cx="3690.09" cy="2665.18" r="3.5" fill="#7f1111" />
+<text x="3696.09" y="2661.18" font-size="22" font-family="Georgia, serif" fill="#241811">Tel Aviv</text>
+<circle cx="3447.92" cy="2844.92" r="3.5" fill="#7f1111" />
+<text x="3453.92" y="2840.92" font-size="22" font-family="Georgia, serif" fill="#241811">Zagazig</text>
+<circle cx="2938.17" cy="1173.08" r="3.5" fill="#7f1111" />
+<text x="2944.17" y="1169.08" font-size="22" font-family="Georgia, serif" fill="#241811">Vinnytsya</text>
+<circle cx="3511.37" cy="2833.17" r="3.5" fill="#7f1111" />
+<text x="3517.37" y="2829.17" font-size="22" font-family="Georgia, serif" fill="#241811">Ismailia</text>
+<circle cx="3245.23" cy="726.28" r="3.5" fill="#7f1111" />
+<text x="3251.23" y="722.28" font-size="22" font-family="Georgia, serif" fill="#241811">Bryansk</text>
+<circle cx="3263.83" cy="354.98" r="3.5" fill="#7f1111" />
+<text x="3269.83" y="350.98" font-size="22" font-family="Georgia, serif" fill="#241811">Tver</text>
+<circle cx="1595.05" cy="1413.19" r="3.5" fill="#7f1111" />
+<text x="1601.05" y="1409.19" font-size="22" font-family="Georgia, serif" fill="#241811">Zuerich</text>
+<circle cx="3675.56" cy="2721.58" r="3.5" fill="#7f1111" />
+<text x="3681.56" y="2717.58" font-size="22" font-family="Georgia, serif" fill="#241811">Gaza</text>
+<circle cx="3717.67" cy="2276.12" r="3.5" fill="#7f1111" />
+<text x="3723.67" y="2272.12" font-size="22" font-family="Georgia, serif" fill="#241811">Antakya</text>
+<circle cx="2000.01" cy="831.28" r="3.5" fill="#7f1111" />
+<text x="2006.01" y="827.28" font-size="22" font-family="Georgia, serif" fill="#241811">Szczecin</text>
+<circle cx="1782.88" cy="1688.85" r="3.5" fill="#7f1111" />
+<text x="1788.88" y="1684.85" font-size="22" font-family="Georgia, serif" fill="#241811">Bologna</text>
+<circle cx="3626.81" cy="1817.98" r="3.5" fill="#7f1111" />
+<text x="3632.81" y="1813.98" font-size="22" font-family="Georgia, serif" fill="#241811">Samsun</text>
+<circle cx="3748.04" cy="2141.09" r="3.5" fill="#7f1111" />
+<text x="3754.04" y="2137.09" font-size="22" font-family="Georgia, serif" fill="#241811">Kahramanmaras</text>
+<circle cx="2144.38" cy="1240.71" r="3.5" fill="#7f1111" />
+<text x="2150.38" y="1236.71" font-size="22" font-family="Georgia, serif" fill="#241811">Brno</text>
+<circle cx="2908.16" cy="1375.82" r="3.5" fill="#7f1111" />
+<text x="2914.16" y="1371.82" font-size="22" font-family="Georgia, serif" fill="#241811">Iasi</text>
+<circle cx="1393.87" cy="946.81" r="3.5" fill="#7f1111" />
+<text x="1399.87" y="942.81" font-size="22" font-family="Georgia, serif" fill="#241811">Utrecht</text>
+<circle cx="852.09" cy="951.58" r="3.5" fill="#7f1111" />
+<text x="858.09" y="947.58" font-size="22" font-family="Georgia, serif" fill="#241811">Cardiff</text>
+<circle cx="3157.16" cy="2141.41" r="3.5" fill="#7f1111" />
+<text x="3163.16" y="2137.41" font-size="22" font-family="Georgia, serif" fill="#241811">Usak</text>
+<circle cx="1775.13" cy="1755.52" r="3.5" fill="#7f1111" />
+<text x="1781.13" y="1751.52" font-size="22" font-family="Georgia, serif" fill="#241811">Florence</text>
+<circle cx="1901.83" cy="614.32" r="3.5" fill="#7f1111" />
+<text x="1907.83" y="610.32" font-size="22" font-family="Georgia, serif" fill="#241811">Malmoe</text>
+<circle cx="2583.05" cy="776.29" r="3.5" fill="#7f1111" />
+<text x="2589.05" y="772.29" font-size="22" font-family="Georgia, serif" fill="#241811">Hrodna</text>
+<circle cx="2956.38" cy="579.44" r="3.5" fill="#7f1111" />
+<text x="2962.38" y="575.44" font-size="22" font-family="Georgia, serif" fill="#241811">Vitebsk</text>
+<circle cx="2074.15" cy="2801.80" r="3.5" fill="#7f1111" />
+<text x="2080.15" y="2797.80" font-size="22" font-family="Georgia, serif" fill="#241811">Misratah</text>
+<circle cx="2986.10" cy="704.79" r="3.5" fill="#7f1111" />
+<text x="2992.10" y="700.79" font-size="22" font-family="Georgia, serif" fill="#241811">Mahilyow</text>
+<circle cx="731.82" cy="622.02" r="3.5" fill="#7f1111" />
+<text x="737.82" y="618.02" font-size="22" font-family="Georgia, serif" fill="#241811">Belfast</text>
+<circle cx="3444.82" cy="954.44" r="3.5" fill="#7f1111" />
+<text x="3450.82" y="950.44" font-size="22" font-family="Georgia, serif" fill="#241811">Belgorod</text>
+<circle cx="2592.10" cy="930.67" r="3.5" fill="#7f1111" />
+<text x="2598.10" y="926.67" font-size="22" font-family="Georgia, serif" fill="#241811">Brest</text>
+<circle cx="1491.76" cy="2381.85" r="3.5" fill="#7f1111" />
+<text x="1497.76" y="2377.85" font-size="22" font-family="Georgia, serif" fill="#241811">Annaba</text>
+<circle cx="3338.20" cy="580.72" r="3.5" fill="#7f1111" />
+<text x="3344.20" y="576.72" font-size="22" font-family="Georgia, serif" fill="#241811">Kaluga</text>
+<circle cx="2526.17" cy="1020.51" r="3.5" fill="#7f1111" />
+<text x="2532.17" y="1016.51" font-size="22" font-family="Georgia, serif" fill="#241811">Lublin</text>
+<circle cx="1101.75" cy="2395.83" r="3.5" fill="#7f1111" />
+<text x="1107.75" y="2391.83" font-size="22" font-family="Georgia, serif" fill="#241811">Blida</text>
+<circle cx="2219.87" cy="855.41" r="3.5" fill="#7f1111" />
+<text x="2225.87" y="851.41" font-size="22" font-family="Georgia, serif" fill="#241811">Bydgoszcz</text>
+<circle cx="3076.08" cy="602.89" r="3.5" fill="#7f1111" />
+<text x="3082.08" y="598.89" font-size="22" font-family="Georgia, serif" fill="#241811">Smolensk</text>
+<circle cx="2765.99" cy="1864.71" r="3.5" fill="#7f1111" />
+<text x="2771.99" y="1860.71" font-size="22" font-family="Georgia, serif" fill="#241811">Plovdiv</text>
+<circle cx="3512.44" cy="2112.73" r="3.5" fill="#7f1111" />
+<text x="3518.44" y="2108.73" font-size="22" font-family="Georgia, serif" fill="#241811">Aksaray</text>
+<circle cx="899.28" cy="1371.46" r="3.5" fill="#7f1111" />
+<text x="905.28" y="1367.46" font-size="22" font-family="Georgia, serif" fill="#241811">Nantes</text>
+<circle cx="2982.89" cy="1740.51" r="3.5" fill="#7f1111" />
+<text x="2988.89" y="1736.51" font-size="22" font-family="Georgia, serif" fill="#241811">Varna</text>
+<circle cx="3355.42" cy="2817.94" r="3.5" fill="#7f1111" />
+<text x="3361.42" y="2813.94" font-size="22" font-family="Georgia, serif" fill="#241811">Damanhur</text>
+<circle cx="3021.49" cy="1644.95" r="3.5" fill="#7f1111" />
+<text x="3027.49" y="1640.95" font-size="22" font-family="Georgia, serif" fill="#241811">Constanta</text>
+<circle cx="2646.36" cy="2016.29" r="3.5" fill="#7f1111" />
+<text x="2652.36" y="2012.29" font-size="22" font-family="Georgia, serif" fill="#241811">Thessaloniki</text>
+<circle cx="2190.47" cy="1998.51" r="3.5" fill="#7f1111" />
+<text x="2196.47" y="1994.51" font-size="22" font-family="Georgia, serif" fill="#241811">Bari</text>
+<circle cx="3145.80" cy="2226.31" r="3.5" fill="#7f1111" />
+<text x="3151.80" y="2222.31" font-size="22" font-family="Georgia, serif" fill="#241811">Denizli</text>
+<circle cx="3459.99" cy="2766.52" r="3.5" fill="#7f1111" />
+<text x="3465.99" y="2762.52" font-size="22" font-family="Georgia, serif" fill="#241811">Damietta</text>
+<circle cx="3361.06" cy="734.73" r="3.5" fill="#7f1111" />
+<text x="3367.06" y="730.73" font-size="22" font-family="Georgia, serif" fill="#241811">Orel</text>
+<circle cx="2070.81" cy="1445.61" r="3.5" fill="#7f1111" />
+<text x="2076.81" y="1441.61" font-size="22" font-family="Georgia, serif" fill="#241811">Graz</text>
+<circle cx="593.45" cy="1855.70" r="3.5" fill="#7f1111" />
+<text x="599.45" y="1851.70" font-size="22" font-family="Georgia, serif" fill="#241811">Valladolid</text>
+<circle cx="2546.65" cy="833.47" r="3.5" fill="#7f1111" />
+<text x="2552.65" y="829.47" font-size="22" font-family="Georgia, serif" fill="#241811">Bialystok</text>
+<circle cx="1359.00" cy="2498.00" r="3.5" fill="#7f1111" />
+<text x="1365.00" y="2494.00" font-size="22" font-family="Georgia, serif" fill="#241811">Batna</text>
+<circle cx="2575.16" cy="654.16" r="3.5" fill="#7f1111" />
+<text x="2581.16" y="650.16" font-size="22" font-family="Georgia, serif" fill="#241811">Kaunas</text>
+<circle cx="2300.57" cy="1131.73" r="3.5" fill="#7f1111" />
+<text x="2306.57" y="1127.73" font-size="22" font-family="Georgia, serif" fill="#241811">Katowice</text>
+<circle cx="3200.27" cy="1939.05" r="3.5" fill="#7f1111" />
+<text x="3206.27" y="1935.05" font-size="22" font-family="Georgia, serif" fill="#241811">Adapazari</text>
+<circle cx="2637.34" cy="1442.89" r="3.5" fill="#7f1111" />
+<text x="2643.34" y="1438.89" font-size="22" font-family="Georgia, serif" fill="#241811">Cluj-Napoca</text>
+<circle cx="3693.69" cy="2596.56" r="3.5" fill="#7f1111" />
+<text x="3699.69" y="2592.56" font-size="22" font-family="Georgia, serif" fill="#241811">Haifa</text>
+<circle cx="3086.52" cy="929.27" r="3.5" fill="#7f1111" />
+<text x="3092.52" y="925.27" font-size="22" font-family="Georgia, serif" fill="#241811">Chernihiv</text>
+<circle cx="1721.97" cy="2586.29" r="3.5" fill="#7f1111" />
+<text x="1727.97" y="2582.29" font-size="22" font-family="Georgia, serif" fill="#241811">Sfax</text>
+<circle cx="2253.73" cy="1175.05" r="3.5" fill="#7f1111" />
+<text x="2259.73" y="1171.05" font-size="22" font-family="Georgia, serif" fill="#241811">Ostrava</text>
+<circle cx="3334.28" cy="1075.80" r="3.5" fill="#7f1111" />
+<text x="3340.28" y="1071.80" font-size="22" font-family="Georgia, serif" fill="#241811">Poltava</text>
+<circle cx="1586.01" cy="1152.31" r="3.5" fill="#7f1111" />
+<text x="1592.01" y="1148.31" font-size="22" font-family="Georgia, serif" fill="#241811">Wiesbaden</text>
+<circle cx="1545.55" cy="1295.07" r="3.5" fill="#7f1111" />
+<text x="1551.55" y="1291.07" font-size="22" font-family="Georgia, serif" fill="#241811">Strasbourg</text>
+<circle cx="2836.53" cy="1167.74" r="3.5" fill="#7f1111" />
+<text x="2842.53" y="1163.74" font-size="22" font-family="Georgia, serif" fill="#241811">Khmelnytskyi</text>
+<circle cx="3438.53" cy="2985.98" r="3.5" fill="#7f1111" />
+<text x="3444.53" y="2981.98" font-size="22" font-family="Georgia, serif" fill="#241811">Bani Suwayf</text>
+<circle cx="3172.69" cy="1117.97" r="3.5" fill="#7f1111" />
+<text x="3178.69" y="1113.97" font-size="22" font-family="Georgia, serif" fill="#241811">Cherkasy</text>
+<circle cx="3540.27" cy="1903.68" r="3.5" fill="#7f1111" />
+<text x="3546.27" y="1899.68" font-size="22" font-family="Georgia, serif" fill="#241811">Corum</text>
+<circle cx="3407.65" cy="2854.42" r="3.5" fill="#7f1111" />
+<text x="3413.65" y="2850.42" font-size="22" font-family="Georgia, serif" fill="#241811">Shibin al Kawm</text>
+<circle cx="1120.42" cy="2562.03" r="3.5" fill="#7f1111" />
+<text x="1126.42" y="2558.03" font-size="22" font-family="Georgia, serif" fill="#241811">Djelfa</text>
+<circle cx="936.50" cy="1601.75" r="3.5" fill="#7f1111" />
+<text x="942.50" y="1597.75" font-size="22" font-family="Georgia, serif" fill="#241811">Bordeaux</text>
+<circle cx="2780.38" cy="1282.99" r="3.5" fill="#7f1111" />
+<text x="2786.38" y="1278.99" font-size="22" font-family="Georgia, serif" fill="#241811">Chernivtsi</text>
+<circle cx="3708.95" cy="1945.83" r="3.5" fill="#7f1111" />
+<text x="3714.95" y="1941.83" font-size="22" font-family="Georgia, serif" fill="#241811">Sivas</text>
+<circle cx="2937.13" cy="1072.98" r="3.5" fill="#7f1111" />
+<text x="2943.13" y="1068.98" font-size="22" font-family="Georgia, serif" fill="#241811">Zhytomyr</text>
+<circle cx="760.55" cy="1767.37" r="3.5" fill="#7f1111" />
+<text x="766.55" y="1763.37" font-size="22" font-family="Georgia, serif" fill="#241811">Gasteiz / Vitoria</text>
+<circle cx="3323.40" cy="946.91" r="3.5" fill="#7f1111" />
+<text x="3329.40" y="942.91" font-size="22" font-family="Georgia, serif" fill="#241811">Sumy</text>
+<circle cx="2788.87" cy="1534.07" r="3.5" fill="#7f1111" />
+<text x="2794.87" y="1530.07" font-size="22" font-family="Georgia, serif" fill="#241811">Brasov</text>
+<circle cx="1302.89" cy="2436.49" r="3.5" fill="#7f1111" />
+<text x="1308.89" y="2432.49" font-size="22" font-family="Georgia, serif" fill="#241811">Setif</text>
+<circle cx="3242.20" cy="2121.40" r="3.5" fill="#7f1111" />
+<text x="3248.20" y="2117.40" font-size="22" font-family="Georgia, serif" fill="#241811">Afyonkarahisar</text>
+<circle cx="2480.55" cy="1551.33" r="3.5" fill="#7f1111" />
+<text x="2486.55" y="1547.33" font-size="22" font-family="Georgia, serif" fill="#241811">Timisoara</text>
+<circle cx="1723.05" cy="741.07" r="2" fill="#7f1111" />
+<text x="1729.05" y="737.07" font-size="16" font-family="Georgia, serif" fill="#241811">Kiel</text>
+<circle cx="1493.81" cy="841.60" r="2" fill="#7f1111" />
+<text x="1499.81" y="837.60" font-size="16" font-family="Georgia, serif" fill="#241811">Groningen</text>
+<circle cx="3007.41" cy="2166.72" r="2" fill="#7f1111" />
+<text x="3013.41" y="2162.72" font-size="16" font-family="Georgia, serif" fill="#241811">Manisa</text>
+<circle cx="2772.27" cy="1058.27" r="2" fill="#7f1111" />
+<text x="2778.27" y="1054.27" font-size="16" font-family="Georgia, serif" fill="#241811">Rivne</text>
+<circle cx="1247.23" cy="1078.15" r="2" fill="#7f1111" />
+<text x="1253.23" y="1074.15" font-size="16" font-family="Georgia, serif" fill="#241811">Lille</text>
+<circle cx="2690.97" cy="1231.45" r="2" fill="#7f1111" />
+<text x="2696.97" y="1227.45" font-size="16" font-family="Georgia, serif" fill="#241811">Ivano-Frankivsk</text>
+<circle cx="3028.70" cy="2067.95" r="2" fill="#7f1111" />
+<text x="3034.70" y="2063.95" font-size="16" font-family="Georgia, serif" fill="#241811">Balikesir</text>
+<circle cx="1813.55" cy="959.23" r="2" fill="#7f1111" />
+<text x="1819.55" y="955.23" font-size="16" font-family="Georgia, serif" fill="#241811">Magdeburg</text>
+<circle cx="2675.28" cy="1670.97" r="2" fill="#7f1111" />
+<text x="2681.28" y="1666.97" font-size="16" font-family="Georgia, serif" fill="#241811">Craiova</text>
+<circle cx="3729.07" cy="2439.15" r="2" fill="#7f1111" />
+<text x="3735.07" y="2435.15" font-size="16" font-family="Georgia, serif" fill="#241811">Tripoli</text>
+<circle cx="903.07" cy="1286.17" r="2" fill="#7f1111" />
+<text x="909.07" y="1282.17" font-size="16" font-family="Georgia, serif" fill="#241811">Rennes</text>
+<circle cx="2742.51" cy="1165.19" r="2" fill="#7f1111" />
+<text x="2748.51" y="1161.19" font-size="16" font-family="Georgia, serif" fill="#241811">Ternopil</text>
+<circle cx="2460.33" cy="1271.01" r="2" fill="#7f1111" />
+<text x="2466.33" y="1267.01" font-size="16" font-family="Georgia, serif" fill="#241811">Kosice</text>
+<circle cx="2961.06" cy="233.79" r="2" fill="#7f1111" />
+<text x="2967.06" y="229.79" font-size="16" font-family="Georgia, serif" fill="#241811">Velikiy Novgorod</text>
+<circle cx="1714.34" cy="2487.19" r="2" fill="#7f1111" />
+<text x="1720.34" y="2483.19" font-size="16" font-family="Georgia, serif" fill="#241811">Sousse</text>
+<circle cx="2201.68" cy="1657.67" r="2" fill="#7f1111" />
+<text x="2207.68" y="1653.67" font-size="16" font-family="Georgia, serif" fill="#241811">Banja Luka</text>
+<circle cx="540.26" cy="1686.95" r="2" fill="#7f1111" />
+<text x="546.26" y="1682.95" font-size="16" font-family="Georgia, serif" fill="#241811">Oviedo</text>
+<circle cx="3203.17" cy="1204.10" r="2" fill="#7f1111" />
+<text x="3209.17" y="1200.10" font-size="16" font-family="Georgia, serif" fill="#241811">Kropyvnytskyi</text>
+<circle cx="2962.78" cy="1533.73" r="2" fill="#7f1111" />
+<text x="2968.78" y="1529.73" font-size="16" font-family="Georgia, serif" fill="#241811">Galati</text>
+<circle cx="1587.92" cy="1162.45" r="2" fill="#7f1111" />
+<text x="1593.92" y="1158.45" font-size="16" font-family="Georgia, serif" fill="#241811">Mainz</text>
+<circle cx="2712.61" cy="1051.32" r="2" fill="#7f1111" />
+<text x="2718.61" y="1047.32" font-size="16" font-family="Georgia, serif" fill="#241811">Lutsk</text>
+<circle cx="2386.10" cy="1604.66" r="2" fill="#7f1111" />
+<text x="2392.10" y="1600.66" font-size="16" font-family="Georgia, serif" fill="#241811">Novi Sad</text>
+<circle cx="1772.94" cy="1071.25" r="2" fill="#7f1111" />
+<text x="1778.94" y="1067.25" font-size="16" font-family="Georgia, serif" fill="#241811">Erfurt</text>
+<circle cx="2705.92" cy="1457.77" r="2" fill="#7f1111" />
+<text x="2711.92" y="1453.77" font-size="16" font-family="Georgia, serif" fill="#241811">Targu Mures</text>
+<circle cx="2960.34" cy="1810.16" r="2" fill="#7f1111" />
+<text x="2966.34" y="1806.16" font-size="16" font-family="Georgia, serif" fill="#241811">Burgas</text>
+<circle cx="2802.65" cy="330.03" r="2" fill="#7f1111" />
+<text x="2808.65" y="326.03" font-size="16" font-family="Georgia, serif" fill="#241811">Pskov</text>
+<circle cx="315.23" cy="2676.88" r="2" fill="#7f1111" />
+<text x="321.23" y="2672.88" font-size="16" font-family="Georgia, serif" fill="#241811">Beni Mellal</text>
+<circle cx="815.53" cy="2484.45" r="2" fill="#7f1111" />
+<text x="821.53" y="2480.45" font-size="16" font-family="Georgia, serif" fill="#241811">Sidi Bel Abbes</text>
+<circle cx="834.62" cy="1780.01" r="2" fill="#7f1111" />
+<text x="840.62" y="1776.01" font-size="16" font-family="Georgia, serif" fill="#241811">Pamplona</text>
+<circle cx="1989.34" cy="1329.01" r="2" fill="#7f1111" />
+<text x="1995.34" y="1325.01" font-size="16" font-family="Georgia, serif" fill="#241811">Linz</text>
+<circle cx="1319.04" cy="2560.09" r="2" fill="#7f1111" />
+<text x="1325.04" y="2556.09" font-size="16" font-family="Georgia, serif" fill="#241811">Biskra</text>
+<circle cx="1956.56" cy="1581.06" r="2" fill="#7f1111" />
+<text x="1962.56" y="1577.06" font-size="16" font-family="Georgia, serif" fill="#241811">Trieste</text>
+<circle cx="3706.92" cy="2197.20" r="2" fill="#7f1111" />
+<text x="3712.92" y="2193.20" font-size="16" font-family="Georgia, serif" fill="#241811">Osmaniye</text>
+<circle cx="2494.49" cy="1381.69" r="2" fill="#7f1111" />
+<text x="2500.49" y="1377.69" font-size="16" font-family="Georgia, serif" fill="#241811">Debrecen</text>
+<circle cx="2005.43" cy="2777.91" r="2" fill="#7f1111" />
+<text x="2011.43" y="2773.91" font-size="16" font-family="Georgia, serif" fill="#241811">Al Khums</text>
+<circle cx="1422.18" cy="1515.28" r="2" fill="#7f1111" />
+<text x="1428.18" y="1511.28" font-size="16" font-family="Georgia, serif" fill="#241811">Geneve</text>
+<circle cx="1879.44" cy="2768.57" r="2" fill="#7f1111" />
+<text x="1885.44" y="2764.57" font-size="16" font-family="Georgia, serif" fill="#241811">Az Zawiyah</text>
+<circle cx="3627.76" cy="2764.50" r="2" fill="#7f1111" />
+<text x="3633.76" y="2760.50" font-size="16" font-family="Georgia, serif" fill="#241811">Arish</text>
+<circle cx="2499.22" cy="1140.26" r="2" fill="#7f1111" />
+<text x="2505.22" y="1136.26" font-size="16" font-family="Georgia, serif" fill="#241811">Rzeszow</text>
+<circle cx="3165.42" cy="1945.60" r="2" fill="#7f1111" />
+<text x="3171.42" y="1941.60" font-size="16" font-family="Georgia, serif" fill="#241811">Izmit</text>
+<circle cx="2381.96" cy="1971.39" r="2" fill="#7f1111" />
+<text x="2387.96" y="1967.39" font-size="16" font-family="Georgia, serif" fill="#241811">Durres</text>
+<circle cx="3393.11" cy="2805.10" r="2" fill="#7f1111" />
+<text x="3399.11" y="2801.10" font-size="16" font-family="Georgia, serif" fill="#241811">Kafr ash Shaykh</text>
+<circle cx="1513.29" cy="2519.49" r="2" fill="#7f1111" />
+<text x="1519.29" y="2515.49" font-size="16" font-family="Georgia, serif" fill="#241811">Tebessa</text>
+<circle cx="3255.57" cy="1925.22" r="2" fill="#7f1111" />
+<text x="3261.57" y="1921.22" font-size="16" font-family="Georgia, serif" fill="#241811">Duezce</text>
+<circle cx="2402.39" cy="1066.59" r="2" fill="#7f1111" />
+<text x="2408.39" y="1062.59" font-size="16" font-family="Georgia, serif" fill="#241811">Kielce</text>
+<circle cx="3446.39" cy="1986.75" r="2" fill="#7f1111" />
+<text x="3452.39" y="1982.75" font-size="16" font-family="Georgia, serif" fill="#241811">Kirikkale</text>
+<circle cx="3706.80" cy="2738.97" r="2" fill="#7f1111" />
+<text x="3712.80" y="2734.97" font-size="16" font-family="Georgia, serif" fill="#241811">Beersheba</text>
+<circle cx="1401.80" cy="2701.13" r="2" fill="#7f1111" />
+<text x="1407.80" y="2697.13" font-size="16" font-family="Georgia, serif" fill="#241811">El Oued</text>
+<circle cx="3189.69" cy="2067.05" r="2" fill="#7f1111" />
+<text x="3195.69" y="2063.05" font-size="16" font-family="Georgia, serif" fill="#241811">Kuetahya</text>
+<circle cx="3289.93" cy="1929.48" r="2" fill="#7f1111" />
+<text x="3295.93" y="1925.48" font-size="16" font-family="Georgia, serif" fill="#241811">Bolu</text>
+<circle cx="2518.63" cy="1426.16" r="2" fill="#7f1111" />
+<text x="2524.63" y="1422.16" font-size="16" font-family="Georgia, serif" fill="#241811">Oradea</text>
+<circle cx="1424.51" cy="2380.82" r="2" fill="#7f1111" />
+<text x="1430.51" y="2376.82" font-size="16" font-family="Georgia, serif" fill="#241811">Skikda</text>
+<circle cx="3423.65" cy="2860.51" r="2" fill="#7f1111" />
+<text x="3429.65" y="2856.51" font-size="16" font-family="Georgia, serif" fill="#241811">Banha</text>
+<circle cx="1906.00" cy="933.49" r="2" fill="#7f1111" />
+<text x="1912.00" y="929.49" font-size="16" font-family="Georgia, serif" fill="#241811">Potsdam</text>
+<circle cx="2825.89" cy="1596.12" r="2" fill="#7f1111" />
+<text x="2831.89" y="1592.12" font-size="16" font-family="Georgia, serif" fill="#241811">Ploiesti</text>
+<circle cx="2903.99" cy="1894.35" r="2" fill="#7f1111" />
+<text x="2909.99" y="1890.35" font-size="16" font-family="Georgia, serif" fill="#241811">Edirne</text>
+<circle cx="1499.33" cy="1230.64" r="2" fill="#7f1111" />
+<text x="1505.33" y="1226.64" font-size="16" font-family="Georgia, serif" fill="#241811">Saarbruecken</text>
+<circle cx="972.00" cy="2484.62" r="2" fill="#7f1111" />
+<text x="978.00" y="2480.62" font-size="16" font-family="Georgia, serif" fill="#241811">Tiaret</text>
+<circle cx="981.58" cy="2412.69" r="2" fill="#7f1111" />
+<text x="987.58" y="2408.69" font-size="16" font-family="Georgia, serif" fill="#241811">Chlef</text>
+<circle cx="1528.74" cy="1392.19" r="2" fill="#7f1111" />
+<text x="1534.74" y="1388.19" font-size="16" font-family="Georgia, serif" fill="#241811">Basel</text>
+<circle cx="3084.22" cy="2825.18" r="2" fill="#7f1111" />
+<text x="3090.22" y="2821.18" font-size="16" font-family="Georgia, serif" fill="#241811">Marsa Matruh</text>
+<circle cx="1280.89" cy="2383.33" r="2" fill="#7f1111" />
+<text x="1286.89" y="2379.33" font-size="16" font-family="Georgia, serif" fill="#241811">Bejaia</text>
+<circle cx="3472.36" cy="2230.82" r="2" fill="#7f1111" />
+<text x="3478.36" y="2226.82" font-size="16" font-family="Georgia, serif" fill="#241811">Karaman</text>
+<circle cx="688.03" cy="1699.41" r="2" fill="#7f1111" />
+<text x="694.03" y="1695.41" font-size="16" font-family="Georgia, serif" fill="#241811">Santander</text>
+<circle cx="757.38" cy="2506.19" r="2" fill="#7f1111" />
+<text x="763.38" y="2502.19" font-size="16" font-family="Georgia, serif" fill="#241811">Tlemcen</text>
+<circle cx="3258.30" cy="2211.11" r="2" fill="#7f1111" />
+<text x="3264.30" y="2207.11" font-size="16" font-family="Georgia, serif" fill="#241811">Isparta</text>
+<circle cx="2398.14" cy="587.07" r="2" fill="#7f1111" />
+<text x="2404.14" y="583.07" font-size="16" font-family="Georgia, serif" fill="#241811">Klaipeda</text>
+<circle cx="2471.23" cy="1883.44" r="2" fill="#7f1111" />
+<text x="2477.23" y="1879.44" font-size="16" font-family="Georgia, serif" fill="#241811">Prizren</text>
+<circle cx="1267.14" cy="2821.52" r="2" fill="#7f1111" />
+<text x="1273.14" y="2817.52" font-size="16" font-family="Georgia, serif" fill="#241811">Ouargla</text>
+<circle cx="2372.78" cy="781.84" r="2" fill="#7f1111" />
+<text x="2378.78" y="777.84" font-size="16" font-family="Georgia, serif" fill="#241811">Olsztyn</text>
+<circle cx="2483.68" cy="1510.51" r="2" fill="#7f1111" />
+<text x="2489.68" y="1506.51" font-size="16" font-family="Georgia, serif" fill="#241811">Arad</text>
+<circle cx="1926.98" cy="1191.26" r="2" fill="#7f1111" />
+<text x="1932.98" y="1187.26" font-size="16" font-family="Georgia, serif" fill="#241811">Pilsen</text>
+<circle cx="2575.27" cy="2242.84" r="2" fill="#7f1111" />
+<text x="2581.27" y="2238.84" font-size="16" font-family="Georgia, serif" fill="#241811">Patra</text>
+<circle cx="2054.74" cy="325.45" r="2" fill="#7f1111" />
+<text x="2060.74" y="321.45" font-size="16" font-family="Georgia, serif" fill="#241811">Linkoeping</text>
+<circle cx="642.03" cy="2791.31" r="2" fill="#7f1111" />
+<text x="648.03" y="2787.31" font-size="16" font-family="Georgia, serif" fill="#241811">Bechar</text>
+<circle cx="3708.98" cy="2524.51" r="2" fill="#7f1111" />
+<text x="3714.98" y="2520.51" font-size="16" font-family="Georgia, serif" fill="#241811">Sidon</text>
+<circle cx="3048.98" cy="2232.48" r="2" fill="#7f1111" />
+<text x="3054.98" y="2228.48" font-size="16" font-family="Georgia, serif" fill="#241811">Aydin</text>
+<circle cx="881.10" cy="2423.72" r="2" fill="#7f1111" />
+<text x="887.10" y="2419.72" font-size="16" font-family="Georgia, serif" fill="#241811">Mostaganem</text>
+<circle cx="1364.94" cy="916.30" r="2" fill="#7f1111" />
+<text x="1370.94" y="912.30" font-size="16" font-family="Georgia, serif" fill="#241811">Haarlem</text>
+<circle cx="1443.91" cy="960.85" r="2" fill="#7f1111" />
+<text x="1449.91" y="956.85" font-size="16" font-family="Georgia, serif" fill="#241811">Arnhem</text>
+<circle cx="1402.72" cy="985.79" r="2" fill="#7f1111" />
+<text x="1408.72" y="981.79" font-size="16" font-family="Georgia, serif" fill="#241811">'s-Hertogenbosch</text>
+<circle cx="2401.59" cy="1509.28" r="2" fill="#7f1111" />
+<text x="2407.59" y="1505.28" font-size="16" font-family="Georgia, serif" fill="#241811">Szeged</text>
+<circle cx="1351.26" cy="1405.44" r="2" fill="#7f1111" />
+<text x="1357.26" y="1401.44" font-size="16" font-family="Georgia, serif" fill="#241811">Dijon</text>
+<circle cx="1250.63" cy="2443.73" r="2" fill="#7f1111" />
+<text x="1256.63" y="2439.73" font-size="16" font-family="Georgia, serif" fill="#241811">Bordj Bou Arreridj</text>
+<circle cx="1904.80" cy="1377.81" r="2" fill="#7f1111" />
+<text x="1910.80" y="1373.81" font-size="16" font-family="Georgia, serif" fill="#241811">Salzburg</text>
+<circle cx="3051.92" cy="1387.75" r="2" fill="#7f1111" />
+<text x="3057.92" y="1383.75" font-size="16" font-family="Georgia, serif" fill="#241811">Tiraspol</text>
+<circle cx="2959.71" cy="1549.81" r="2" fill="#7f1111" />
+<text x="2965.71" y="1545.81" font-size="16" font-family="Georgia, serif" fill="#241811">Braila</text>
+<circle cx="2432.32" cy="1331.44" r="2" fill="#7f1111" />
+<text x="2438.32" y="1327.44" font-size="16" font-family="Georgia, serif" fill="#241811">Miskolc</text>
+<circle cx="3502.83" cy="2457.35" r="2" fill="#7f1111" />
+<text x="3508.83" y="2453.35" font-size="16" font-family="Georgia, serif" fill="#241811">Limassol</text>
+<circle cx="1503.45" cy="2438.49" r="2" fill="#7f1111" />
+<text x="1509.45" y="2434.49" font-size="16" font-family="Georgia, serif" fill="#241811">Souk Ahras</text>
+<circle cx="771.25" cy="1804.79" r="2" fill="#7f1111" />
+<text x="777.25" y="1800.79" font-size="16" font-family="Georgia, serif" fill="#241811">Logrono</text>
+<circle cx="3508.44" cy="2041.17" r="2" fill="#7f1111" />
+<text x="3514.44" y="2037.17" font-size="16" font-family="Georgia, serif" fill="#241811">Kirsehir</text>
+<circle cx="2150.96" cy="1778.05" r="2" fill="#7f1111" />
+<text x="2156.96" y="1774.05" font-size="16" font-family="Georgia, serif" fill="#241811">Split</text>
+<circle cx="1605.71" cy="2172.50" r="2" fill="#7f1111" />
+<text x="1611.71" y="2168.50" font-size="16" font-family="Georgia, serif" fill="#241811">Cagliari</text>
+<circle cx="1482.17" cy="255.99" r="2" fill="#7f1111" />
+<text x="1488.17" y="251.99" font-size="16" font-family="Georgia, serif" fill="#241811">Stavanger</text>
+<circle cx="2616.46" cy="2112.34" r="2" fill="#7f1111" />
+<text x="2622.46" y="2108.34" font-size="16" font-family="Georgia, serif" fill="#241811">Larisa</text>
+<circle cx="1094.10" cy="2414.05" r="2" fill="#7f1111" />
+<text x="1100.10" y="2410.05" font-size="16" font-family="Georgia, serif" fill="#241811">Medea</text>
+<circle cx="2268.30" cy="1532.96" r="2" fill="#7f1111" />
+<text x="2274.30" y="1528.96" font-size="16" font-family="Georgia, serif" fill="#241811">Pecs</text>
+<circle cx="2911.69" cy="2035.02" r="2" fill="#7f1111" />
+<text x="2917.69" y="2031.02" font-size="16" font-family="Georgia, serif" fill="#241811">Canakkale</text>
+<circle cx="1335.76" cy="2719.84" r="2" fill="#7f1111" />
+<text x="1341.76" y="2715.84" font-size="16" font-family="Georgia, serif" fill="#241811">Touggourt</text>
+<circle cx="1717.80" cy="465.32" r="2" fill="#7f1111" />
+<text x="1723.80" y="461.32" font-size="16" font-family="Georgia, serif" fill="#241811">Aalborg</text>
+<circle cx="1135.33" cy="2762.62" r="2" fill="#7f1111" />
+<text x="1141.33" y="2758.62" font-size="16" font-family="Georgia, serif" fill="#241811">Ghardaia</text>
+<circle cx="873.53" cy="2523.98" r="2" fill="#7f1111" />
+<text x="879.53" y="2519.98" font-size="16" font-family="Georgia, serif" fill="#241811">Saida</text>
+<circle cx="2805.44" cy="2787.51" r="2" fill="#7f1111" />
+<text x="2811.44" y="2783.51" font-size="16" font-family="Georgia, serif" fill="#241811">Tobruk</text>
+<circle cx="2745.66" cy="1614.02" r="2" fill="#7f1111" />
+<text x="2751.66" y="1610.02" font-size="16" font-family="Georgia, serif" fill="#241811">Pitesti</text>
+<circle cx="1458.05" cy="1487.60" r="2" fill="#7f1111" />
+<text x="1464.05" y="1483.60" font-size="16" font-family="Georgia, serif" fill="#241811">Lausanne</text>
+<circle cx="1671.08" cy="2499.67" r="2" fill="#7f1111" />
+<text x="1677.08" y="2495.67" font-size="16" font-family="Georgia, serif" fill="#241811">Kairouan</text>
+<circle cx="1657.84" cy="2353.45" r="2" fill="#7f1111" />
+<text x="1663.84" y="2349.45" font-size="16" font-family="Georgia, serif" fill="#241811">Bizerte</text>
+<circle cx="2868.52" cy="2484.85" r="2" fill="#7f1111" />
+<text x="2874.52" y="2480.85" font-size="16" font-family="Georgia, serif" fill="#241811">Irakleion</text>
+<circle cx="2868.76" cy="1437.83" r="2" fill="#7f1111" />
+<text x="2874.76" y="1433.83" font-size="16" font-family="Georgia, serif" fill="#241811">Bacau</text>
+<circle cx="1080.78" cy="2638.52" r="2" fill="#7f1111" />
+<text x="1086.78" y="2634.52" font-size="16" font-family="Georgia, serif" fill="#241811">Laghouat</text>
+<circle cx="2685.23" cy="1530.17" r="2" fill="#7f1111" />
+<text x="2691.23" y="1526.17" font-size="16" font-family="Georgia, serif" fill="#241811">Sibiu</text>
+<circle cx="1230.21" cy="2475.69" r="2" fill="#7f1111" />
+<text x="1236.21" y="2471.69" font-size="16" font-family="Georgia, serif" fill="#241811">M'Sila</text>
+<circle cx="1790.94" cy="1428.07" r="2" fill="#7f1111" />
+<text x="1796.94" y="1424.07" font-size="16" font-family="Georgia, serif" fill="#241811">Innsbruck</text>
+<circle cx="2506.98" cy="2932.22" r="2" fill="#7f1111" />
+<text x="2512.98" y="2928.22" font-size="16" font-family="Georgia, serif" fill="#241811">Ajdabiya</text>
+<circle cx="1334.50" cy="2380.80" r="2" fill="#7f1111" />
+<text x="1340.50" y="2376.80" font-size="16" font-family="Georgia, serif" fill="#241811">Jijel</text>
+<circle cx="1459.23" cy="909.42" r="2" fill="#7f1111" />
+<text x="1465.23" y="905.42" font-size="16" font-family="Georgia, serif" fill="#241811">Zwolle</text>
+<circle cx="3662.93" cy="1901.91" r="2" fill="#7f1111" />
+<text x="3668.93" y="1897.91" font-size="16" font-family="Georgia, serif" fill="#241811">Tokat</text>
+<circle cx="2619.28" cy="2741.55" r="2" fill="#7f1111" />
+<text x="2625.28" y="2737.55" font-size="16" font-family="Georgia, serif" fill="#241811">Al Bayda'</text>
+<circle cx="2219.91" cy="1382.63" r="2" fill="#7f1111" />
+<text x="2225.91" y="1378.63" font-size="16" font-family="Georgia, serif" fill="#241811">Gyor</text>
+<circle cx="3760.22" cy="2293.36" r="2" fill="#7f1111" />
+<text x="3766.22" y="2289.36" font-size="16" font-family="Georgia, serif" fill="#241811">Idlib</text>
+<circle cx="2226.16" cy="1095.29" r="2" fill="#7f1111" />
+<text x="2232.16" y="1091.29" font-size="16" font-family="Georgia, serif" fill="#241811">Opole</text>
+<circle cx="3438.07" cy="1844.33" r="2" fill="#7f1111" />
+<text x="3444.07" y="1840.33" font-size="16" font-family="Georgia, serif" fill="#241811">Kastamonu</text>
+<circle cx="3763.78" cy="2627.70" r="2" fill="#7f1111" />
+<text x="3769.78" y="2623.70" font-size="16" font-family="Georgia, serif" fill="#241811">'Ajlun</text>
+<circle cx="3357.16" cy="1874.56" r="2" fill="#7f1111" />
+<text x="3363.16" y="1870.56" font-size="16" font-family="Georgia, serif" fill="#241811">Karabuek</text>
+<circle cx="2922.49" cy="1316.87" r="2" fill="#7f1111" />
+<text x="2928.49" y="1312.87" font-size="16" font-family="Georgia, serif" fill="#241811">Balti</text>
+<circle cx="1445.76" cy="840.46" r="2" fill="#7f1111" />
+<text x="1451.76" y="836.46" font-size="16" font-family="Georgia, serif" fill="#241811">Leeuwarden</text>
+<circle cx="915.71" cy="2445.25" r="2" fill="#7f1111" />
+<text x="921.71" y="2441.25" font-size="16" font-family="Georgia, serif" fill="#241811">Relizane</text>
+<circle cx="1421.76" cy="1070.03" r="2" fill="#7f1111" />
+<text x="1427.76" y="1066.03" font-size="16" font-family="Georgia, serif" fill="#241811">Maastricht</text>
+<circle cx="2983.28" cy="1950.06" r="2" fill="#7f1111" />
+<text x="2989.28" y="1946.06" font-size="16" font-family="Georgia, serif" fill="#241811">Tekirdag</text>
+<circle cx="2828.21" cy="1832.32" r="2" fill="#7f1111" />
+<text x="2834.21" y="1828.32" font-size="16" font-family="Georgia, serif" fill="#241811">Stara Zagora</text>
+<circle cx="2834.34" cy="1698.93" r="2" fill="#7f1111" />
+<text x="2840.34" y="1694.93" font-size="16" font-family="Georgia, serif" fill="#241811">Ruse</text>
+<circle cx="1770.00" cy="1540.79" r="2" fill="#7f1111" />
+<text x="1776.00" y="1536.79" font-size="16" font-family="Georgia, serif" fill="#241811">Trento</text>
+<circle cx="1857.27" cy="1818.49" r="2" fill="#7f1111" />
+<text x="1863.27" y="1814.49" font-size="16" font-family="Georgia, serif" fill="#241811">Perugia</text>
+<circle cx="1462.93" cy="2420.60" r="2" fill="#7f1111" />
+<text x="1468.93" y="2416.60" font-size="16" font-family="Georgia, serif" fill="#241811">Guelma</text>
+<circle cx="3721.46" cy="2538.72" r="2" fill="#7f1111" />
+<text x="3727.46" y="2534.72" font-size="16" font-family="Georgia, serif" fill="#241811">Nabatiye et Tahta</text>
+<circle cx="2063.88" cy="977.19" r="2" fill="#7f1111" />
+<text x="2069.88" y="973.19" font-size="16" font-family="Georgia, serif" fill="#241811">Zielona Gora</text>
+<circle cx="2497.42" cy="1341.03" r="2" fill="#7f1111" />
+<text x="2503.42" y="1337.03" font-size="16" font-family="Georgia, serif" fill="#241811">Nyiregyhaza</text>
+<circle cx="1608.53" cy="348.36" r="2" fill="#7f1111" />
+<text x="1614.53" y="344.36" font-size="16" font-family="Georgia, serif" fill="#241811">Kristiansand</text>
+<circle cx="1143.52" cy="1332.46" r="2" fill="#7f1111" />
+<text x="1149.52" y="1328.46" font-size="16" font-family="Georgia, serif" fill="#241811">Orleans</text>
+<circle cx="1105.72" cy="1180.56" r="2" fill="#7f1111" />
+<text x="1111.72" y="1176.56" font-size="16" font-family="Georgia, serif" fill="#241811">Rouen</text>
+<circle cx="2531.07" cy="1274.41" r="2" fill="#7f1111" />
+<text x="2537.07" y="1270.41" font-size="16" font-family="Georgia, serif" fill="#241811">Uzhhorod</text>
+<circle cx="2389.08" cy="2049.98" r="2" fill="#7f1111" />
+<text x="2395.08" y="2045.98" font-size="16" font-family="Georgia, serif" fill="#241811">Vlore</text>
+<circle cx="3602.89" cy="1881.84" r="2" fill="#7f1111" />
+<text x="3608.89" y="1877.84" font-size="16" font-family="Georgia, serif" fill="#241811">Amasya</text>
+<circle cx="2043.99" cy="899.23" r="2" fill="#7f1111" />
+<text x="2049.99" y="895.23" font-size="16" font-family="Georgia, serif" fill="#241811">Gorzow Wielkopolski</text>
+<circle cx="1681.73" cy="2391.95" r="2" fill="#7f1111" />
+<text x="1687.73" y="2387.95" font-size="16" font-family="Georgia, serif" fill="#241811">Aryanah</text>
+<circle cx="1435.37" cy="2513.07" r="2" fill="#7f1111" />
+<text x="1441.37" y="2509.07" font-size="16" font-family="Georgia, serif" fill="#241811">Khenchela</text>
+<circle cx="1969.98" cy="391.99" r="2" fill="#7f1111" />
+<text x="1975.98" y="387.99" font-size="16" font-family="Georgia, serif" fill="#241811">Joenkoeping</text>
+<circle cx="2576.94" cy="1349.70" r="2" fill="#7f1111" />
+<text x="2582.94" y="1345.70" font-size="16" font-family="Georgia, serif" fill="#241811">Satu Mare</text>
+<circle cx="3780.80" cy="2215.70" r="2" fill="#7f1111" />
+<text x="3786.80" y="2211.70" font-size="16" font-family="Georgia, serif" fill="#241811">Kilis</text>
+<circle cx="1365.00" cy="1103.39" r="2" fill="#7f1111" />
+<text x="1371.00" y="1099.39" font-size="16" font-family="Georgia, serif" fill="#241811">Namur</text>
+<circle cx="3041.67" cy="1390.26" r="2" fill="#7f1111" />
+<text x="3047.67" y="1386.26" font-size="16" font-family="Georgia, serif" fill="#241811">Bender</text>
+<circle cx="1666.62" cy="2663.37" r="2" fill="#7f1111" />
+<text x="1672.62" y="2659.37" font-size="16" font-family="Georgia, serif" fill="#241811">Gabes</text>
+<circle cx="2365.67" cy="1449.51" r="2" fill="#7f1111" />
+<text x="2371.67" y="1445.51" font-size="16" font-family="Georgia, serif" fill="#241811">Kecskemet</text>
+<circle cx="2626.48" cy="1358.98" r="2" fill="#7f1111" />
+<text x="2632.48" y="1354.98" font-size="16" font-family="Georgia, serif" fill="#241811">Baia Mare</text>
+<circle cx="879.05" cy="2472.60" r="2" fill="#7f1111" />
+<text x="885.05" y="2468.60" font-size="16" font-family="Georgia, serif" fill="#241811">Mascara</text>
+<circle cx="2003.92" cy="1610.97" r="2" fill="#7f1111" />
+<text x="2009.92" y="1606.97" font-size="16" font-family="Georgia, serif" fill="#241811">Rijeka</text>
+<circle cx="3767.57" cy="2654.29" r="2" fill="#7f1111" />
+<text x="3773.57" y="2650.29" font-size="16" font-family="Georgia, serif" fill="#241811">As Salt</text>
+<circle cx="2475.81" cy="1820.82" r="2" fill="#7f1111" />
+<text x="2481.81" y="1816.82" font-size="16" font-family="Georgia, serif" fill="#241811">Mitrovice</text>
+<circle cx="2201.06" cy="2904.90" r="2" fill="#7f1111" />
+<text x="2207.06" y="2900.90" font-size="16" font-family="Georgia, serif" fill="#241811">Sirte</text>
+<circle cx="1199.25" cy="2381.55" r="2" fill="#7f1111" />
+<text x="1205.25" y="2377.55" font-size="16" font-family="Georgia, serif" fill="#241811">Tizi Ouzou</text>
+<circle cx="342.38" cy="1907.57" r="2" fill="#7f1111" />
+<text x="348.38" y="1903.57" font-size="16" font-family="Georgia, serif" fill="#241811">Viseu</text>
+<circle cx="2881.07" cy="1570.93" r="2" fill="#7f1111" />
+<text x="2887.07" y="1566.93" font-size="16" font-family="Georgia, serif" fill="#241811">Buzau</text>
+<circle cx="2037.03" cy="1091.56" r="2" fill="#7f1111" />
+<text x="2043.03" y="1087.56" font-size="16" font-family="Georgia, serif" fill="#241811">Liberec</text>
+<circle cx="2824.35" cy="1409.64" r="2" fill="#7f1111" />
+<text x="2830.35" y="1405.64" font-size="16" font-family="Georgia, serif" fill="#241811">Piatra Neamt</text>
+<circle cx="2691.32" cy="2735.55" r="2" fill="#7f1111" />
+<text x="2697.32" y="2731.55" font-size="16" font-family="Georgia, serif" fill="#241811">Darnah</text>
+<circle cx="3291.75" cy="1862.14" r="2" fill="#7f1111" />
+<text x="3297.75" y="1858.14" font-size="16" font-family="Georgia, serif" fill="#241811">Zonguldak</text>
+<circle cx="2275.54" cy="1427.18" r="2" fill="#7f1111" />
+<text x="2281.54" y="1423.18" font-size="16" font-family="Georgia, serif" fill="#241811">Szekesfehervar</text>
+<circle cx="2429.93" cy="1988.29" r="2" fill="#7f1111" />
+<text x="2435.93" y="1984.29" font-size="16" font-family="Georgia, serif" fill="#241811">Elbasan</text>
+<circle cx="1992.66" cy="1488.75" r="2" fill="#7f1111" />
+<text x="1998.66" y="1484.75" font-size="16" font-family="Georgia, serif" fill="#241811">Klagenfurt am Woerthersee</text>
+<circle cx="2186.07" cy="1200.83" r="2" fill="#7f1111" />
+<text x="2192.07" y="1196.83" font-size="16" font-family="Georgia, serif" fill="#241811">Olomouc</text>
+<circle cx="2528.31" cy="553.91" r="2" fill="#7f1111" />
+<text x="2534.31" y="549.91" font-size="16" font-family="Georgia, serif" fill="#241811">Siauliai</text>
+<circle cx="3786.17" cy="2596.75" r="2" fill="#7f1111" />
+<text x="3792.17" y="2592.75" font-size="16" font-family="Georgia, serif" fill="#241811">Dar'a</text>
+<circle cx="1801.72" cy="811.39" r="2" fill="#7f1111" />
+<text x="1807.72" y="807.39" font-size="16" font-family="Georgia, serif" fill="#241811">Schwerin</text>
+<circle cx="2086.16" cy="1493.71" r="2" fill="#7f1111" />
+<text x="2092.16" y="1489.71" font-size="16" font-family="Georgia, serif" fill="#241811">Maribor</text>
+<circle cx="2381.91" cy="1902.34" r="2" fill="#7f1111" />
+<text x="2387.91" y="1898.34" font-size="16" font-family="Georgia, serif" fill="#241811">Shkoder</text>
+<circle cx="3238.94" cy="2218.08" r="2" fill="#7f1111" />
+<text x="3244.94" y="2214.08" font-size="16" font-family="Georgia, serif" fill="#241811">Burdur</text>
+<circle cx="1562.20" cy="2610.70" r="2" fill="#7f1111" />
+<text x="1568.20" y="2606.70" font-size="16" font-family="Georgia, serif" fill="#241811">Gafsa</text>
+<circle cx="3757.79" cy="2889.50" r="2" fill="#7f1111" />
+<text x="3763.79" y="2885.50" font-size="16" font-family="Georgia, serif" fill="#241811">Aqaba</text>
+<circle cx="2447.42" cy="1869.49" r="2" fill="#7f1111" />
+<text x="2453.42" y="1865.49" font-size="16" font-family="Georgia, serif" fill="#241811">Gjakove</text>
+<circle cx="2001.24" cy="1264.96" r="2" fill="#7f1111" />
+<text x="2007.24" y="1260.96" font-size="16" font-family="Georgia, serif" fill="#241811">Ceske Budejovice</text>
+<circle cx="1729.25" cy="2491.80" r="2" fill="#7f1111" />
+<text x="1735.25" y="2487.80" font-size="16" font-family="Georgia, serif" fill="#241811">Monastir</text>
+<circle cx="2707.65" cy="1594.18" r="2" fill="#7f1111" />
+<text x="2713.65" y="1590.18" font-size="16" font-family="Georgia, serif" fill="#241811">Ramnicu Valcea</text>
+<circle cx="3097.98" cy="2284.12" r="2" fill="#7f1111" />
+<text x="3103.98" y="2280.12" font-size="16" font-family="Georgia, serif" fill="#241811">Mugla</text>
+<circle cx="2701.03" cy="283.93" r="2" fill="#7f1111" />
+<text x="2707.03" y="279.93" font-size="16" font-family="Georgia, serif" fill="#241811">Tartu</text>
+<circle cx="3569.70" cy="2140.26" r="2" fill="#7f1111" />
+<text x="3575.70" y="2136.26" font-size="16" font-family="Georgia, serif" fill="#241811">Nigde</text>
+<circle cx="2089.59" cy="1144.50" r="2" fill="#7f1111" />
+<text x="2095.59" y="1140.50" font-size="16" font-family="Georgia, serif" fill="#241811">Hradec Kralove</text>
+<circle cx="3440.67" cy="1917.00" r="2" fill="#7f1111" />
+<text x="3446.67" y="1913.00" font-size="16" font-family="Georgia, serif" fill="#241811">Cankiri</text>
+<circle cx="1969.79" cy="1102.76" r="2" fill="#7f1111" />
+<text x="1975.79" y="1098.76" font-size="16" font-family="Georgia, serif" fill="#241811">Usti nad Labem</text>
+<circle cx="2743.00" cy="1748.86" r="2" fill="#7f1111" />
+<text x="2749.00" y="1744.86" font-size="16" font-family="Georgia, serif" fill="#241811">Pleven</text>
+<circle cx="2836.83" cy="1328.51" r="2" fill="#7f1111" />
+<text x="2842.83" y="1324.51" font-size="16" font-family="Georgia, serif" fill="#241811">Botosani</text>
+<circle cx="1938.72" cy="1772.43" r="2" fill="#7f1111" />
+<text x="1944.72" y="1768.43" font-size="16" font-family="Georgia, serif" fill="#241811">Ancona</text>
+<circle cx="2086.30" cy="1160.86" r="2" fill="#7f1111" />
+<text x="2092.30" y="1156.86" font-size="16" font-family="Georgia, serif" fill="#241811">Pardubice</text>
+<circle cx="1683.69" cy="2401.65" r="2" fill="#7f1111" />
+<text x="1689.69" y="2397.65" font-size="16" font-family="Georgia, serif" fill="#241811">Ben Arous</text>
+<circle cx="3543.41" cy="1971.57" r="2" fill="#7f1111" />
+<text x="3549.41" y="1967.57" font-size="16" font-family="Georgia, serif" fill="#241811">Yozgat</text>
+<circle cx="617.48" cy="2027.18" r="2" fill="#7f1111" />
+<text x="623.48" y="2023.18" font-size="16" font-family="Georgia, serif" fill="#241811">Toledo</text>
+<circle cx="2247.80" cy="1321.94" r="2" fill="#7f1111" />
+<text x="2253.80" y="1317.94" font-size="16" font-family="Georgia, serif" fill="#241811">Nitra</text>
+<circle cx="634.29" cy="2452.15" r="2" fill="#7f1111" />
+<text x="640.29" y="2448.15" font-size="16" font-family="Georgia, serif" fill="#241811">Melilla</text>
+<circle cx="2593.69" cy="568.39" r="2" fill="#7f1111" />
+<text x="2599.69" y="564.39" font-size="16" font-family="Georgia, serif" fill="#241811">Panevezys</text>
+<circle cx="930.55" cy="2635.14" r="2" fill="#7f1111" />
+<text x="936.55" y="2631.14" font-size="16" font-family="Georgia, serif" fill="#241811">El Bayadh</text>
+<circle cx="2545.39" cy="2771.38" r="2" fill="#7f1111" />
+<text x="2551.39" y="2767.38" font-size="16" font-family="Georgia, serif" fill="#241811">Al Marj</text>
+<circle cx="1569.14" cy="2543.22" r="2" fill="#7f1111" />
+<text x="1575.14" y="2539.22" font-size="16" font-family="Georgia, serif" fill="#241811">Kasserine</text>
+<circle cx="2809.89" cy="1342.76" r="2" fill="#7f1111" />
+<text x="2815.89" y="1338.76" font-size="16" font-family="Georgia, serif" fill="#241811">Suceava</text>
+<circle cx="2874.97" cy="1803.42" r="2" fill="#7f1111" />
+<text x="2880.97" y="1799.42" font-size="16" font-family="Georgia, serif" fill="#241811">Sliven</text>
+<circle cx="456.10" cy="2371.19" r="2" fill="#7f1111" />
+<text x="462.10" y="2367.19" font-size="16" font-family="Georgia, serif" fill="#241811">Ceuta</text>
+<circle cx="2456.63" cy="1243.91" r="2" fill="#7f1111" />
+<text x="2462.63" y="1239.91" font-size="16" font-family="Georgia, serif" fill="#241811">Presov</text>
+<circle cx="2636.10" cy="1835.40" r="2" fill="#7f1111" />
+<text x="2642.10" y="1831.40" font-size="16" font-family="Georgia, serif" fill="#241811">Pernik</text>
+<circle cx="3779.43" cy="2682.02" r="2" fill="#7f1111" />
+<text x="3785.43" y="2678.02" font-size="16" font-family="Georgia, serif" fill="#241811">Madaba</text>
+<circle cx="3328.42" cy="1838.85" r="2" fill="#7f1111" />
+<text x="3334.42" y="1834.85" font-size="16" font-family="Georgia, serif" fill="#241811">Bartin</text>
+<circle cx="1576.90" cy="1442.51" r="2" fill="#7f1111" />
+<text x="1582.90" y="1438.51" font-size="16" font-family="Georgia, serif" fill="#241811">Luzern</text>
+<circle cx="2530.81" cy="1590.41" r="2" fill="#7f1111" />
+<text x="2536.81" y="1586.41" font-size="16" font-family="Georgia, serif" fill="#241811">Resita</text>
+<circle cx="2287.45" cy="1232.38" r="2" fill="#7f1111" />
+<text x="2293.45" y="1228.38" font-size="16" font-family="Georgia, serif" fill="#241811">Zilina</text>
+<circle cx="2590.63" cy="1649.14" r="2" fill="#7f1111" />
+<text x="2596.63" y="1645.14" font-size="16" font-family="Georgia, serif" fill="#241811">Drobeta-Turnu Severin</text>
+<circle cx="1419.56" cy="907.41" r="2" fill="#7f1111" />
+<text x="1425.56" y="903.41" font-size="16" font-family="Georgia, serif" fill="#241811">Lelystad</text>
+<circle cx="2177.62" cy="2205.13" r="2" fill="#7f1111" />
+<text x="2183.62" y="2201.13" font-size="16" font-family="Georgia, serif" fill="#241811">Catanzaro</text>
+<circle cx="2695.71" cy="1402.53" r="2" fill="#7f1111" />
+<text x="2701.71" y="1398.53" font-size="16" font-family="Georgia, serif" fill="#241811">Bistrita</text>
+<circle cx="3745.42" cy="2490.55" r="2" fill="#7f1111" />
+<text x="3751.42" y="2486.55" font-size="16" font-family="Georgia, serif" fill="#241811">Zahle</text>
+<circle cx="2723.45" cy="539.28" r="2" fill="#7f1111" />
+<text x="2729.45" y="535.28" font-size="16" font-family="Georgia, serif" fill="#241811">Daugavpils</text>
+<circle cx="2151.88" cy="1428.01" r="2" fill="#7f1111" />
+<text x="2157.88" y="1424.01" font-size="16" font-family="Georgia, serif" fill="#241811">Szombathely</text>
+<circle cx="3719.82" cy="2602.03" r="2" fill="#7f1111" />
+<text x="3725.82" y="2598.03" font-size="16" font-family="Georgia, serif" fill="#241811">Nazareth</text>
+<circle cx="3699.78" cy="2677.72" r="2" fill="#7f1111" />
+<text x="3705.78" y="2673.72" font-size="16" font-family="Georgia, serif" fill="#241811">Ramla</text>
+<circle cx="1652.07" cy="1409.69" r="2" fill="#7f1111" />
+<text x="1658.07" y="1405.69" font-size="16" font-family="Georgia, serif" fill="#241811">Sankt Gallen</text>
+<circle cx="2303.68" cy="1580.88" r="2" fill="#7f1111" />
+<text x="2309.68" y="1576.88" font-size="16" font-family="Georgia, serif" fill="#241811">Osijek</text>
+<circle cx="3559.55" cy="2080.53" r="2" fill="#7f1111" />
+<text x="3565.55" y="2076.53" font-size="16" font-family="Georgia, serif" fill="#241811">Nevsehir</text>
+<circle cx="2543.54" cy="1885.94" r="2" fill="#7f1111" />
+<text x="2549.54" y="1881.94" font-size="16" font-family="Georgia, serif" fill="#241811">Kumanovo</text>
+<circle cx="2317.73" cy="1277.29" r="2" fill="#7f1111" />
+<text x="2323.73" y="1273.29" font-size="16" font-family="Georgia, serif" fill="#241811">Banska Bystrica</text>
+<circle cx="3178.55" cy="2001.83" r="2" fill="#7f1111" />
+<text x="3184.55" y="1997.83" font-size="16" font-family="Georgia, serif" fill="#241811">Bilecik</text>
+<circle cx="2537.67" cy="1959.47" r="2" fill="#7f1111" />
+<text x="2543.67" y="1955.47" font-size="16" font-family="Georgia, serif" fill="#241811">Prilep</text>
+<circle cx="2631.54" cy="1605.87" r="2" fill="#7f1111" />
+<text x="2637.54" y="1601.87" font-size="16" font-family="Georgia, serif" fill="#241811">Targu Jiu</text>
+<circle cx="2215.67" cy="1235.22" r="2" fill="#7f1111" />
+<text x="2221.67" y="1231.22" font-size="16" font-family="Georgia, serif" fill="#241811">Zlin</text>
+<circle cx="2911.04" cy="1744.47" r="2" fill="#7f1111" />
+<text x="2917.04" y="1740.47" font-size="16" font-family="Georgia, serif" fill="#241811">Shumen</text>
+<circle cx="3545.11" cy="2427.95" r="2" fill="#7f1111" />
+<text x="3551.11" y="2423.95" font-size="16" font-family="Georgia, serif" fill="#241811">Larnaca</text>
+<circle cx="1698.46" cy="2712.04" r="2" fill="#7f1111" />
+<text x="1704.46" y="2708.04" font-size="16" font-family="Georgia, serif" fill="#241811">Medenine</text>
+<circle cx="3118.68" cy="1962.46" r="2" fill="#7f1111" />
+<text x="3124.68" y="1958.46" font-size="16" font-family="Georgia, serif" fill="#241811">Yalova</text>
+<circle cx="2398.96" cy="1421.49" r="2" fill="#7f1111" />
+<text x="2404.96" y="1417.49" font-size="16" font-family="Georgia, serif" fill="#241811">Szolnok</text>
+<circle cx="2010.11" cy="484.31" r="2" fill="#7f1111" />
+<text x="2016.11" y="480.31" font-size="16" font-family="Georgia, serif" fill="#241811">Vaexjoe</text>
+<circle cx="776.49" cy="2469.96" r="2" fill="#7f1111" />
+<text x="782.49" y="2465.96" font-size="16" font-family="Georgia, serif" fill="#241811">Ain Temouchent</text>
+<circle cx="1893.18" cy="505.88" r="2" fill="#7f1111" />
+<text x="1899.18" y="501.88" font-size="16" font-family="Georgia, serif" fill="#241811">Halmstad</text>
+<circle cx="1723.58" cy="2429.78" r="2" fill="#7f1111" />
+<text x="1729.58" y="2425.78" font-size="16" font-family="Georgia, serif" fill="#241811">Nabeul</text>
+<circle cx="273.53" cy="2235.80" r="2" fill="#7f1111" />
+<text x="279.53" y="2231.80" font-size="16" font-family="Georgia, serif" fill="#241811">Faro</text>
+<circle cx="2972.58" cy="1709.31" r="2" fill="#7f1111" />
+<text x="2978.58" y="1705.31" font-size="16" font-family="Georgia, serif" fill="#241811">Dobrich</text>
+<circle cx="2523.82" cy="1989.50" r="2" fill="#7f1111" />
+<text x="2529.82" y="1985.50" font-size="16" font-family="Georgia, serif" fill="#241811">Bitola</text>
+<circle cx="1492.17" cy="863.52" r="2" fill="#7f1111" />
+<text x="1498.17" y="859.52" font-size="16" font-family="Georgia, serif" fill="#241811">Assen</text>
+<circle cx="1185.27" cy="2411.36" r="2" fill="#7f1111" />
+<text x="1191.27" y="2407.36" font-size="16" font-family="Georgia, serif" fill="#241811">Bouira</text>
+<circle cx="2646.12" cy="1888.78" r="2" fill="#7f1111" />
+<text x="2652.12" y="1884.78" font-size="16" font-family="Georgia, serif" fill="#241811">Blagoevgrad</text>
+<circle cx="2384.05" cy="506.87" r="2" fill="#7f1111" />
+<text x="2390.05" y="502.87" font-size="16" font-family="Georgia, serif" fill="#241811">Liepaja</text>
+<circle cx="2061.80" cy="1723.53" r="2" fill="#7f1111" />
+<text x="2067.80" y="1719.53" font-size="16" font-family="Georgia, serif" fill="#241811">Zadar</text>
+<circle cx="1435.29" cy="2472.90" r="2" fill="#7f1111" />
+<text x="1441.29" y="2468.90" font-size="16" font-family="Georgia, serif" fill="#241811">Oum el Bouaghi</text>
+<circle cx="2786.59" cy="1602.68" r="2" fill="#7f1111" />
+<text x="2792.59" y="1598.68" font-size="16" font-family="Georgia, serif" fill="#241811">Targoviste</text>
+<circle cx="1693.12" cy="2750.65" r="2" fill="#7f1111" />
+<text x="1699.12" y="2746.65" font-size="16" font-family="Georgia, serif" fill="#241811">Tataouine</text>
+<circle cx="2058.50" cy="556.36" r="2" fill="#7f1111" />
+<text x="2064.50" y="552.36" font-size="16" font-family="Georgia, serif" fill="#241811">Karlskrona</text>
+<circle cx="2898.61" cy="1516.73" r="2" fill="#7f1111" />
+<text x="2904.61" y="1512.73" font-size="16" font-family="Georgia, serif" fill="#241811">Focsani</text>
+<circle cx="1013.50" cy="2466.98" r="2" fill="#7f1111" />
+<text x="1019.50" y="2462.98" font-size="16" font-family="Georgia, serif" fill="#241811">Tissemsilt</text>
+<circle cx="3260.14" cy="1375.34" r="2" fill="#7f1111" />
+<text x="3266.14" y="1371.34" font-size="16" font-family="Georgia, serif" fill="#241811">Kherson</text>
+<circle cx="2271.52" cy="1389.10" r="2" fill="#7f1111" />
+<text x="2277.52" y="1385.10" font-size="16" font-family="Georgia, serif" fill="#241811">Tatabanya</text>
+<circle cx="3019.34" cy="1550.81" r="2" fill="#7f1111" />
+<text x="3025.34" y="1546.81" font-size="16" font-family="Georgia, serif" fill="#241811">Tulcea</text>
+<circle cx="2497.39" cy="2117.81" r="2" fill="#7f1111" />
+<text x="2503.39" y="2113.81" font-size="16" font-family="Georgia, serif" fill="#241811">Ioannina</text>
+<circle cx="2827.47" cy="1878.86" r="2" fill="#7f1111" />
+<text x="2833.47" y="1874.86" font-size="16" font-family="Georgia, serif" fill="#241811">Haskovo</text>
+<circle cx="2237.03" cy="1506.84" r="2" fill="#7f1111" />
+<text x="2243.03" y="1502.84" font-size="16" font-family="Georgia, serif" fill="#241811">Kaposvar</text>
+<circle cx="2642.96" cy="1508.81" r="2" fill="#7f1111" />
+<text x="2648.96" y="1504.81" font-size="16" font-family="Georgia, serif" fill="#241811">Alba Iulia</text>
+<circle cx="2890.12" cy="1820.74" r="2" fill="#7f1111" />
+<text x="2896.12" y="1816.74" font-size="16" font-family="Georgia, serif" fill="#241811">Yambol</text>
+<circle cx="2714.53" cy="1656.32" r="2" fill="#7f1111" />
+<text x="2720.53" y="1652.32" font-size="16" font-family="Georgia, serif" fill="#241811">Slatina</text>
+<circle cx="1371.50" cy="2416.93" r="2" fill="#7f1111" />
+<text x="1377.50" y="2412.93" font-size="16" font-family="Georgia, serif" fill="#241811">Mila</text>
+<circle cx="2489.70" cy="1901.17" r="2" fill="#7f1111" />
+<text x="2495.70" y="1897.17" font-size="16" font-family="Georgia, serif" fill="#241811">Tetovo</text>
+<circle cx="2924.49" cy="1424.74" r="2" fill="#7f1111" />
+<text x="2930.49" y="1420.74" font-size="16" font-family="Georgia, serif" fill="#241811">Vaslui</text>
+<circle cx="2213.60" cy="1316.64" r="2" fill="#7f1111" />
+<text x="2219.60" y="1312.64" font-size="16" font-family="Georgia, serif" fill="#241811">Trnava</text>
+<circle cx="2422.77" cy="2026.23" r="2" fill="#7f1111" />
+<text x="2428.77" y="2022.23" font-size="16" font-family="Georgia, serif" fill="#241811">Berat</text>
+<circle cx="2168.63" cy="1464.84" r="2" fill="#7f1111" />
+<text x="2174.63" y="1460.84" font-size="16" font-family="Georgia, serif" fill="#241811">Zalaegerszeg</text>
+<circle cx="1601.98" cy="2402.02" r="2" fill="#7f1111" />
+<text x="1607.98" y="2398.02" font-size="16" font-family="Georgia, serif" fill="#241811">Beja</text>
+<circle cx="1690.36" cy="600.79" r="2" fill="#7f1111" />
+<text x="1696.36" y="596.79" font-size="16" font-family="Georgia, serif" fill="#241811">Vejle</text>
+<circle cx="427.97" cy="2085.42" r="2" fill="#7f1111" />
+<text x="433.97" y="2081.42" font-size="16" font-family="Georgia, serif" fill="#241811">Merida</text>
+<circle cx="2464.83" cy="1464.45" r="2" fill="#7f1111" />
+<text x="2470.83" y="1460.45" font-size="16" font-family="Georgia, serif" fill="#241811">Bekescsaba</text>
+<circle cx="2500.60" cy="1866.89" r="2" fill="#7f1111" />
+<text x="2506.60" y="1862.89" font-size="16" font-family="Georgia, serif" fill="#241811">Ferizaj</text>
+<circle cx="2819.84" cy="1772.50" r="2" fill="#7f1111" />
+<text x="2825.84" y="1768.50" font-size="16" font-family="Georgia, serif" fill="#241811">Veliko Turnovo</text>
+<circle cx="3821.86" cy="2581.23" r="2" fill="#7f1111" />
+<text x="3827.86" y="2577.23" font-size="16" font-family="Georgia, serif" fill="#241811">As-Suwayda</text>
+<circle cx="1262.76" cy="2594.87" r="2" fill="#7f1111" />
+<text x="1268.76" y="2590.87" font-size="16" font-family="Georgia, serif" fill="#241811">Ouled Djellal</text>
+<circle cx="2242.32" cy="1265.99" r="2" fill="#7f1111" />
+<text x="2248.32" y="1261.99" font-size="16" font-family="Georgia, serif" fill="#241811">Trencin</text>
+<circle cx="2485.37" cy="2030.40" r="2" fill="#7f1111" />
+<text x="2491.37" y="2026.40" font-size="16" font-family="Georgia, serif" fill="#241811">Korce</text>
+<circle cx="2952.46" cy="1883.24" r="2" fill="#7f1111" />
+<text x="2958.46" y="1879.24" font-size="16" font-family="Georgia, serif" fill="#241811">Kirklareli</text>
+<circle cx="2336.29" cy="1839.23" r="2" fill="#7f1111" />
+<text x="2342.29" y="1835.23" font-size="16" font-family="Georgia, serif" fill="#241811">Niksic</text>
+<circle cx="2550.93" cy="1924.02" r="2" fill="#7f1111" />
+<text x="2556.93" y="1920.02" font-size="16" font-family="Georgia, serif" fill="#241811">Veles</text>
+<circle cx="1053.56" cy="2930.80" r="2" fill="#7f1111" />
+<text x="1059.56" y="2926.80" font-size="16" font-family="Georgia, serif" fill="#241811">El Menia</text>
+<circle cx="3800.29" cy="2619.62" r="2" fill="#7f1111" />
+<text x="3806.29" y="2615.62" font-size="16" font-family="Georgia, serif" fill="#241811">Mafraq</text>
+<circle cx="2241.54" cy="1437.84" r="2" fill="#7f1111" />
+<text x="2247.54" y="1433.84" font-size="16" font-family="Georgia, serif" fill="#241811">Veszprem</text>
+<circle cx="2112.48" cy="2044.94" r="2" fill="#7f1111" />
+<text x="2118.48" y="2040.94" font-size="16" font-family="Georgia, serif" fill="#241811">Potenza</text>
+<circle cx="2393.17" cy="2026.14" r="2" fill="#7f1111" />
+<text x="2399.17" y="2022.14" font-size="16" font-family="Georgia, serif" fill="#241811">Fier</text>
+<circle cx="1032.33" cy="2408.50" r="2" fill="#7f1111" />
+<text x="1038.33" y="2404.50" font-size="16" font-family="Georgia, serif" fill="#241811">Ain Defla</text>
+<circle cx="2734.98" cy="1863.50" r="2" fill="#7f1111" />
+<text x="2740.98" y="1859.50" font-size="16" font-family="Georgia, serif" fill="#241811">Pazardzhik</text>
+<circle cx="2544.73" cy="479.29" r="2" fill="#7f1111" />
+<text x="2550.73" y="475.29" font-size="16" font-family="Georgia, serif" fill="#241811">Jelgava</text>
+<circle cx="2834.57" cy="1695.34" r="2" fill="#7f1111" />
+<text x="2840.57" y="1691.34" font-size="16" font-family="Georgia, serif" fill="#241811">Giurgiu</text>
+<circle cx="1586.91" cy="1923.73" r="2" fill="#7f1111" />
+<text x="1592.91" y="1919.73" font-size="16" font-family="Georgia, serif" fill="#241811">Ajaccio</text>
+<circle cx="2406.12" cy="1352.28" r="2" fill="#7f1111" />
+<text x="2412.12" y="1348.28" font-size="16" font-family="Georgia, serif" fill="#241811">Eger</text>
+<circle cx="1562.46" cy="2451.06" r="2" fill="#7f1111" />
+<text x="1568.46" y="2447.06" font-size="16" font-family="Georgia, serif" fill="#241811">El Kef</text>
+<circle cx="303.88" cy="2096.96" r="2" fill="#7f1111" />
+<text x="309.88" y="2092.96" font-size="16" font-family="Georgia, serif" fill="#241811">Evora</text>
+<circle cx="1903.22" cy="2789.08" r="2" fill="#7f1111" />
+<text x="1909.22" y="2785.08" font-size="16" font-family="Georgia, serif" fill="#241811">Al 'Aziziyah</text>
+<circle cx="2595.28" cy="1405.33" r="2" fill="#7f1111" />
+<text x="2601.28" y="1401.33" font-size="16" font-family="Georgia, serif" fill="#241811">Zalau</text>
+<circle cx="2623.52" cy="2179.00" r="2" fill="#7f1111" />
+<text x="2629.52" y="2175.00" font-size="16" font-family="Georgia, serif" fill="#241811">Lamia</text>
+<circle cx="2544.78" cy="446.64" r="2" fill="#7f1111" />
+<text x="2550.78" y="442.64" font-size="16" font-family="Georgia, serif" fill="#241811">Jurmala</text>
+<circle cx="2522.97" cy="1856.95" r="2" fill="#7f1111" />
+<text x="2528.97" y="1852.95" font-size="16" font-family="Georgia, serif" fill="#241811">Gjilan</text>
+<circle cx="1747.51" cy="2517.06" r="2" fill="#7f1111" />
+<text x="1753.51" y="2513.06" font-size="16" font-family="Georgia, serif" fill="#241811">Mahdia</text>
+<circle cx="1569.63" cy="2421.45" r="2" fill="#7f1111" />
+<text x="1575.63" y="2417.45" font-size="16" font-family="Georgia, serif" fill="#241811">Jendouba</text>
+<circle cx="1854.59" cy="1601.08" r="2" fill="#7f1111" />
+<text x="1860.59" y="1597.08" font-size="16" font-family="Georgia, serif" fill="#241811">Venice</text>
+<circle cx="2486.55" cy="1921.22" r="2" fill="#7f1111" />
+<text x="2492.55" y="1917.22" font-size="16" font-family="Georgia, serif" fill="#241811">Gostivar</text>
+<circle cx="3804.85" cy="2818.29" r="2" fill="#7f1111" />
+<text x="3810.85" y="2814.29" font-size="16" font-family="Georgia, serif" fill="#241811">Ma'an</text>
+<circle cx="2075.55" cy="1223.21" r="2" fill="#7f1111" />
+<text x="2081.55" y="1219.21" font-size="16" font-family="Georgia, serif" fill="#241811">Jihlava</text>
+<circle cx="2798.74" cy="1512.34" r="2" fill="#7f1111" />
+<text x="2804.74" y="1508.34" font-size="16" font-family="Georgia, serif" fill="#241811">Sfantu Gheorghe</text>
+<circle cx="2668.93" cy="1775.23" r="2" fill="#7f1111" />
+<text x="2674.93" y="1771.23" font-size="16" font-family="Georgia, serif" fill="#241811">Vratsa</text>
+<circle cx="2025.53" cy="1961.79" r="2" fill="#7f1111" />
+<text x="2031.53" y="1957.79" font-size="16" font-family="Georgia, serif" fill="#241811">Campobasso</text>
+<circle cx="2588.55" cy="703.78" r="2" fill="#7f1111" />
+<text x="2594.55" y="699.78" font-size="16" font-family="Georgia, serif" fill="#241811">Alytus</text>
+<circle cx="2435.14" cy="1844.31" r="2" fill="#7f1111" />
+<text x="2441.14" y="1840.31" font-size="16" font-family="Georgia, serif" fill="#241811">Peje</text>
+<circle cx="2581.99" cy="1919.00" r="2" fill="#7f1111" />
+<text x="2587.99" y="1915.00" font-size="16" font-family="Georgia, serif" fill="#241811">Shtip</text>
+<circle cx="2799.64" cy="1794.01" r="2" fill="#7f1111" />
+<text x="2805.64" y="1790.01" font-size="16" font-family="Georgia, serif" fill="#241811">Gabrovo</text>
+<circle cx="1620.53" cy="2556.68" r="2" fill="#7f1111" />
+<text x="1626.53" y="2552.68" font-size="16" font-family="Georgia, serif" fill="#241811">Sidi Bouzid</text>
+<circle cx="2642.34" cy="1758.64" r="2" fill="#7f1111" />
+<text x="2648.34" y="1754.64" font-size="16" font-family="Georgia, serif" fill="#241811">Montana</text>
+<circle cx="2613.95" cy="1866.47" r="2" fill="#7f1111" />
+<text x="2619.95" y="1862.47" font-size="16" font-family="Georgia, serif" fill="#241811">Kyustendil</text>
+<circle cx="1291.58" cy="997.26" r="2" fill="#7f1111" />
+<text x="1297.58" y="993.26" font-size="16" font-family="Georgia, serif" fill="#241811">Middelburg</text>
+<circle cx="2825.55" cy="1955.09" r="2" fill="#7f1111" />
+<text x="2831.55" y="1951.09" font-size="16" font-family="Georgia, serif" fill="#241811">Komotini</text>
+<circle cx="1893.24" cy="1144.47" r="2" fill="#7f1111" />
+<text x="1899.24" y="1140.47" font-size="16" font-family="Georgia, serif" fill="#241811">Karlovy Vary</text>
+<circle cx="2462.97" cy="1952.24" r="2" fill="#7f1111" />
+<text x="2468.97" y="1948.24" font-size="16" font-family="Georgia, serif" fill="#241811">Centar Zupa</text>
+<circle cx="2257.65" cy="1619.56" r="2" fill="#7f1111" />
+<text x="2263.65" y="1615.56" font-size="16" font-family="Georgia, serif" fill="#241811">Slavonski Brod</text>
+<circle cx="2816.74" cy="1906.94" r="2" fill="#7f1111" />
+<text x="2822.74" y="1902.94" font-size="16" font-family="Georgia, serif" fill="#241811">Kardzhali</text>
+<circle cx="1622.94" cy="1525.36" r="2" fill="#7f1111" />
+<text x="1628.94" y="1521.36" font-size="16" font-family="Georgia, serif" fill="#241811">Bellinzona</text>
+<circle cx="692.92" cy="730.57" r="2" fill="#7f1111" />
+<text x="698.92" y="726.57" font-size="16" font-family="Georgia, serif" fill="#241811">Swords</text>
+<circle cx="3566.05" cy="2405.41" r="2" fill="#7f1111" />
+<text x="3572.05" y="2401.41" font-size="16" font-family="Georgia, serif" fill="#241811">Famagusta</text>
+<circle cx="2483.46" cy="1984.40" r="2" fill="#7f1111" />
+<text x="2489.46" y="1980.40" font-size="16" font-family="Georgia, serif" fill="#241811">Ohrid</text>
+<circle cx="2081.96" cy="1594.15" r="2" fill="#7f1111" />
+<text x="2087.96" y="1590.15" font-size="16" font-family="Georgia, serif" fill="#241811">Karlovac</text>
+<circle cx="2926.00" cy="1620.87" r="2" fill="#7f1111" />
+<text x="2932.00" y="1616.87" font-size="16" font-family="Georgia, serif" fill="#241811">Slobozia</text>
+<circle cx="1684.84" cy="525.14" r="2" fill="#7f1111" />
+<text x="1690.84" y="521.14" font-size="16" font-family="Georgia, serif" fill="#241811">Viborg</text>
+<circle cx="2788.39" cy="1691.21" r="2" fill="#7f1111" />
+<text x="2794.39" y="1687.21" font-size="16" font-family="Georgia, serif" fill="#241811">Alexandria</text>
+<circle cx="2571.74" cy="297.20" r="2" fill="#7f1111" />
+<text x="2577.74" y="293.20" font-size="16" font-family="Georgia, serif" fill="#241811">Paernu</text>
+<circle cx="387.53" cy="1927.16" r="2" fill="#7f1111" />
+<text x="393.53" y="1923.16" font-size="16" font-family="Georgia, serif" fill="#241811">Guarda</text>
+<circle cx="2427.06" cy="2125.80" r="2" fill="#7f1111" />
+<text x="2433.06" y="2121.80" font-size="16" font-family="Georgia, serif" fill="#241811">Corfu</text>
+<circle cx="1328.96" cy="2642.76" r="2" fill="#7f1111" />
+<text x="1334.96" y="2638.76" font-size="16" font-family="Georgia, serif" fill="#241811">El Meghaier</text>
+<circle cx="2315.89" cy="1644.13" r="2" fill="#7f1111" />
+<text x="2321.89" y="1640.13" font-size="16" font-family="Georgia, serif" fill="#241811">Brcko</text>
+<circle cx="2570.97" cy="1948.85" r="2" fill="#7f1111" />
+<text x="2576.97" y="1944.85" font-size="16" font-family="Georgia, serif" fill="#241811">Kavadarci</text>
+<circle cx="2134.21" cy="287.60" r="2" fill="#7f1111" />
+<text x="2140.21" y="283.60" font-size="16" font-family="Georgia, serif" fill="#241811">Nykoeping</text>
+<circle cx="2103.78" cy="504.34" r="2" fill="#7f1111" />
+<text x="2109.78" y="500.34" font-size="16" font-family="Georgia, serif" fill="#241811">Kalmar</text>
+<circle cx="1495.69" cy="1462.42" r="2" fill="#7f1111" />
+<text x="1501.69" y="1458.42" font-size="16" font-family="Georgia, serif" fill="#241811">Fribourg</text>
+<circle cx="2059.98" cy="1524.94" r="2" fill="#7f1111" />
+<text x="2065.98" y="1520.94" font-size="16" font-family="Georgia, serif" fill="#241811">Celje</text>
+<circle cx="1996.65" cy="1525.16" r="2" fill="#7f1111" />
+<text x="2002.65" y="1521.16" font-size="16" font-family="Georgia, serif" fill="#241811">Kranj</text>
+<circle cx="2473.90" cy="1979.39" r="2" fill="#7f1111" />
+<text x="2479.90" y="1975.39" font-size="16" font-family="Georgia, serif" fill="#241811">Struga</text>
+<circle cx="1507.65" cy="2654.67" r="2" fill="#7f1111" />
+<text x="1513.65" y="2650.67" font-size="16" font-family="Georgia, serif" fill="#241811">Tozeur</text>
+<circle cx="1602.23" cy="1382.01" r="2" fill="#7f1111" />
+<text x="1608.23" y="1378.01" font-size="16" font-family="Georgia, serif" fill="#241811">Schaffhausen</text>
+<circle cx="2563.41" cy="2054.45" r="2" fill="#7f1111" />
+<text x="2569.41" y="2050.45" font-size="16" font-family="Georgia, serif" fill="#241811">Kozani</text>
+<circle cx="2135.13" cy="1516.23" r="2" fill="#7f1111" />
+<text x="2141.13" y="1512.23" font-size="16" font-family="Georgia, serif" fill="#241811">Varazdin</text>
+<circle cx="3753.71" cy="2555.98" r="2" fill="#7f1111" />
+<text x="3759.71" y="2551.98" font-size="16" font-family="Georgia, serif" fill="#241811">Al Qunaytirah</text>
+<circle cx="2448.79" cy="1897.60" r="2" fill="#7f1111" />
+<text x="2454.79" y="1893.60" font-size="16" font-family="Georgia, serif" fill="#241811">Kukes</text>
+<circle cx="1903.46" cy="2821.81" r="2" fill="#7f1111" />
+<text x="1909.46" y="2817.81" font-size="16" font-family="Georgia, serif" fill="#241811">Gharyan</text>
+<circle cx="3452.74" cy="2457.20" r="2" fill="#7f1111" />
+<text x="3458.74" y="2453.20" font-size="16" font-family="Georgia, serif" fill="#241811">Paphos</text>
+<circle cx="1661.13" cy="1464.43" r="2" fill="#7f1111" />
+<text x="1667.13" y="1460.43" font-size="16" font-family="Georgia, serif" fill="#241811">Chur</text>
+<circle cx="1859.26" cy="581.64" r="2" fill="#7f1111" />
+<text x="1865.26" y="577.64" font-size="16" font-family="Georgia, serif" fill="#241811">Hillerod</text>
+<circle cx="447.40" cy="1818.12" r="2" fill="#7f1111" />
+<text x="453.40" y="1814.12" font-size="16" font-family="Georgia, serif" fill="#241811">Braganca</text>
+<circle cx="1501.66" cy="1563.35" r="2" fill="#7f1111" />
+<text x="1507.66" y="1559.35" font-size="16" font-family="Georgia, serif" fill="#241811">Aosta</text>
+<circle cx="2544.21" cy="691.52" r="2" fill="#7f1111" />
+<text x="2550.21" y="687.52" font-size="16" font-family="Georgia, serif" fill="#241811">Marijampole</text>
+<circle cx="3526.49" cy="1766.89" r="2" fill="#7f1111" />
+<text x="3532.49" y="1762.89" font-size="16" font-family="Georgia, serif" fill="#241811">Sinop</text>
+<circle cx="2612.65" cy="1706.96" r="2" fill="#7f1111" />
+<text x="2618.65" y="1702.96" font-size="16" font-family="Georgia, serif" fill="#241811">Vidin</text>
+<circle cx="2885.99" cy="1749.22" r="2" fill="#7f1111" />
+<text x="2891.99" y="1745.22" font-size="16" font-family="Georgia, serif" fill="#241811">Targovishte</text>
+<circle cx="296.82" cy="2147.15" r="2" fill="#7f1111" />
+<text x="302.82" y="2143.15" font-size="16" font-family="Georgia, serif" fill="#241811">Beja</text>
+<circle cx="1506.88" cy="1517.38" r="2" fill="#7f1111" />
+<text x="1512.88" y="1513.38" font-size="16" font-family="Georgia, serif" fill="#241811">Sitten</text>
+<circle cx="2365.94" cy="1335.97" r="2" fill="#7f1111" />
+<text x="2371.94" y="1331.97" font-size="16" font-family="Georgia, serif" fill="#241811">Salgotarjan</text>
+<circle cx="2966.46" cy="1488.83" r="2" fill="#7f1111" />
+<text x="2972.46" y="1484.83" font-size="16" font-family="Georgia, serif" fill="#241811">Cahul</text>
+<circle cx="2794.26" cy="1466.94" r="2" fill="#7f1111" />
+<text x="2800.26" y="1462.94" font-size="16" font-family="Georgia, serif" fill="#241811">Miercurea-Ciuc</text>
+<circle cx="2921.28" cy="1370.01" r="2" fill="#7f1111" />
+<text x="2927.28" y="1366.01" font-size="16" font-family="Georgia, serif" fill="#241811">Ungheni</text>
+<circle cx="2596.56" cy="1902.00" r="2" fill="#7f1111" />
+<text x="2602.56" y="1898.00" font-size="16" font-family="Georgia, serif" fill="#241811">Kochani</text>
+<circle cx="2300.77" cy="1505.85" r="2" fill="#7f1111" />
+<text x="2306.77" y="1501.85" font-size="16" font-family="Georgia, serif" fill="#241811">Szekszard</text>
+<circle cx="1826.61" cy="2752.46" r="2" fill="#7f1111" />
+<text x="1832.61" y="2748.46" font-size="16" font-family="Georgia, serif" fill="#241811">Zuwarah</text>
+<circle cx="2617.65" cy="1944.78" r="2" fill="#7f1111" />
+<text x="2623.65" y="1940.78" font-size="16" font-family="Georgia, serif" fill="#241811">Strumica</text>
+<circle cx="1931.15" cy="1889.32" r="2" fill="#7f1111" />
+<text x="1937.15" y="1885.32" font-size="16" font-family="Georgia, serif" fill="#241811">L'Aquila</text>
+<circle cx="357.93" cy="1988.90" r="2" fill="#7f1111" />
+<text x="363.93" y="1984.90" font-size="16" font-family="Georgia, serif" fill="#241811">Castelo Branco</text>
+<circle cx="1481.46" cy="1443.74" r="2" fill="#7f1111" />
+<text x="1487.46" y="1439.74" font-size="16" font-family="Georgia, serif" fill="#241811">Neuchatel</text>
+<circle cx="2409.56" cy="413.77" r="2" fill="#7f1111" />
+<text x="2415.56" y="409.77" font-size="16" font-family="Georgia, serif" fill="#241811">Ventspils</text>
+<circle cx="2013.92" cy="2476.96" r="2" fill="#7f1111" />
+<text x="2019.92" y="2472.96" font-size="16" font-family="Georgia, serif" fill="#241811">San Pawl il-Bahar</text>
+<circle cx="1673.93" cy="2396.34" r="2" fill="#7f1111" />
+<text x="1679.93" y="2392.34" font-size="16" font-family="Georgia, serif" fill="#241811">Manouba</text>
+<circle cx="1614.76" cy="2460.97" r="2" fill="#7f1111" />
+<text x="1620.76" y="2456.97" font-size="16" font-family="Georgia, serif" fill="#241811">Siliana</text>
+<circle cx="2492.32" cy="1947.14" r="2" fill="#7f1111" />
+<text x="2498.32" y="1943.14" font-size="16" font-family="Georgia, serif" fill="#241811">Kicevo</text>
+<circle cx="2110.90" cy="1758.10" r="2" fill="#7f1111" />
+<text x="2116.90" y="1754.10" font-size="16" font-family="Georgia, serif" fill="#241811">Sibenik</text>
+<circle cx="3767.25" cy="2471.43" r="2" fill="#7f1111" />
+<text x="3773.25" y="2467.43" font-size="16" font-family="Georgia, serif" fill="#241811">Baalbek</text>
+<circle cx="1655.38" cy="317.49" r="2" fill="#7f1111" />
+<text x="1661.38" y="313.49" font-size="16" font-family="Georgia, serif" fill="#241811">Arendal</text>
+<circle cx="2769.30" cy="1918.35" r="2" fill="#7f1111" />
+<text x="2775.30" y="1914.35" font-size="16" font-family="Georgia, serif" fill="#241811">Smolyan</text>
+<circle cx="1592.01" cy="1431.52" r="2" fill="#7f1111" />
+<text x="1598.01" y="1427.52" font-size="16" font-family="Georgia, serif" fill="#241811">Zug</text>
+<circle cx="1677.95" cy="1402.92" r="2" fill="#7f1111" />
+<text x="1683.95" y="1398.92" font-size="16" font-family="Georgia, serif" fill="#241811">Bregenz</text>
+<circle cx="2924.49" cy="1663.27" r="2" fill="#7f1111" />
+<text x="2930.49" y="1659.27" font-size="16" font-family="Georgia, serif" fill="#241811">Silistra</text>
+<circle cx="1155.20" cy="2373.10" r="2" fill="#7f1111" />
+<text x="1161.20" y="2369.10" font-size="16" font-family="Georgia, serif" fill="#241811">Boumerdas</text>
+<circle cx="2878.68" cy="1723.58" r="2" fill="#7f1111" />
+<text x="2884.68" y="1719.58" font-size="16" font-family="Georgia, serif" fill="#241811">Razgrad</text>
+<circle cx="1734.58" cy="2848.01" r="2" fill="#7f1111" />
+<text x="1740.58" y="2844.01" font-size="16" font-family="Georgia, serif" fill="#241811">Nalut</text>
+<circle cx="2935.02" cy="2129.45" r="2" fill="#7f1111" />
+<text x="2941.02" y="2125.45" font-size="16" font-family="Georgia, serif" fill="#241811">Mytilene</text>
+<circle cx="2533.78" cy="1884.41" r="2" fill="#7f1111" />
+<text x="2539.78" y="1880.41" font-size="16" font-family="Georgia, serif" fill="#241811">Lipkovo</text>
+<circle cx="2753.30" cy="1774.58" r="2" fill="#7f1111" />
+<text x="2759.30" y="1770.58" font-size="16" font-family="Georgia, serif" fill="#241811">Lovech</text>
+<circle cx="2140.49" cy="1595.09" r="2" fill="#7f1111" />
+<text x="2146.49" y="1591.09" font-size="16" font-family="Georgia, serif" fill="#241811">Sisak</text>
+<circle cx="2941.15" cy="1276.62" r="2" fill="#7f1111" />
+<text x="2947.15" y="1272.62" font-size="16" font-family="Georgia, serif" fill="#241811">Soroca</text>
+<circle cx="3776.65" cy="2630.06" r="2" fill="#7f1111" />
+<text x="3782.65" y="2626.06" font-size="16" font-family="Georgia, serif" fill="#241811">Jarash</text>
+<circle cx="2275.89" cy="1854.32" r="2" fill="#7f1111" />
+<text x="2281.89" y="1850.32" font-size="16" font-family="Georgia, serif" fill="#241811">Dubrovnik</text>
+<circle cx="3513.24" cy="2395.09" r="2" fill="#7f1111" />
+<text x="3519.24" y="2391.09" font-size="16" font-family="Georgia, serif" fill="#241811">Kyrenia</text>
+<circle cx="2630.93" cy="2306.27" r="2" fill="#7f1111" />
+<text x="2636.93" y="2302.27" font-size="16" font-family="Georgia, serif" fill="#241811">Tripoli</text>
+<circle cx="2763.33" cy="470.40" r="2" fill="#7f1111" />
+<text x="2769.33" y="466.40" font-size="16" font-family="Georgia, serif" fill="#241811">Rezekne</text>
+<circle cx="1574.51" cy="2676.80" r="2" fill="#7f1111" />
+<text x="1580.51" y="2672.80" font-size="16" font-family="Georgia, serif" fill="#241811">Kebili</text>
+<circle cx="1953.30" cy="1590.61" r="2" fill="#7f1111" />
+<text x="1959.30" y="1586.61" font-size="16" font-family="Georgia, serif" fill="#241811">Koper</text>
+<circle cx="1619.81" cy="1395.92" r="2" fill="#7f1111" />
+<text x="1625.81" y="1391.92" font-size="16" font-family="Georgia, serif" fill="#241811">Frauenfeld</text>
+<circle cx="3781.44" cy="2763.25" r="2" fill="#7f1111" />
+<text x="3787.44" y="2759.25" font-size="16" font-family="Georgia, serif" fill="#241811">At Tafilah</text>
+<circle cx="2496.75" cy="1903.44" r="2" fill="#7f1111" />
+<text x="2502.75" y="1899.44" font-size="16" font-family="Georgia, serif" fill="#241811">Zelino</text>
+<circle cx="2672.07" cy="584.20" r="2" fill="#7f1111" />
+<text x="2678.07" y="580.20" font-size="16" font-family="Georgia, serif" fill="#241811">Utena</text>
 </svg>

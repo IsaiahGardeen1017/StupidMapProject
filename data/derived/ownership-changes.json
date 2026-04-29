@@ -1,0 +1,14 @@
+{
+    "#ff5900": [
+        {
+            "startDate": "1805-09-01",
+            "ownerId": "faction-2"
+        }
+    ],
+    "#0500ff": [
+        {
+            "startDate": "1805-09-01",
+            "ownerId": "faction-1"
+        }
+    ]
+}

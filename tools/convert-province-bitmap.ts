@@ -43,6 +43,8 @@ type SimplifiedChainRecord = {
   isClosed: boolean;
 };
 
+const IGNORED_PROVINCE_ID = "#ffffff" as ProvinceId;
+
 function toProvinceId(red: number, green: number, blue: number): ProvinceId {
   const color = `#${[red, green, blue]
     .map((value) => value.toString(16).padStart(2, "0"))
@@ -645,7 +647,7 @@ function collectRegions(imagePath: string) {
         }
       }
 
-      if (region.pixels.length > 0) {
+      if (region.pixels.length > 0 && region.id !== IGNORED_PROVINCE_ID) {
         regions.push(region);
       }
     }

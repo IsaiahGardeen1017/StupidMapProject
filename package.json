@@ -9,8 +9,13 @@
     "preview": "vite preview",
     "tool:download-basemap": "tsx tools/download-basemap.ts",
     "tool:download-settlements": "tsx tools/download-settlements.ts",
+    "tool:build-projection-preview": "tsx tools/build-projection-preview-data.ts",
     "tool:render-basemap": "tsx tools/render-basemap-overlay.ts",
+    "tool:render-rivers": "tsx tools/render-rivers-overlay.ts",
+    "tool:render-modern-borders": "tsx tools/render-modern-borders-overlay.ts",
+    "tool:render-admin1-borders": "tsx tools/render-admin1-borders-overlay.ts",
     "tool:render-settlements": "tsx tools/render-settlement-overlay.ts",
+    "tool:render-france-germany-settlements": "tsx tools/render-france-germany-settlements-overlay.ts",
     "tool:convert-provinces": "tsx tools/convert-province-bitmap.ts"
   },
   "dependencies": {

@@ -20,16 +20,22 @@ body {
   min-height: 100vh;
 }
 
+button,
+input {
+  font: inherit;
+}
+
 .app-shell {
   display: grid;
-  grid-template-columns: 320px 1fr;
+  grid-template-columns: 360px 1fr;
   min-height: 100vh;
 }
 
 .sidebar {
   padding: 24px;
-  background: rgba(252, 248, 239, 0.92);
+  background: rgba(252, 248, 239, 0.94);
   border-right: 1px solid rgba(54, 39, 25, 0.2);
+  overflow-y: auto;
 }
 
 .eyebrow {
@@ -55,36 +61,169 @@ body {
   margin-bottom: 8px;
 }
 
-.sidebar input[type="range"] {
+.sidebar input[type="range"],
+.timeline-slider {
   width: 100%;
 }
 
-.legend {
-  margin-top: 20px;
-  display: grid;
-  gap: 10px;
+.participant-card input {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid rgba(54, 39, 25, 0.25);
+  background: rgba(255, 252, 245, 0.95);
 }
 
-.legend-row {
+.tab-row {
+  display: grid;
+  gap: 8px;
+  margin: 20px 0 18px;
+}
+
+.tab-row--three {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.tab-button,
+.copy-button,
+.mini-button,
+.owner-chip {
+  border: 1px solid rgba(54, 39, 25, 0.2);
+  background: rgba(255, 250, 240, 0.95);
+  color: inherit;
+  cursor: pointer;
+}
+
+.tab-button {
+  padding: 10px 12px;
+}
+
+.tab-button.is-active,
+.owner-chip.is-active {
+  background: #3f3122;
+  color: #fff7eb;
+}
+
+.panel-block {
+  margin-top: 20px;
+  display: grid;
+  gap: 14px;
+}
+
+.panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.panel-header h2,
+.selected-province-card h3 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.button-row,
+.timeline-step-group {
+  display: flex;
+  gap: 8px;
+}
+
+.copy-button,
+.mini-button {
+  padding: 8px 10px;
+}
+
+.mini-button.danger {
+  color: #8f1d1d;
+}
+
+.hint,
+.meta-line,
+.copy-status {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.4;
+  color: rgba(32, 23, 15, 0.8);
+}
+
+.ownership-palette,
+.participant-list,
+.change-list {
+  display: grid;
+  gap: 8px;
+}
+
+.owner-chip {
   display: flex;
   align-items: center;
   gap: 10px;
+  padding: 8px 10px;
+  text-align: left;
+}
+
+.selected-province-card,
+.participant-card,
+.timeline-panel {
+  display: grid;
+  gap: 10px;
+  padding: 12px;
+  background: rgba(255, 249, 237, 0.84);
+  border: 1px solid rgba(54, 39, 25, 0.14);
+}
+
+.participant-card label {
+  font-size: 14px;
+}
+
+.participant-row {
+  display: block;
+}
+
+.participant-inline-label {
+  display: grid;
+  grid-template-columns: 56px 1fr;
+  align-items: center;
+  gap: 10px;
+}
+
+.participant-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.participant-id {
+  color: rgba(32, 23, 15, 0.55);
+  font-size: 13px;
+}
+
+.change-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
 }
 
 .legend-swatch {
   width: 16px;
   height: 16px;
   border: 1px solid rgba(0, 0, 0, 0.25);
+  background: #d8ccb4;
+  flex: 0 0 auto;
 }
 
 .map-panel {
   padding: 20px;
+  display: grid;
+  grid-template-rows: 1fr auto;
+  gap: 14px;
 }
 
 .map-canvas {
   display: block;
   width: 100%;
-  height: calc(100vh - 40px);
+  height: calc(100vh - 184px);
   border: 1px solid rgba(58, 42, 26, 0.35);
   background: #efe4c9;
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.3);
@@ -94,6 +233,19 @@ body {
 
 .map-canvas:active {
   cursor: grabbing;
+}
+
+.timeline-date-row {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 12px;
+}
+
+.timeline-date-display {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 600;
 }
 
 @media (max-width: 960px) {
@@ -107,6 +259,65 @@ body {
   }
 
   .map-canvas {
-    height: 60vh;
+    height: 55vh;
   }
+
+  .timeline-date-row {
+    grid-template-columns: 1fr;
+  }
+
+  .timeline-step-group {
+    justify-content: center;
+  }
+}
+
+.projection-page {
+  display: grid;
+  grid-template-columns: 340px 1fr;
+  min-height: 100vh;
+}
+
+.projection-sidebar {
+  padding: 24px;
+  background: rgba(252, 248, 239, 0.94);
+  border-right: 1px solid rgba(54, 39, 25, 0.2);
+  overflow-y: auto;
+  display: grid;
+  align-content: start;
+  gap: 18px;
+}
+
+.projection-sidebar h1,
+.projection-group h2 {
+  margin: 0;
+}
+
+.projection-group {
+  display: grid;
+  gap: 10px;
+}
+
+.projection-control {
+  display: grid;
+  gap: 6px;
+  font-size: 14px;
+}
+
+.projection-control input {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid rgba(54, 39, 25, 0.25);
+  background: rgba(255, 252, 245, 0.95);
+}
+
+.projection-preview {
+  padding: 20px;
+}
+
+.projection-canvas {
+  width: 100%;
+  height: calc(100vh - 40px);
+  display: block;
+  border: 1px solid rgba(58, 42, 26, 0.35);
+  background: #d6c9ae;
 }

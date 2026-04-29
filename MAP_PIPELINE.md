@@ -45,6 +45,30 @@ Render the Europe settlement overlay:
 npm run tool:render-settlements
 ```
 
+Render the denser France/Germany settlement overlay:
+
+```powershell
+npm run tool:render-france-germany-settlements
+```
+
+Render the Europe rivers overlay:
+
+```powershell
+npm run tool:render-rivers
+```
+
+Render the Europe modern international borders overlay:
+
+```powershell
+npm run tool:render-modern-borders
+```
+
+Render the Europe admin-1 or provincial borders overlay:
+
+```powershell
+npm run tool:render-admin1-borders
+```
+
 Convert a province ID bitmap into JSON polygons:
 
 ```powershell
@@ -74,16 +98,49 @@ Settlement overlay PNG:
 Filtered settlement JSON:
 [data/derived/europe-settlements.json](/C:/MyProjectsC/StupidMapProject/data/derived/europe-settlements.json)
 
+France/Germany settlement overlay SVG:
+[data/derived/france-germany-settlements-overlay.svg](/C:/MyProjectsC/StupidMapProject/data/derived/france-germany-settlements-overlay.svg)
+
+France/Germany settlement overlay PNG:
+[data/derived/france-germany-settlements-overlay.png](/C:/MyProjectsC/StupidMapProject/data/derived/france-germany-settlements-overlay.png)
+
+France/Germany settlement JSON:
+[data/derived/france-germany-settlements.json](/C:/MyProjectsC/StupidMapProject/data/derived/france-germany-settlements.json)
+
+Rivers overlay SVG:
+[data/derived/europe-rivers-overlay.svg](/C:/MyProjectsC/StupidMapProject/data/derived/europe-rivers-overlay.svg)
+
+Rivers overlay PNG:
+[data/derived/europe-rivers-overlay.png](/C:/MyProjectsC/StupidMapProject/data/derived/europe-rivers-overlay.png)
+
+Modern borders overlay SVG:
+[data/derived/europe-modern-borders-overlay.svg](/C:/MyProjectsC/StupidMapProject/data/derived/europe-modern-borders-overlay.svg)
+
+Modern borders overlay PNG:
+[data/derived/europe-modern-borders-overlay.png](/C:/MyProjectsC/StupidMapProject/data/derived/europe-modern-borders-overlay.png)
+
+Admin-1 borders overlay SVG:
+[data/derived/europe-admin1-borders-overlay.svg](/C:/MyProjectsC/StupidMapProject/data/derived/europe-admin1-borders-overlay.svg)
+
+Admin-1 borders overlay PNG:
+[data/derived/europe-admin1-borders-overlay.png](/C:/MyProjectsC/StupidMapProject/data/derived/europe-admin1-borders-overlay.png)
+
 Converted province geometry JSON:
 [data/derived/generated-provinces.json](/C:/MyProjectsC/StupidMapProject/data/derived/generated-provinces.json)
 
 World metadata JSON:
 [data/derived/world-data.json](/C:/MyProjectsC/StupidMapProject/data/derived/world-data.json)
 
-The app merges `world-data.json` with `generated-provinces.json` automatically at runtime.
+Factions JSON:
+[data/derived/factions.json](/C:/MyProjectsC/StupidMapProject/data/derived/factions.json)
+
+Ownership changes JSON:
+[data/derived/ownership-changes.json](/C:/MyProjectsC/StupidMapProject/data/derived/ownership-changes.json)
+
+The app merges `world-data.json`, `generated-provinces.json`, `factions.json`, and `ownership-changes.json` automatically at runtime.
 
 ## Current limitations
 
 The province conversion script currently traces orthogonal province edges from a PNG province ID map. It works best when provinces are painted with hard edges, flat colors, and no anti-aliasing.
 
-The settlement source is GeoNames `cities500`, which is a practical modern fallback rather than a specialized historical gazetteer.
+The settlement sources are still practical modern overlays rather than specialized historical gazetteers.

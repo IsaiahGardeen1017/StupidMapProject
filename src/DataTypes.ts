@@ -25,7 +25,15 @@ export type LambertConformalConicProjection = {
   standardParallel2: number;
 };
 
-export type MapProjection = LambertConformalConicProjection;
+export type EquirectangularProjection = {
+  kind: "equirectangular";
+  centralMeridian: number;
+  standardParallel?: number;
+};
+
+export type MapProjection =
+  | LambertConformalConicProjection
+  | EquirectangularProjection;
 
 export type ProjectionDefinition = {
   id: string;
@@ -61,6 +69,11 @@ export type ProvinceOwnerRecord = {
   ownerId?: string;
   occupierId?: string;
 };
+
+export type OwnershipChangesByProvince = Record<
+  ProvinceId,
+  ProvinceOwnerRecord[]
+>;
 
 export type ProvinceData = {
   id: ProvinceId;
@@ -127,6 +140,7 @@ export type MapData = {
   endDate: DateString;
   projection: ProjectionDefinition;
   participants: Record<string, Participant>;
+  ownershipChanges: OwnershipChangesByProvince;
   provinces: ProvinceData[];
   settlements: SettlementRecord[];
   battles: BattleData[];
