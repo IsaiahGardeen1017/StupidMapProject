@@ -68,6 +68,77 @@ function toVertexKey(x: number, y: number) {
   return `${x},${y}`;
 }
 
+function getDirectionIndex(step: BoundaryStep) {
+  const deltaX = step.end.x - step.start.x;
+  const deltaY = step.end.y - step.start.y;
+
+  if (deltaX === 1 && deltaY === 0) {
+    return 0;
+  }
+
+  if (deltaX === 0 && deltaY === 1) {
+    return 1;
+  }
+
+  if (deltaX === -1 && deltaY === 0) {
+    return 2;
+  }
+
+  return 3;
+}
+
+function getStepKey(step: BoundaryStep) {
+  return `${toVertexKey(step.start.x, step.start.y)}->${toVertexKey(step.end.x, step.end.y)}`;
+}
+
+function compareVertexKeys(left: string, right: string) {
+  const [leftX, leftY] = left.split(",").map(Number);
+  const [rightX, rightY] = right.split(",").map(Number);
+
+  if (leftY !== rightY) {
+    return leftY - rightY;
+  }
+
+  return leftX - rightX;
+}
+
+function compareSteps(left: BoundaryStep, right: BoundaryStep) {
+  const startComparison = compareVertexKeys(
+    toVertexKey(left.start.x, left.start.y),
+    toVertexKey(right.start.x, right.start.y)
+  );
+  if (startComparison !== 0) {
+    return startComparison;
+  }
+
+  return getDirectionIndex(left) - getDirectionIndex(right);
+}
+
+function chooseNextBoundaryStep(
+  currentStep: BoundaryStep,
+  candidates: BoundaryStep[]
+) {
+  const currentDirection = getDirectionIndex(currentStep);
+  const turnPriority = [1, 0, 3, 2];
+
+  const rankedCandidates = [...candidates].sort((left, right) => {
+    const leftTurnIndex = turnPriority.indexOf(
+      (getDirectionIndex(left) - currentDirection + 4) % 4
+    );
+    const rightTurnIndex = turnPriority.indexOf(
+      (getDirectionIndex(right) - currentDirection + 4) % 4
+    );
+
+    if (leftTurnIndex !== rightTurnIndex) {
+      return leftTurnIndex - rightTurnIndex;
+    }
+
+    return compareSteps(left, right);
+  });
+
+  return rankedCandidates[0];
+}
+
 function simplifyOrthogonalRing(ring: ProjectedPoint[]) {
   if (ring.length < 3) {
     return ring;
@@ -347,7 +418,16 @@ function traceExteriorSteps(
   height: number,
   data: Buffer<ArrayBufferLike>
 ): BoundaryStep[] {
-  const stepsByStartVertex = new Map<string, BoundaryStep>();
+  const stepsByStartVertex = new Map<string, BoundaryStep[]>();
+  const allSteps: BoundaryStep[] = [];
+
+  function addBoundaryStep(step: BoundaryStep) {
+    const vertexKey = toVertexKey(step.start.x, step.start.y);
+    const steps = stepsByStartVertex.get(vertexKey) ?? [];
+    steps.push(step);
+    stepsByStartVertex.set(vertexKey, steps);
+    allSteps.push(step);
+  }
 
   for (const pixel of region.pixels) {
     const left = pixel.x - 1;
@@ -356,7 +436,7 @@ function traceExteriorSteps(
     const bottom = pixel.y + 1;
 
     if (!region.pixelSet.has(`${pixel.x},${top}`)) {
-      stepsByStartVertex.set(toVertexKey(pixel.x, pixel.y), {
+      addBoundaryStep({
         start: { x: pixel.x, y: pixel.y },
         end: { x: pixel.x + 1, y: pixel.y },
         neighborId: getNeighborId(pixel.x, top, width, height, data)
@@ -364,7 +444,7 @@ function traceExteriorSteps(
     }
 
     if (!region.pixelSet.has(`${right},${pixel.y}`)) {
-      stepsByStartVertex.set(toVertexKey(pixel.x + 1, pixel.y), {
+      addBoundaryStep({
         start: { x: pixel.x + 1, y: pixel.y },
         end: { x: pixel.x + 1, y: pixel.y + 1 },
         neighborId: getNeighborId(right, pixel.y, width, height, data)
@@ -372,7 +452,7 @@ function traceExteriorSteps(
     }
 
     if (!region.pixelSet.has(`${pixel.x},${bottom}`)) {
-      stepsByStartVertex.set(toVertexKey(pixel.x + 1, pixel.y + 1), {
+      addBoundaryStep({
         start: { x: pixel.x + 1, y: pixel.y + 1 },
         end: { x: pixel.x, y: pixel.y + 1 },
         neighborId: getNeighborId(pixel.x, bottom, width, height, data)
@@ -380,7 +460,7 @@ function traceExteriorSteps(
     }
 
     if (!region.pixelSet.has(`${left},${pixel.y}`)) {
-      stepsByStartVertex.set(toVertexKey(pixel.x, pixel.y + 1), {
+      addBoundaryStep({
         start: { x: pixel.x, y: pixel.y + 1 },
         end: { x: pixel.x, y: pixel.y },
         neighborId: getNeighborId(left, pixel.y, width, height, data)
@@ -388,28 +468,40 @@ function traceExteriorSteps(
     }
   }
 
-  const firstVertex = stepsByStartVertex.keys().next().value as
-    | string
-    | undefined;
-  if (!firstVertex) {
+  if (allSteps.length === 0) {
     return [];
   }
 
+  const firstStep = [...allSteps].sort(compareSteps)[0];
+  const firstStepKey = getStepKey(firstStep);
   const steps: BoundaryStep[] = [];
-  let currentVertex = firstVertex;
-  const guard = stepsByStartVertex.size + 5;
+  const visitedStepKeys = new Set<string>();
+  let currentStep = firstStep;
+  const guard = allSteps.length + 5;
 
   for (let index = 0; index < guard; index += 1) {
-    const step = stepsByStartVertex.get(currentVertex);
-    if (!step) {
+    const currentStepKey = getStepKey(currentStep);
+    if (visitedStepKeys.has(currentStepKey)) {
       break;
     }
 
-    steps.push(step);
-    currentVertex = toVertexKey(step.end.x, step.end.y);
-    if (currentVertex === firstVertex) {
+    steps.push(currentStep);
+    visitedStepKeys.add(currentStepKey);
+
+    const currentVertex = toVertexKey(currentStep.end.x, currentStep.end.y);
+    const candidates = (stepsByStartVertex.get(currentVertex) ?? []).filter(
+      (candidate) => !visitedStepKeys.has(getStepKey(candidate))
+    );
+    if (candidates.length === 0) {
       break;
     }
+
+    const nextStep = chooseNextBoundaryStep(currentStep, candidates);
+    if (getStepKey(nextStep) === firstStepKey) {
+      break;
+    }
+
+    currentStep = nextStep;
   }
 
   return steps;
@@ -666,12 +758,12 @@ async function main() {
 
   const png = PNG.sync.read(fs.readFileSync(inputPath));
   const regions = collectRegions(inputPath);
-  const boundaryStepsByProvince = new Map<ProvinceId, BoundaryStep[]>();
+  const boundaryStepsByRegion = new Map<RegionAccumulator, BoundaryStep[]>();
   const allChains: BoundaryChain[] = [];
 
   for (const region of regions) {
     const steps = traceExteriorSteps(region, png.width, png.height, png.data);
-    boundaryStepsByProvince.set(region.id, steps);
+    boundaryStepsByRegion.set(region, steps);
     allChains.push(...splitStepsIntoNeighborChains(region.id, steps));
   }
 
@@ -681,7 +773,7 @@ async function main() {
       region,
       assembleProvinceRing(
         region.id,
-        boundaryStepsByProvince.get(region.id) ?? [],
+        boundaryStepsByRegion.get(region) ?? [],
         chainCache
       )
     )
