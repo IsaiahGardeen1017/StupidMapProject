@@ -1,33 +1,34 @@
 {
-    "id": "napoleon-prototype",
-    "title": "Napoleonic Prototype",
-    "startDate": "1805-09-01",
-    "endDate": "1806-01-15",
+  "id": "napoleon-prototype",
+  "title": "War of the First Coalition",
+  "startDate": "1792-4-20",
+  "endDate": "1797-01-17",
+  "projection": {
+    "id": "europe-lcc",
+    "label": "Europe Lambert Conformal Conic",
     "projection": {
-        "id": "europe-lcc",
-        "label": "Europe Lambert Conformal Conic",
-        "projection": {
-            "kind": "lambert-conformal-conic",
-            "centralMeridian": 10,
-            "latitudeOfOrigin": 52,
-            "standardParallel1": 43,
-            "standardParallel2": 62
-        },
-        "bounds": {
-            "minLongitude": -12,
-            "minLatitude": 35,
-            "maxLongitude": 35,
-            "maxLatitude": 62
-        },
-        "width": 1200,
-        "height": 900,
-        "padding": 40
+      "kind": "lambert-conformal-conic",
+      "centralMeridian": 10,
+      "latitudeOfOrigin": 52,
+      "standardParallel1": 43,
+      "standardParallel2": 62
     },
-    "participants": {},
-    "ownershipChanges": {},
-    "provinces": [],
-    "settlements": [],
-    "battles": [],
-    "events": [],
-    "sourceLinks": []
+    "bounds": {
+      "minLongitude": -12,
+      "minLatitude": 35,
+      "maxLongitude": 35,
+      "maxLatitude": 62
+    },
+    "width": 1200,
+    "height": 900,
+    "padding": 40
+  },
+  "participants": {},
+  "provinces": [],
+  "settlements": [],
+  "battles": [],
+  "events": [],
+  "sourceLinks": [],
+  "provinceChanges": {},
+  "factions": {}
 }

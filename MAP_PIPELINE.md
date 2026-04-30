@@ -131,13 +131,13 @@ Converted province geometry JSON:
 World metadata JSON:
 [data/derived/world-data.json](/C:/MyProjectsC/StupidMapProject/data/derived/world-data.json)
 
-Factions JSON:
-[data/derived/factions.json](/C:/MyProjectsC/StupidMapProject/data/derived/factions.json)
+Participants JSON:
+[data/derived/participants.json](/C:/MyProjectsC/StupidMapProject/data/derived/participants.json)
 
-Ownership changes JSON:
-[data/derived/ownership-changes.json](/C:/MyProjectsC/StupidMapProject/data/derived/ownership-changes.json)
+Province changes JSON:
+[data/derived/province-changes.json](/C:/MyProjectsC/StupidMapProject/data/derived/province-changes.json)
 
-The app merges `world-data.json`, `generated-provinces.json`, `factions.json`, and `ownership-changes.json` automatically at runtime.
+The app merges `world-data.json`, `generated-provinces.json`, `participants.json`, and `province-changes.json` automatically at runtime.
 
 ## Current limitations
 

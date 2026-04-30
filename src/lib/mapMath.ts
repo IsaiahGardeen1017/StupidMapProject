@@ -6,7 +6,7 @@ import type {
   ProvinceGeometry,
   ProvincePolygon,
   ProvinceId,
-  ProvinceOwnerRecord
+  ProvinceParticipantRecord
 } from "../DataTypes";
 import { MAP_RENDER_CONFIG } from "../global-configs";
 import { dateStringToNumber } from "./dateMath";
@@ -15,12 +15,12 @@ export function projectDateToNumber(date: DateString): number {
   return dateStringToNumber(date);
 }
 
-export function getOwnerRecordAtDate(
-  timeline: ProvinceOwnerRecord[],
+export function getParticipantRecordAtDate(
+  timeline: ProvinceParticipantRecord[],
   selectedDate: DateString
-): ProvinceOwnerRecord | undefined {
+): ProvinceParticipantRecord | undefined {
   const selectedTime = projectDateToNumber(selectedDate);
-  let activeRecord: ProvinceOwnerRecord | undefined;
+  let activeRecord: ProvinceParticipantRecord | undefined;
 
   for (const record of timeline) {
     if (projectDateToNumber(record.startDate) <= selectedTime) {
@@ -39,15 +39,16 @@ export function getProvinceFill(
   selectedDate: DateString,
   participants: Record<string, Participant>
 ): string {
-  const record = getOwnerRecordAtDate(
-    mapData.ownershipChanges[provinceId] ?? [],
+  const record = getParticipantRecordAtDate(
+    mapData.provinceChanges[provinceId] ?? [],
     selectedDate
   );
   if (!record) {
     return MAP_RENDER_CONFIG.unownedProvinceFill;
   }
 
-  const controllingParticipantId = record.occupierId ?? record.ownerId;
+  const controllingParticipantId =
+    record.occupyingParticipantId ?? record.participantId;
   if (!controllingParticipantId) {
     return MAP_RENDER_CONFIG.unownedProvinceFill;
   }
@@ -56,16 +57,16 @@ export function getProvinceFill(
   return participant?.color ?? MAP_RENDER_CONFIG.unownedProvinceFill;
 }
 
-export function getProvinceOwnerIdAtDate(
+export function getProvinceParticipantIdAtDate(
   provinceId: ProvinceId,
   mapData: MapData,
   selectedDate: DateString
 ) {
-  const record = getOwnerRecordAtDate(
-    mapData.ownershipChanges[provinceId] ?? [],
+  const record = getParticipantRecordAtDate(
+    mapData.provinceChanges[provinceId] ?? [],
     selectedDate
   );
-  return record?.occupierId ?? record?.ownerId;
+  return record?.occupyingParticipantId ?? record?.participantId;
 }
 
 export function getPolygonPath(points: ProjectedPoint[]): Path2D {

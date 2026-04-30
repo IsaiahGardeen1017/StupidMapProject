@@ -1,33 +1,36 @@
 import type {
+  Faction,
   MapData,
-  OwnershipChangesByProvince,
+  ProvinceChangesByProvince,
   Participant,
   ProvinceData,
   ProvinceGeometry,
   ProvinceId,
-  ProvinceOwnerRecord
+  ProvinceParticipantRecord
 } from "../DataTypes";
 import { getProvincePolygons } from "./mapMath";
 import factionsData from "../../data/derived/factions.json";
+import participantsData from "../../data/derived/participants.json";
 import generatedProvinceData from "../../data/derived/generated-provinces.json";
-import ownershipChangesData from "../../data/derived/ownership-changes.json";
+import provinceChangesData from "../../data/derived/province-changes.json";
 import worldData from "../../data/derived/world-data.json";
 
 type RawProvinceGeometry = ProvinceGeometry & {
   name?: string;
-  ownerTimeline?: ProvinceOwnerRecord[];
+  participantTimeline?: ProvinceParticipantRecord[];
 };
 
-type RawProvinceData = Omit<ProvinceData, "geometry" | "ownerTimeline"> & {
+type RawProvinceData = Omit<ProvinceData, "geometry" | "participantTimeline"> & {
   geometry: ProvinceGeometry;
-  ownerTimeline?: ProvinceOwnerRecord[];
+  participantTimeline?: ProvinceParticipantRecord[];
 };
 
 type RawProvinceLike = RawProvinceData | RawProvinceGeometry;
 
-type RawMapData = Omit<MapData, "participants" | "ownershipChanges" | "provinces"> & {
+type RawMapData = Omit<MapData, "participants" | "factions" | "provinceChanges" | "provinces"> & {
   participants?: Record<string, Participant>;
-  ownershipChanges?: OwnershipChangesByProvince;
+  factions?: Record<string, Faction>;
+  provinceChanges?: ProvinceChangesByProvince;
   provinces: RawProvinceLike[];
 };
 
@@ -51,7 +54,7 @@ function normalizeProvince(province: RawProvinceLike, index: number) {
       id: province.id ?? province.geometry.id,
       name: province.name ?? `Province ${index + 1}`,
       geometry: province.geometry,
-      ownerTimeline: province.ownerTimeline ?? []
+      participantTimeline: province.participantTimeline ?? []
     };
   }
 
@@ -60,17 +63,17 @@ function normalizeProvince(province: RawProvinceLike, index: number) {
       id: province.id,
       name: province.name ?? `Province ${index + 1}`,
       geometry: province,
-      ownerTimeline: province.ownerTimeline ?? []
+      participantTimeline: province.participantTimeline ?? []
     };
   }
 
   return undefined;
 }
 
-function normalizeOwnershipChanges(
-  ownershipChanges: OwnershipChangesByProvince
-): OwnershipChangesByProvince {
-  const normalizedEntries = Object.entries(ownershipChanges).map(
+function normalizeProvinceChanges(
+  provinceChanges: ProvinceChangesByProvince
+): ProvinceChangesByProvince {
+  const normalizedEntries = Object.entries(provinceChanges).map(
     ([provinceId, changes]) => [
       provinceId,
       [...changes].sort((left, right) =>
@@ -79,35 +82,50 @@ function normalizeOwnershipChanges(
     ]
   );
 
-  return Object.fromEntries(normalizedEntries) as OwnershipChangesByProvince;
+  return Object.fromEntries(normalizedEntries) as ProvinceChangesByProvince;
+}
+
+function normalizeFactions(factions: Record<string, Faction>): Record<string, Faction> {
+  return Object.fromEntries(
+    Object.entries(factions).map(([factionId, faction]) => [
+      factionId,
+      {
+        ...faction,
+        memberTimeline: [...(faction.memberTimeline ?? [])].sort((left, right) =>
+          left.joinDate.localeCompare(right.joinDate)
+        )
+      }
+    ])
+  );
 }
 
 function hydrateProvinceTimelines(
   provinces: ProvinceData[],
-  ownershipChanges: OwnershipChangesByProvince
+  provinceChanges: ProvinceChangesByProvince
 ) {
   return provinces.map((province) => ({
     ...province,
-    ownerTimeline: ownershipChanges[province.id] ?? []
+    participantTimeline: provinceChanges[province.id] ?? []
   }));
 }
 
 function normalizeMapData(rawMapData: RawMapData): MapData {
-  const normalizedOwnershipChanges = normalizeOwnershipChanges(
-    rawMapData.ownershipChanges ?? {}
+  const normalizedProvinceChanges = normalizeProvinceChanges(
+    rawMapData.provinceChanges ?? {}
   );
 
   return {
     ...rawMapData,
     participants: rawMapData.participants ?? {},
-    ownershipChanges: normalizedOwnershipChanges,
+    factions: normalizeFactions(rawMapData.factions ?? {}),
+    provinceChanges: normalizedProvinceChanges,
     provinces: hydrateProvinceTimelines(
       rawMapData.provinces
         .map((province, index) =>
           normalizeProvince(province as RawProvinceLike, index)
         )
         .filter((province): province is ProvinceData => Boolean(province)),
-      normalizedOwnershipChanges
+      normalizedProvinceChanges
     )
   };
 }
@@ -184,7 +202,8 @@ function mergeMapData(
   rawWorldData: RawMapData,
   rawGeneratedProvinceData: RawProvinceLike[],
   rawParticipants: Record<string, Participant>,
-  rawOwnershipChanges: OwnershipChangesByProvince
+  rawFactions: Record<string, Faction>,
+  rawProvinceChanges: ProvinceChangesByProvince
 ): MapData {
   const normalizedWorldData = normalizeMapData(rawWorldData);
   const normalizedGeneratedProvinces = rawGeneratedProvinceData
@@ -199,10 +218,14 @@ function mergeMapData(
     Object.keys(rawParticipants).length > 0
       ? rawParticipants
       : normalizedWorldData.participants;
-  const ownershipChanges = normalizeOwnershipChanges(
-    Object.keys(rawOwnershipChanges).length > 0
-      ? rawOwnershipChanges
-      : normalizedWorldData.ownershipChanges
+  const factions =
+    Object.keys(rawFactions).length > 0
+      ? normalizeFactions(rawFactions)
+      : normalizedWorldData.factions;
+  const provinceChanges = normalizeProvinceChanges(
+    Object.keys(rawProvinceChanges).length > 0
+      ? rawProvinceChanges
+      : normalizedWorldData.provinceChanges
   );
 
   const provinces =
@@ -219,8 +242,9 @@ function mergeMapData(
   return {
     ...normalizedWorldData,
     participants,
-    ownershipChanges,
-    provinces: hydrateProvinceTimelines(provinces, ownershipChanges)
+    factions,
+    provinceChanges,
+    provinces: hydrateProvinceTimelines(provinces, provinceChanges)
   };
 }
 
@@ -228,31 +252,33 @@ export function createInitialWorldMapData() {
   return mergeMapData(
     worldData as RawMapData,
     generatedProvinceData as RawProvinceLike[],
-    factionsData as Record<string, Participant>,
-    ownershipChangesData as OwnershipChangesByProvince
+    participantsData as Record<string, Participant>,
+    factionsData as Record<string, Faction>,
+    provinceChangesData as ProvinceChangesByProvince
   );
 }
 
 export function syncProvinceTimelines(mapData: MapData): MapData {
-  const ownershipChanges = normalizeOwnershipChanges(mapData.ownershipChanges);
+  const provinceChanges = normalizeProvinceChanges(mapData.provinceChanges);
   return {
     ...mapData,
-    ownershipChanges,
-    provinces: hydrateProvinceTimelines(mapData.provinces, ownershipChanges)
+    factions: normalizeFactions(mapData.factions),
+    provinceChanges,
+    provinces: hydrateProvinceTimelines(mapData.provinces, provinceChanges)
   };
 }
 
-export function applyOwnershipChange(
+export function applyProvinceChange(
   mapData: MapData,
   provinceId: ProvinceId,
-  change: ProvinceOwnerRecord
+  change: ProvinceParticipantRecord
 ) {
   return syncProvinceTimelines({
     ...mapData,
-    ownershipChanges: {
-      ...mapData.ownershipChanges,
+    provinceChanges: {
+      ...mapData.provinceChanges,
       [provinceId]: [
-        ...(mapData.ownershipChanges[provinceId] ?? []).filter(
+        ...(mapData.provinceChanges[provinceId] ?? []).filter(
           (entry) => entry.startDate !== change.startDate
         ),
         change
@@ -261,16 +287,16 @@ export function applyOwnershipChange(
   });
 }
 
-export function deleteOwnershipChangeAtDate(
+export function deleteProvinceChangeAtDate(
   mapData: MapData,
   provinceId: ProvinceId,
   startDate: string
 ) {
   return syncProvinceTimelines({
     ...mapData,
-    ownershipChanges: {
-      ...mapData.ownershipChanges,
-      [provinceId]: (mapData.ownershipChanges[provinceId] ?? []).filter(
+    provinceChanges: {
+      ...mapData.provinceChanges,
+      [provinceId]: (mapData.provinceChanges[provinceId] ?? []).filter(
         (entry) => entry.startDate !== startDate
       )
     }
