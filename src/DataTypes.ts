@@ -70,22 +70,22 @@ export type ProvinceGeometry = {
   };
 };
 
-export type ProvinceOwnerRecord = {
+export type ProvinceParticipantRecord = {
   startDate: DateString;
-  ownerId?: string;
-  occupierId?: string;
+  participantId?: string;
+  occupyingParticipantId?: string;
 };
 
-export type OwnershipChangesByProvince = Record<
+export type ProvinceChangesByProvince = Record<
   ProvinceId,
-  ProvinceOwnerRecord[]
+  ProvinceParticipantRecord[]
 >;
 
 export type ProvinceData = {
   id: ProvinceId;
   name: string;
   geometry: ProvinceGeometry;
-  ownerTimeline: ProvinceOwnerRecord[];
+  participantTimeline: ProvinceParticipantRecord[];
 };
 
 export type Participant = {
@@ -94,6 +94,18 @@ export type Participant = {
   color: string;
   flagAsset?: string;
   leader?: string;
+};
+
+export type FactionMembershipRecord = {
+  participantId: string;
+  joinDate: DateString;
+  leaveDate?: DateString;
+};
+
+export type Faction = {
+  id: string;
+  name: string;
+  memberTimeline: FactionMembershipRecord[];
 };
 
 export type SettlementKind = "town" | "city" | "capital" | "fort";
@@ -146,7 +158,8 @@ export type MapData = {
   endDate: DateString;
   projection: ProjectionDefinition;
   participants: Record<string, Participant>;
-  ownershipChanges: OwnershipChangesByProvince;
+  factions: Record<string, Faction>;
+  provinceChanges: ProvinceChangesByProvince;
   provinces: ProvinceData[];
   settlements: SettlementRecord[];
   battles: BattleData[];

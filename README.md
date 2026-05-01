@@ -23,7 +23,7 @@ The repo currently includes:
 - downloaded `GeoNames` settlement source files
 - scripts to generate overlay SVGs and PNGs for multiple tracing layers
 - a script to convert a province ID bitmap into generated province geometry JSON
-- an in-memory editor for ownership changes and factions
+- an in-memory editor for province changes and participants
 
 ## Requirements
 
@@ -151,16 +151,16 @@ The app now combines two files automatically:
 
 - [data/derived/world-data.json](/C:/MyProjectsC/StupidMapProject/data/derived/world-data.json)
 - [data/derived/generated-provinces.json](/C:/MyProjectsC/StupidMapProject/data/derived/generated-provinces.json)
-- [data/derived/factions.json](/C:/MyProjectsC/StupidMapProject/data/derived/factions.json)
-- [data/derived/ownership-changes.json](/C:/MyProjectsC/StupidMapProject/data/derived/ownership-changes.json)
+- [data/derived/participants.json](/C:/MyProjectsC/StupidMapProject/data/derived/participants.json)
+- [data/derived/province-changes.json](/C:/MyProjectsC/StupidMapProject/data/derived/province-changes.json)
 
 `world-data.json` is the base world object.
 
 `generated-provinces.json` is the geometry output from the converter.
 
-`factions.json` is merged into the `participants` section at runtime.
+`participants.json` is merged into the `participants` section at runtime.
 
-`ownership-changes.json` is merged into the `ownershipChanges` section at runtime.
+`province-changes.json` is merged into the `provinceChanges` section at runtime.
 
 You no longer need to paste converted province geometry into the world data file manually.
 
@@ -168,10 +168,10 @@ You no longer need to paste converted province geometry into the world data file
 
 The app now edits an in-memory merged world object only. There is no persistence layer yet.
 
-- Use the `Ownership` tab to select a faction or `No owner`, then click provinces on the map.
-- Use the `Copy Ownership` button to copy just the `ownershipChanges` section.
-- Use the `Factions` tab to add, delete, rename, and recolor participants.
-- Use the `Copy Factions` button to copy just the `participants` section.
+- Use the `Ownership` tab to select a participant or `No participant`, then click provinces on the map.
+- Use the `Copy Province Changes` button to copy just the `provinceChanges` section.
+- Use the `Participants` tab to add, delete, rename, and recolor participants.
+- Use the `Copy Participants` button to copy just the `participants` section.
 
 You can then paste those copied sections into the derived JSON files yourself.
 

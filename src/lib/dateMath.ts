@@ -17,7 +17,12 @@ const MONTH_NAMES = [
 ] as const;
 
 export function dateStringToNumber(date: DateString): number {
-  return Date.parse(`${date}T00:00:00Z`);
+  const [yearText, monthText, dayText] = date.split("-");
+  const year = Number(yearText);
+  const month = Number(monthText);
+  const day = Number(dayText);
+
+  return Date.UTC(year, month - 1, day);
 }
 
 export function daysBetween(startDate: DateString, endDate: DateString) {

@@ -1,0 +1,86 @@
+{
+    "participant-1": {
+        "id": "participant-1",
+        "name": "France",
+        "color": "#1c7bff",
+        "flagAsset": "French Republic.webp"
+    },
+    "participant-2": {
+        "id": "participant-2",
+        "name": "Dutch Republic",
+        "color": "#ff9d1c",
+        "flagAsset": "DutchRepublic.png"
+    },
+    "participant-3": {
+        "id": "participant-3",
+        "name": "Great Britain",
+        "color": "#9c0606",
+        "flagAsset": "GreatBrtitain.webp"
+    },
+    "participant-4": {
+        "id": "participant-4",
+        "name": "Spain",
+        "color": "#d4cf3f",
+        "flagAsset": "Spain.webp"
+    },
+    "participant-5": {
+        "id": "participant-5",
+        "name": "Papal States",
+        "color": "#e9edc7",
+        "flagAsset": "Pope.png"
+    },
+    "participant-6": {
+        "id": "participant-6",
+        "name": "Portugal",
+        "color": "#537341",
+        "flagAsset": "Portugal.png"
+    },
+    "participant-7": {
+        "id": "participant-7",
+        "name": "Naples",
+        "color": "#6d558a",
+        "flagAsset": "Naples.png"
+    },
+    "participant-8": {
+        "id": "participant-8",
+        "name": "Austria",
+        "color": "#d8ebd8",
+        "flagAsset": "HreAustria.png"
+    },
+    "participant-9": {
+        "id": "participant-9",
+        "name": "Piedmont-Sardinia",
+        "color": "#6fd6b1",
+        "flagAsset": "SardiniaPeidmont.png"
+    },
+    "participant-10": {
+        "id": "participant-10",
+        "name": "Prussia",
+        "color": "#21629c",
+        "flagAsset": "Prussia.png"
+    },
+    "participant-11": {
+        "id": "participant-11",
+        "name": "Hanover",
+        "color": "#d97e96",
+        "flagAsset": "Hanover.webp"
+    },
+    "participant-12": {
+        "id": "participant-12",
+        "name": "Saxony",
+        "color": "#519940",
+        "flagAsset": "Saxony.png"
+    },
+    "participant-13": {
+        "id": "participant-13",
+        "name": "Bavaria",
+        "color": "#24c0e3",
+        "flagAsset": "Bavaria.png"
+    },
+    "participant-14": {
+        "id": "participant-14",
+        "name": "Hesse-Kassel",
+        "color": "#a79adb",
+        "flagAsset": "Hesse-Kassel.png"
+    }
+}
